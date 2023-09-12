@@ -2,4 +2,4 @@
 Ejemplos de código para el Máster de IA en Sanidad de CEMP
 
 # Clases Módulo 3
-https://1drv.ms/u/s!ArHyopNh5uWClrM9JbgocjC6NtuUsg?e=huNdzW
+https://mibiolab.synology.me/Drive/d/s/sZKx9Lyoa0QCkpiaqIURjbTePPl4Nnph/sUUeDRC9FMX6sMAh5PtBKsGKRmW_HXwR-jLzgAd9rvgo
