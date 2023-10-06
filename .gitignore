@@ -128,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/Master_IA_Sanidad.iml
+.idea/modules.xml
+.idea/workspace.xml
