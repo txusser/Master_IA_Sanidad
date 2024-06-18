@@ -7,8 +7,6 @@ import openai
 openai.base_url = "http://localhost:1234/v1/"
 openai.default_headers = {"x-foo": "true"}
 openai.api_key = "..."
-# client = OpenAI(api_key="sk-proj-8MLXIAqHDaUPSdGjEAFYT3BlbkFJf6Awvsmv9PfOOpGAyDW7")
-# assistantID = "asst_KFiIWwwb0xGwOfcTI1mKrOKS"
 
 ROLE = """
 Eres un experto procesador de texto que prepara textos para su uso en machine learning y NLP. 
