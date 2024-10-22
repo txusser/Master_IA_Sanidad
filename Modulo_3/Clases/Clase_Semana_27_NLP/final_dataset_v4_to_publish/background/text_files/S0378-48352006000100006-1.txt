@@ -1,0 +1,17 @@
+Varón de 49 años con clínica de tos, escasa expectoración y aumento de su disnea que de ser a máximos esfuerzos se hizo a moderados esfuerzos con 3 semanas de evolución.
+Antecedentes personales: exfumador desde hace 5 años (1.5 paq/día), hipertensión arterial, hipertensión ocular, operado de fractura de fémur y tibia hace 13 años complicada con osteomielitis, herniorrafia umbilical y apendicitis.
+Exploración física: no fiebre, no dolor torácico, eupneico en reposo, no síndrome constitucional, disminución de la ventilación en el hemitórax izquierdo. Peso=73,4 Kg, altura=1,69 m.
+Analítica: leucocitosis leve (11.3x10^9/l) y ligera neutrofilia (74.7%), bioquímica y coagulación: normales. Gasometría arterial: pH=7.41, pO2=74.0 mmHg, pCO2=36.3 mmHg. Rx-TC: masa de contornos regulares de 10.8 x 8.4 cm en el mediastino anterior izquierdo con extensión al hilio ipsilateral comprimiéndolo, derrame pleural izquierdo moderado. Fibrobroncoscopia: no tumoración endobronquial, hiperemia de la mucosa difusa. Pruebas de función respiratoria: FEV1=2010 l.(59%), FVC=2290 l.(54.8%), índice de Tiffenau=87.8%. PAAF: células epiteliales con discreto grado de atipia y abundantes linfocitos, presencia de histiocitos, células gigantes multinucleadas y eosinófilos, algunas áreas de necrosis (citología sugerente de timoma).
+El paciente fue sometido a biopsia por toracoscopia: nódulos en la pleura parietal y diafragmática, nódulos pulmonares en LII (informe de anatomía patológica intraoperatoria de tejido linfoide y material fibrohemorrágico), evacuación de 2000 ml de derrame pleural y observación de una masa tumoral en mediastino anterior.
+Los resultados anatomopatológicos definitivos fueron:
+- Citología del líquido pleural: hiperplasia mesotelial reactiva
+- Biopsia de pleura parietal y diafragmática: tejido fibroso hialinizado, tejido fibroso y muscular
+- Biopsia de la masa mediastínica: células epiteliales positivas para citoqueratina y CAM 5.2, células linfoides positivas para CD-3 compatibles con el diagnóstico de timoma cortical.
+
+Por tratarse de un timoma invasor (estadío-III de Massaoka), se planeó una tratamiento con Qt neoadyuvante, cirugía y posterior radioterapia.
+La Qt consistió en: adriamicina 50 mg/m 2 y CDDP 100 mg/m2 en tres ciclos con intervalo de 21 días. En el segundo y tercer ciclos se disminuyó la dosis de CDDP a 75 mg/m2 por vómitos y somnolencia.
+En la TC de control tras la Qt se observó una reducción del tamaño aproximadamente en un 25% a expensas de la porción periférica manteniendo la prolongación hacia el hilio pulmonar: 7.9 x 6.3 cm infiltrando la pleura mediastínica y contactando con la arteria pulmonar izquierda.
+En la cirugía se realizó la extirpación en bloque del timoma junto a una neumonectomía izquierda y linfadenectomía mediastínica englobando los ganglios de las áreas 5, 6, 7, 8 y 9. Los nervios frénico y vago izquierdos fueron seccionados por invasión tumoral.
+En el postoperatorio inmediato el paciente presentó una anemia bien tolerada sin precisar transfusión y fue dado de alta al quinto día de la intervención.
+Los resultados de la anatomía patológica fueron: todas las adenopatías libres de tumor, se confirma el diagnóstico previo de timoma y un índice de proliferación tumoral del 20%.
+

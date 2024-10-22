@@ -1,0 +1,13 @@
+A 6-year-old girl with chronic renal failure secondary to bilateral grade 5 vesicoureteral reflux with hydronephrosis and severe malnutrition.
+He received prophylaxis for recurrent UTI with cotrimoxazole and had a history of exposure to several antibacterial agents in recent months (cefuroxime, ceftriaxone and ciprofloxacin).
+She was admitted to the ICU for acute pyelonephritis and acute chronic renal failure.
+The urine culture performed on admission was positive for E.coli ( UTI1 strain) sensitive to ampicillin, cephalothin, cefuroxime, ceftriaxone and gentamicin; resistant to ciprofloxacin and cotrimazol.
+She was treated with cefuroxime iv 150 mg/kg/day.
+On the sixth day she presented with urinary sepsis.
+Treatment was switched to ceftriaxone IV to 100 mg/ kg/day prior to uroculture.
+At 48 h the patient remained febrile.
+Urocultiva was reported with > 105 CFU/ml of E. coli ( UTI2 strain) sensitive to imipenem, meropenem, amikacin and gentamicin, cephalothin resistant to ampicillin.
+Intravenous meropenem 60 mg/kg/day was initiated, with good clinical and urocultive control evolution, intra-treatment, without bacterial development.
+1.
+Molecular typification and resistance mechanism: Median EFCP confirmed that both strains were genetically indistinguishable.
+The UTI2 strain presented a SHV-5 ESBL encoded in a conjugative plasmid of the IncFIB group, absent in the UTI1 strain.

@@ -1,0 +1,11 @@
+A 7-year-old boy attended the consultation of his primary care pediatrician for presenting with fever, cough and mucus.
+The patient was diagnosed with upper airway catarrh, aiming at a systolic murmur grade 2-3/6, audible in several foci.
+As the child is asymptomatic from the cardiovascular point of view, without other exploratory pathological findings and considering that often increase in intensity or heart murmurs appear month in the context of infectious conditions, a fever was later diagnosed.
+Your doctor then notes the persistence of the systolic murmur; in this case it is classified as grade 2/6 ejection systolic and, although heard in various foci, it is seen with greater intensity in the left intercostal space (2oster).
+After performing an ECG, she was referred to Pediatric Cardiology due to her suspected diagnosis.
+1.
+What is the interpretation of the ECG?
+And the suspected diagnosis of the pediatrician? (review the ECG before reading again).
+The ECG showed a regular sinus rhythm at 80 beats per minute, with no abnormalities in P wave or repolarization (ST segment and T wave).
+However, the axis of the QRS complex presents right deviation (150o) and a RSR` pattern is observed in right precordial leads (V1-V2) with normal duration of the QRS complex, called incomplete bundle branch block (BIRD).
+These ECG findings, together with the presence of a systolic murmur of maximum intensity in the pulmonary focus and with non-functional characteristics, suggest the existence of an ostium secundum atrial septal defect (ASD).

@@ -1,0 +1,16 @@
+A 17-day-old newborn with no perinatal history to be highlighted.
+Eleven days after admission to the ICU for RSV bronchiolitis, she developed fever, phlebitis in one arm through a peripheral venous line, and painful swelling, with redness and heat in the second joint.
+Empirical antibacterial treatment with meropenem 60 mg/kg/day and vancomycin 40 mg/kg/day for 72 h was initiated with a diagnosis of chondrocostal osteoarthritis.
+Blood cultures were positive for Klebsiella pneumoniae sensitive to oxyiminocephalosporins, amikacin, gentamicin, meropenem and imipenem.
+Vancomycin was discontinued and continued with meropenem for 14 days, with negative blood cultures on day 7 of therapy.
+I felt feverish and local signs but continued to be limited to right hip rotation.
+With the diagnosis of probable hip osteoarthritis, joint puncture and surgical drainage were performed, which resulted in purulent material.
+At that time, amikacin 15 mg/kg/day was added due to the history of K. pneumoniae isolated from the blood culture.
+Culture of the articular fluid yielded K. pneumoniae (OA1 strain) with the same susceptibility profile as the strain isolated in blood.
+Since fever persisted, successive surgical silks were performed, being isolated 17 days after the first isolate (OA1), K. pneumoniae (OA2 strain) resistant to oxyiminocephalosporins, gentamicin.
+Blood cultures performed during evolution were negative, maintaining the same antibacterial scheme.
+Immunological evaluation was normal.
+After multiple surgical debridements, 35 days of fever and 45 days of antibacterial treatment were discharged with good subsequent evolution.
+Molecular titration and resistance mechanism: EFCP analysis showed that OA1 and OA2 strains were not genetically related.
+Unlike strain OA1, OA2 presented the gene for ESBL CTX-M-9 in a non-conjugative IncHI1-HI2 plasmid.
+In addition, OA2 showed the aac(6')1b gene, which confers resistance to amikacin and a class 1 ion with the aadB-aadA2 genes in the variable region, responsible for resistance.

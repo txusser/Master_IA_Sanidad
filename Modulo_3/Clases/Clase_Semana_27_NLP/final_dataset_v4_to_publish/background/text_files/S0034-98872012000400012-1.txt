@@ -1,0 +1,24 @@
+Paciente hombre de 67 años, con antecedentes de etilismo crónico. Cinco semanas antes del ingreso presentó súbitamente hipoacusia bilateral. El día del ingreso presentó paresia braquio-crural derecha de instalación brusca, asociada a compromiso cualitativo de conciencia, por lo cual fue llevado a Urgencia del Hospital Dr. Sótero del Río.
+Al examen físico se constató vigil, desorientado, con Glasgow 14 (V4M6O4); hemodinámicamente estable, afebril, polipneico (30/min); bien hidratado y perfundido, sin cianosis, muy enflaquecido. Examen pulmonar con crepitaciones bibasales simétricas; corazón con ruidos rítmicos en dos tiempos, sin soplos; abdomen blando, depresible, hígado palpable a 2 cm bajo reborde costal y bazo palpable 10 cm bajo reborde costal de consistencia normal. El examen neurológico mostró déficit motor braquio-crural derecho (M3 miembro superior e inferior), con reflejo plantar extensor ipsilateral, sin signos meníngeos.
+Exámenes de laboratorio
+Hcto: 32,4%; Leucocitos: 800.000 x mm3 (12% baciliformes, 8% juveniles, 15% mielocitos); Plaquetas: 135.000 x mm3; Creatininemia: 1,63 mg/ dL; BUN: 13 mg/dL; VHS: 3 mm/h; LDH: 2.155 U/L (Rango normal Laboratorio 135-214 U/L); Ácido úrico: 12 mg/dL; Calcio: 8,1 mEq/L; INR: 1,49 TTPK: 32 seg.
+Radiografía de Tórax: infiltrado intersticial bilateral de predominio basal; sin cardiomegalia.
+Gases arteriales de ingreso
+PaO2: 3 mmHg
+F1O2 : 0,21
+SaO2: 1%
+PaCO2: 53 mmHg
+pH: 7,20
+HCO3: 20 mEq/L
+Debido a la marcada alteración gasométrica, discordante con la clínica y la oximetría de pulso (93% con FiO2 ambiental) se repitió toma de gases arteriales, trasladando la muestra en hielo en un tiempo cercano a los 3 minutos, obteniéndose:
+Gases arteriales de control
+PaO2: 65 mmHg
+SaO2: 93%
+PaCO2: 33 mmHg
+pH: 7,20
+HCO3: 19,4 mEq/L
+se interpretaron los resultados de los gases arteriales como espurios, secundarios a hiperleucocitosis, por lo cual no se consideraron para definir el manejo del paciente.
+Se hospitalizó con los diagnósticos de probable leucemia mieloide crónica (LMC), hipoacusia y hemiparesia secundaria a síndrome de hiperviscosidad, iniciando tratamiento con hidroxiurea e hidratación endovenosa con suero fisiológico, presentando mejoría cualitativa de conciencia.
+El recuento leucocitario descendió progresivamente, con mejoría de los niveles de PaO2 y SaO2 proporcionales al descenso de leucocitos, alcanzando niveles normales al 10° día. Es importante destacar que sus valores de glicemia y kalemia se mantuvieron normales durante toda la hospitalización. Se demostró translocación cromosómica 9:22, confirmándose el diagnóstico de LMC.
+
+El paciente evolucionó consciente, orientado, en Glasgow 15, persistiendo con hipoacusia severa bilateral y paresia braquio-crural derecha, sin cambios respecto al ingreso. Se mantiene con tratamiento para LMC con hidroxiurea, indicándose el alta hospitalaria con plan de control ambulatorio.

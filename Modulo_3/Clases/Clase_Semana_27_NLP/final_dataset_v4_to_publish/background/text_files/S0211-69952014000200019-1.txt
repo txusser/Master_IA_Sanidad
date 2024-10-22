@@ -1,0 +1,18 @@
+Paciente de 44 años, enfermera, sin antecedentes de interés salvo hipertensión (HTA) de 10 años de evolución, en tratamiento con enalapril 30mg, nicardipino 10mg e hidroclorotiazida 25mg, sin monitorización periódica de las cifras de presión arterial (PA). Consulta por presentar, desde hace 4-5 meses, cifras de PA elevadas (160-180/95-100mmHg) con crisis hipertensivas frecuentes que motivaban ingreso en Urgencias. No presenta ingesta de antiinflamatorios no esteroideos ni historia de litiasis o infección urinaria, aunque sí dolor inguinal izquierdo crónico que atribuía a dismenorrea y para el que no se realizó ningún estudio. A la exploración destaca: índice de masa corporal 29kg/m2, PA 167/94mmHg, 87 lpm, auscultación cardiopulmonar normal, abdomen globuloso y mínimo edema maleolar bilateral.
+Se realizaron las siguientes exploraciones complementarias, cuyos resultados fueron:
+- Monitorización ambulatoria de la PA (MAPA): promedio diurno 151/80mmHg, 61lpm, presión del pulso 70,6mmHg; promedio nocturno 137/70mmHg, 57lpm, presión del pulso 66,8mmHg. PA máxima diurna 183/99mmHg, nocturna 171/95mmHg. Patrón non-dipper.
+- Electrocardiograma: ritmo sinusal 72lpm; Sokolow <35mm; inversión asimétrica de onda T.
+- Ecocardiograma: septo interventricular 12mm.
+- Radiografía de tórax normal.
+- Fondo de ojo normal.
+- Ecoabdomen: riñón derecho (RD) 13cm diferenciación normal; riñón izquierdo (RI) 25cm hidronefrótico, sin diferenciación corticomedular.
+- Analítica: hemograma, perfil lipídico-hepático, úrico, iones y glucemia normales. Urea 31mg/dl, creatinina 0,79mg/dl, filtrado glomerular (MDRD-4) >60ml/min/1,73m2.
+- Actividad de renina plasmática (ARP) 1,35ng/ml/h (rango normal radioinmunoensayo 0,2-3,3ng/ml/h).
+- Orina: 0,11g/24h proteinuria, creatinina 161mg/d, Na 241mEq/l, excreción fraccional de Na 0,78%. Sedimento: 5 hematíes/campo, 30 leucos/campo, nitritos negativo; aclaramiento de creatinina 113ml/min.
+- Angio-TAC (tomografía axial computarizada): litiasis y ureterohidronefrosis izquierda máxima que provoca tracción de la arteria renal ipsilateral.
+
+- Gammagrafía-dimercaptosuccínico-tecnecio99: RD 100%, RI 0%.
+Se diagnostica de HTA grado 2 de riesgo moderado, de etiología en principio renovascular y anulación funcional del RI, y se decide nefrectomía laparoscópica izquierda que cursa sin incidencias. La anatomía patológica de la pieza informó de riñón hidronefrótico de etiología litiásica, pielonefritis crónica en fase de agudización, pielonefritis aguda fibrinohemorrágica, quistes uriníferos y ureteritis crónica erosiva.
+
+La evolución desde el punto de vista renal fue favorable. El aclaramiento renal y la creatinina se deterioraron leve y transitoriamente tras la nefrectomía, volviendo a sus niveles basales en menos de 15 días. La PA descendió significativamente. El renograma posintervención reveló un RD con buena vascularización y capacidad de captación del radiotrazador, así como adecuada respuesta al diurético. Las imágenes secuenciales y la curva renográfica reflejaron una eliminación adecuada, sin ectasias y sin comportamiento obstructivo. En la actualidad, tras tres años de la intervención, la PA permanece bien controlada (automedida y MAPA) con lecarnidipino 20mg/día (10mg en verano), y presenta 1,1mg/dl de creatinina, aclaramiento de 71ml/min y proteinuria de 0,09g/día. No ha vuelto a presentar dolor inguinal.
+

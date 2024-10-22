@@ -1,0 +1,22 @@
+Presentamos el caso de un varón de 32 años, sin alergias medicamentosas conocidas, con el único antecedente personal de reumatismo poliarticular en la infancia. Ingresa desde las urgencias por dolor intenso en hemitórax izquierdo, que no se modifica con los movimientos respiratorios, ni con los cambios posturales, sin tos productiva, ni disnea, y sin otra sintomatología acompañante.
+En la exploración física destaca una pequeña adenopatía laterocervical derecha inespecífica, con una hepatomegalia de unos 3 cm desde el reborde costal, sin otros hallazgos de interés.
+Presentando las siguientes pruebas complementarias:
+PRUEBAS COMPLEMENTARIAS BÁSICAS
+Hemograma y frotis de sangre periférica: Hemoglobina 13,3 g/dl, Plaquetas 281.000/ul, Leucocitos 8.800/ul con 23% de segmentados, 1% cayados, 1% metamielocitos, 2% monocitos, 33% linfocitos (la mayoría de ellos de aspecto plasmocitoide), y 40% células plasmáticas, algunas de las cuales binucleadas de tamaño grande.
+Bioquímica: Creatinina 1,2 mg/dl, Urea 52 mg/dl, (aclaramiento de creatinina de 59 ml/min), proteínas totales 10,8 g/dl, calcio total 9,8 mg/dl, resto normal.
+Proteinograma: pico monoclonal en banda gamma.
+Coagulación: APTT 33,6 segundos, INR 1,35.
+Examen básico de orina: Proteínas positivo, con presencia de mucina en el sedimento.
+Radiografía de tórax: Pequeña imagen nodular calcificada en lóbulo inferior izquierdo, probable granuloma calcificado.
+PRUEBAS COMPLEMENTARIAS ESPECÍFICAS
+Inmunofenotipo en sangre periférica: El 45% del recuento leucocitario total presenta un inmunofenotipo anómalo: CD45+, CD38+, CD138+, CD56+, CD19-, CD20-, CD5, CD10-, CD23-, Cd79b-, sIg-.
+Aspirado de médula ósea: Presencia de células plasmáticas en una proporción del 50% de la celularidad total, de tamaño heterogéneo predominando elementos de talla intermedia. Frecuentes células binucleadas y trinucleadas.
+Biopsia de médula ósea: Infiltración intersticial multifocal del parénquima medular por células plasmáticas plasmoblásticas IG-Kappa. Plasmocitosis medular del 40-50%. Material amiloide negativo.
+Beta2-microglobulina: 7,3 mg/dl.
+Serie ósea: Sin evidencia de lesiones osteolíticas.
+Inmunoelectroforesis en suero: IgG 4.390 mg/dl, IgA 14,5mg/dl, IgM 4,17 mg/dl. Inmunofijación en suero: Paraproteína IgG-Kappa.
+Inmunoelectroforesis en orina: Proteinuria de cadenas ligeras (Bence-Jones) de 1.310 mg en 24 horas, para paraproteína IgG-Kappa y cadenas ligeras Kappa libres.
+Serología VHB,VHC,VIH: negativos.
+Ecografía abdominal: Hepatomegalia, sin lesiones focales hepatoesplénicas. No hay evidencia de adenopatías intrabdominales, ni líquido libre intraperitoneal, resto sin alteraciones.
+Diagnóstico: El paciente presenta un cuadro compatible con un mieloma múltiple en su variante leucemia de células plasmáticas primaria.
+Tratamiento: Dado la edad del paciente se decide trasplante autólogo de células progenitoras de sangre periférica. Para lo cual se inició quimioterapia de inducción con el esquema C-VAD.

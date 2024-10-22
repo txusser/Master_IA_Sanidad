@@ -1,0 +1,33 @@
+An 83-year-old woman with a history of type 2 diabetes mellitus, good metabolic control, stage 5 chronic kidney disease with residual diuresis due to diabetic nephropathy, type 2 diabetes mellitus with good metabolic control, undergoing treatment for coronary heart disease and non-s.
+He received renal replacement therapy with hemodialysis for four years, and later went to peritoneal dialysis (PD) by Tenckhoff catheter for secondary complications (thrombosis of three arteriovenous fistulas dialysis and catheter dysfunction).
+Since the beginning of PD, she presented at least two episodes of peritonitis attributed to a poor connection technique.
+The last episode had been treated on an outpatient basis with vancomycin and intraperitoneal ceftazidime.
+After four years of PD, the patient was seen in our care center for a week of evolution, with moderate, diffuse and progressive abdominal pain associated with moderate abdominal pain.
+She reported no fever or chills.
+With absence of stools during the last three days, without other symptoms.
+On physical examination she was hemodynamically stable, afflicted, with abdominal rigidity and signs of peritoneal irritation.
+Laboratory tests at admission showed increased inflammatory parameters.
+Computed axial tomography (CAT) showed inflammatory changes in the peritoneum adjacent to the PD catheter without other changes.
+A study of peritoneal fluid was carried out, which had a thick appearance, highlighting in the cytochemical examination a leukocytosis with polymorphonuclear predominance (recent 235 cé/mm3 with 65% polymorphonuclear).
+Peritoneal fluid cultures were performed in chocolate agar plate and in a vacuum-assisted hemocultivation bottle (BacT/Alert, bioMérieux) according to local protocol.
+Empirical treatment with intravenous ciprofloxacin (DPA) adjusted doses was initiated and a single dose of intravenous vancomycin and ceftazidime and vancomycin was administered intraperitoneally.
+1.
+The patient developed abdominal pain and weakness, maintaining intermittent cessation of fluid leakage through the catheter.
+Controls of inflammatory parameters were performed which showed no improvement (days 1 to 3 in Figure 1), persisting a thick peritoneal fluid with predominance of lymphocytic predominance (days 1 to 3 in Figure 1), with persistent systemic lymphocyte count.
+At 72 h of evolution, the development of a smooth-looking yeast and pink coloration was investigated in a chocolate agar plate with the direct sample.
+The same yeast was developed in Sabouraud agar and ChromID Candida Agar (bioMérieux).
+The same agent was identified from a bottle of blood culture inoculated directly with peritoneal fluid, after a transfer at 72 h of inoculation with chocolate agar and Chrom ID CPS agar (bioMérieux).
+No bacteria were identified in any culture.
+Oral fluconazole was initiated empirically, adjusted to the dose of PD pending the typing of the agent.
+Ciprofloxacin therapy was discontinued on the fifth day and no further doses of intravenous vancomycin or intraperitoneal antimicrobials were administered.
+1.
+YST card of Vitek 2 compact (bioMérieux) identified yeast as Rhodotorula mucilaginosa but with < 99% certainty.
+The typing was confirmed by mass spectrometry (MALDI-TOF) with a Vitek MS (bioMérieux) equipment that allows to discriminate three different species of this genus and which marked R.
+Considering the agent involved and the suggestive signs of peritoneal manifestation on CT, it was decided to remove the PD catheter on the fifth day of admission.
+The biopsy showed an inflammatory process of the peritoneum but negative for GA staining.
+Taking into account the reported resistance of this agent to fluconazole, oral posaconazole 400 mg was initiated every 12 h, which was maintained for 14 days.
+A clinically favorable response was observed, with a decrease in inflammatory parameters in the subconstantiates controls.
+Regarding the management of chronic renal failure, a tunneled central venous catheter was installed for hemodialysis, without further complications.
+She was discharged with antifungal treatment with oral posaconazole.
+Susceptibility to different compounds was established later by broth microdilution.
+The patient was asymptomatic and had normal inflammatory parameters at one year of follow-up.

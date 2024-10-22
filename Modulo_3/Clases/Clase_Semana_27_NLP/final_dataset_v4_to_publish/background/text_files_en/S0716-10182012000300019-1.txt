@@ -1,0 +1,29 @@
+A 60-year-old male patient with a recent diagnosis of HIV infection, without antiretroviral treatment, tobacco consumer (20 cigarettes daily), with no history of opportunistic diseases.
+The patient was admitted with fever syndrome, dyspnea functional class II/III, cough nonexistent and weight loss of three months of evolution.
+On admission, the physical examination revealed onychomycosis of both feet, ochre dermatitis in both lower limbs, xerodermia, poor state of their teeth, decreased breathlessness and pulmonary tachycardia 120 minutes, wheezing with breath sounds 120 minutes.
+Chest X-ray showed bilateral micronodular interstitial-alveolar infiltrate.
+The admission laboratory showed mild anemia, VHS 5097 mm 1st hour), leukocytes 9800/mm3, normal renal and hepatic function, oxygen saturation 89%, LDH 1049 U/L. + lymphocyte count <3.
+Serology for hepatitis B and C was non-reactive.
+Ziehl-Neelsen stain in sputum examination was negative, as well as tests and cultures for common and direct bacteria.
+The hemocultives also showed no development of microorganisms.
+Empirical antibiotic treatment was initiated with ampicillin/sulphonate 1.5 gr every 6 hours iv, cotrimoxazole 800/160 mg every 6 hours iv and dexamethasone 24 mg/day iv.
+28% were added to oxygen therapy.
+The patient presented unfavorable worsening of his clinical condition, hypoxemia with a PO2 of 64 mmHg with metabolic acidosis and respiratory alkalosis without signs of pump failure.
+Fiberoptic bronchoscopy was performed with bronchoalveolar lavage. Histoplasma capsulatum was isolated and Gro staining revealed compatible structures with cystis jiroveci.
+Blood cultures were also isolated yeasts compatible with H. capsulatum.
+Treatment was initiated with amphotericin B deoxycholate 0.7 mg/kg/day for 14 days and then itraconazole 400 mg/day was indicated and treatment for P. jiroveci was continued until 21 days of treatment.
+The patient improved his clinical status and after 30 days of hospitalization presented a new febrile episode with clinical signs of bacteremia (fever, chills, tachycardia and hypotension).
+Two new blood samples were drawn from peripheral blood using the BactAl system (bioMerieux®) and the samples were taken in blood agar and chocolate agar atmosphereC and 5% CO2 subcultured for 48 hours.
+Direct microscopic examination showed Gram stalks in clusters; both circular colonies, slightly convex, with pink pigment, nonhemolytic, positive catalase and negative coagulase.
+Preliminary identification was performed according to a biochemical scheme for the differentiation of genera within Gram-positive cocci catalase.
+The following phenotypic tests were used: 6.5% NaCl development, positive bencidin test, glucose acid production in anaerobiasis, bacitracin disk sensitivity 0.04U and lysozyme resistance.
+The Vitek 2 system (bioMerieux®) identified the isolate as K. rosea with a probability of 96%.
+The 16S rRNA gene was amplified using universal primers 8F and 1492F.
+The partial sequences obtained were compared with those available in the Gen Bank database using the BLASTN server (http://www.ncbi.nlm.nih.gov/BLAST/).
+The analysis of the results showed a complete coincidence with the sequences of K. rosea shown in this database.
+MIC determination was performed using Etest strips (AB-BB-disk) on Mutual Hinton agar, with an instillation at 35°C in aerobiosis for 16 to 20 hours.
+Since there are no established cut-off points for this gender, the interpretation used the cut-off points for Staphylococcus sp. according to the Clinical Laboratory and Standards Institute (CLSI) and the manufacturer's protocol.
+MIC values were: vancomycin 1.0 μg/ml, daptomycin 0.125 μg/ml, ciprofloxacin 0.5 μg/ml, amikacin 1 μg/ml, linezolid 0.5 μg/ml.
+According to the adopted criterion, K. rosea isolate was susceptible to all the antimicrobials mentioned.
+Two-dimensional Doppler echocardiography showed no involvement of the endocardium valve or wall.
+The venous catheter was removed and treatment with vancomycin was indicated for 21 days with subsequent negativization of blood cultures and clinical and radiological improvement.

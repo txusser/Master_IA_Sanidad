@@ -1,0 +1,46 @@
+We report the case of a 65-year-old man with a history of hypertension secondary to primary hyperaldosteronism and chronic kidney disease since 1999 with nephrotic proteinuria secondary to chronic glomerulonephritis.
+The patient was treated with hemodialysis from May 2012 to September 30, 2014, when a cadaveric donor kidney transplant was performed with 6 unaffected kidneys.
+The donor biopsy, with 41 granules, reveals the existence of 7.3% of sclerotic glomeruli, mild hyaline thickening gl less than 25% and interstitial fibrosis less than 25%.
+The induction treatment was performed with basiliximab, tacrolimus, mycophenolate mofetil (MMF) and steroids.
+In the immediate post-transplant period, the patient has effective diuresis and no need for dialysis.
+Complications include post-transplant diabetes mellitus and a surgical bed hematoma with anemization, which requires transfusion of 5 concentrates.
+At discharge, the following values were observed: plasma creatinine (Crp): 1.56 mg/dl; hemoglobin (Hb): 8.2 g/dl; hematocrit: 25.5%; leukocytes: 11.300/1.000.
+Treatment consisted of prednisone 25 mg/day, tacrolimus 5.5 mg/day and MMF 2 g/day.
+Valganciclovir is prescribed as prophylaxis.
+The patient evolved without symptoms, with a reduction in Crp levels to 1.2 mg/dl in the first 15 days after transplantation.
+It maintains its Hb around 8-9 g/dl with progressive increase in the requirements of erythropoietin and fluctuating lymphopenia, but without other anomalies.
+56 days after transplantation (26/11/2014), due to an increase in proteinuria of up to 1.2 g/day without deterioration of renal function, a graft biopsy was performed, with findings consistent with mild tubular toxicity, isolated tubular interstitial inflammation and segmental anticalcer lymphocytes.
+Immunofluorescence revealed mild positivity for IgM and C3, and C4d staining was negative.
+The asymptomatic patient did not show deterioration of renal function (Crp: 1-1.2 mg/dl), with optimal levels of immunosuppression, anti-HLA class I and II antibodies of 0% and virological studies without ultrasound abnormalities.
+It was decided to maintain a narrow control, during which a progressive reduction of proteinuria was observed.
+On December 2, 2014, at 64 days of age, the patient developed hyperthermia without focality, malaise, asthenia, hypoxia and body weight reduction, accompanied by anemization with Hbdl of up to 206%.
+In complementary tests the following stand out: absence of primary leucocyte a.17 mg; normal levels of procalcitonin (0.15 ng/ml); elevated LDH: 321-397 mEq/l and increased C-reactive protein (7dl);
+From the point of view of renal function, plasma creatinine does not exceed 1.05 mg/dl.
+During this first admission, the complete serology of the following pathogens: EBV, CMV, herpesvirus, hepatotropic viruses, rubella, varicella zoster, parvovirus B19, CMV and mycoplasmaetti pneumoniae negative, C
+Clinically, fever stands out only on the first day of admission, with subsequent persistence of fever.
+He received treatment with quinolones and third generation cephalosporins, which were suspended at discharge.
+Normocytic, hyporegenerative and normocytic anemia with a pattern of iron overload is related to heptazoles, deciding toxicity (valgan vir and trimethoprim-sulfamethoxa suspension).
+Upon discharge, an analytical was requested, which showed a serology suggestive of acute Q fever, with positive IgM antibodies by IFI of Coxiella burni, so treatment was initiated with corticosteroids for 10 days.
+Percutaneous fever and anemia were ruled out 4 months after transplantation.
+During this second admission, the imaging tests performed (chest X-ray, abdominal ultrasound, CT scan of the abdomen, PET-CT, echocardiography, gastroscopy and ultrasound) revealed no significant abnormalities.
+Tumor markers and serological studies (including determination of antibodies [IFI] for parvovirus B19 and for Coxiella VBV, whole virus HSV-8H) were negative, as well as cultures for tuberculosis and virus (HSV-1, respectively).
+Therefore, the diagnosis of Q fever as the origin of the clinical picture is ruled out.
+It was a false positive, since there was no seroconversion in the second sample and fever persisted despite treatment.
+The patient remains febrile with marked deterioration of his general condition, anemia and lymphopenia, so it was decided to perform 23/2/2015 a bone marrow biopsy in which a hypocellular eosinophilic marrow with intense decrease of red blood cells was observed.
+All this suggests parvovirus B19 infection, which is confirmed by PCR with positive results in this tissue.
+At the same time, it was decided to perform a new blood PCR determination for parvovirus B19, which is positive this time.
+1.
+After confirming parvovirus B19 infection, the patient was discharged with MMF and started treatment with daily intravenous immunoglobulin of 0.5 g/kg/dose (10 doses) with adequate tolerance, disappearance of fever and normalization of Hb in March 2015.
+At the end of the treatment and after checking that Hb remains stable and the patient remains afflicted, it was decided to reintroduce MMF at low doses.
+However, 6 months after discharge, the patient presented mild renal function impairment: Crp up to 1.55 mg/dl and proteinuria 2.1 g/24 h (previous 0.6-0.8 g/24 h).
+obscure vacuol, an immunological event derived from the decrease in immunosuppression in order to control viral replication, we decided to perform a second renal biopsy in November 2015 in which we observed acute interstitial tubular rejection suggestive of
+Inflammatory cells are mostly intraparietal and few of them subendothelial.
+C4d staining and immunofluorescence were negative.
+After verifying the stabilization of parvovirus viral load, it was decided to optimise immunosuppression by increasing the MMF dose from 500 to 750 mg/24 h and tacrolimus (to maintain proteinuria levels around 7-8 ng/dl).
+After one year of treatment, the patient continues to suffer from constipation with increased appetite and increased body weight.
+Analytically, Hb levels are 15.2 g/dl without erythropoietin requirements, with renal function stability with proteinuria below 1 g/day (controlled with double RAAS blockade).
+Anti-HLA antibodies class I and II remain negative.
+Regarding plasma PCR for parvovirus B19, the laboratory of our hospital validates the quantitative technique for parvovirus B19.
+We do not have viral load at the time of diagnosis, and the first quantitative is September 2015 (7 months approximately after treatment confirmation) with <50 copies/ml.
+We inferred that although we were not able to completely eliminate the virus, probably the viral load before treatment was much higher, given the improvement observed both clinically and analytically.
+Current viral load is maintained below 100 copies/ml, and a thorough clinical and analytical follow-up is performed including periodic determinations with PCR in order to detect a possible relapse.

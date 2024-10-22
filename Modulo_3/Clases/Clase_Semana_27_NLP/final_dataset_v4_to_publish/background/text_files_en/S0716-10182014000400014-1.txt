@@ -1,0 +1,38 @@
+A 68-year-old Brazilian male patient presented at the Hand Pathology Service of the Hospital de São Paulo with a purple nodule measuring 2-3 cm in diameter on the left dorsum.
+The lesions were painless and of fibro-elastic consistency.
+He did not report other symptoms.
+As a history, the patient had undergone a kidney transplant 35 months before the appearance of the lesions and was under continuous treatment with tacrolimus (7 mg/day), azathioprine (50 mg/day) and prednisone (10 mg/day).
+The patient did not report any trauma, however, his profession was gardener so he could have acquired this mycosis of implantation for his work with plants.
+Both lesions were surgically removed without any other treatment.
+The material was sent to the Mycology Special Laboratory (LEMI) of the Federal University of São Paulo for histopathological and histological examination.
+The staining with hematoxylin-eosin, Gomori and vesicular-Masson revealed the presence of dematiaceous hyphae in both lesions and was later identified as A. infectoria.
+1.
+A year later, the patient had another nodule, this time in the 5th phalanx of the right hand.
+Biopsy and culture of the lesion were performed, and C. gloeosporioides was isolated.
+The patient was on a lower dose of tacrolimus (3 mg/day), but with azathioprine and prednisone at the same doses.
+The patient had suffered some local trauma, but a new entity frequently worked in his garden.
+Complete surgical excision of the lesion was performed without antifungal treatment.
+After one year of follow-up no new lesions were observed.
+1.
+Mycological study
+Infectious disease
+Biopsies were performed using Sabouraud agar (SDA) and potato agar (PDA), where colonies of gray-to-olive color were observed, with a tertile-shaped appearance.
+Micromorphology showed the presence of fleshy conidiophores, dark brown color, non-branched, with ovoid conidia, rough, with apical extension often very short or oblic origin.
+The agent was identified as A. infectoria.
+1.
+Colletotrichum gloeosporioides
+Fungal colonies obtained from biopsy material and nodule aspirate were inoculated in potato dextrose agar (PDA) and inoculated at room temperature.
+The colonies grew rapidly, presenting a grey tonality to coffee, with rosacea spots.
+On the reverse, it was brown.
+In the micromorphology were observed straight, cylindrical, hyaline and obtuse in the apex.
+In addition, there are numerous cells called apresoria with a claviciform or irregular appearance, with dark pigment.
+Hysterosis was identified as C. gloporioides.
+1.
+Antifungal susceptibility testing
+Although the cut-off points for the definition of antifungal susceptibility against melanoma have not been established, we chose to perform susceptibility tests.
+There is evidence in the literature that MIC values ≤ 1 μg/mL against most antifungals are related to a good therapeutic response.
+In addition, knowledge of the etiologic agent and susceptibility profile of isolates in immunocompromised patients is important because they can cause serious infections with dissemination to other organs and systems
+Susceptibility testing was performed using the broth microdilution technique, according to the CLSI philosophies document M38A13.
+Susceptibility results are presented in Table 1.
+C. gloeosporioides strain showed low MIC for amphotericin B and voriconazole and high MIC for 5-fluorcytosine and fluconazole.
+Moreover, the A. infectoria strain was resistant to the five antifungals used.

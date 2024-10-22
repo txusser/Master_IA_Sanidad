@@ -1,0 +1,14 @@
+A 52-year-old male weighing 240 kg and BMI 74 kg/m2 was admitted to the hospital with a diagnosis of ischemic stroke.
+As a pathological history of interest, the patient had deep venous thromboembolism in the past, which is why he was prescribed home anticoagulant therapy with Rivaroxaban.
+The possibility of carrying out fibrinolytic treatment with alteplase is raised in the Emergency Department.
+However, after the examination, this intervention was disregarded, as the patient was in a borderline state of the temporal interval, presented 23 points on the NIHSS scale the last assessment institute of health strokeb, and was classified as
+After admission to the ICU for neurological monitoring and surveillance, it was decided to start treatment with enoxaparin as anticoagulant therapy.
+To this end, the Intensive Care Unit contacted the dementia unit in order to know the most appropriate dosage given the situation of extreme obesity2 (BMI > 40 kg/m2).
+For safety reasons, given the paucity of data, it was decided to initiate treatment at a dose of 0.7 mg/kg/12 h subcutaneously (enoxaparin 160 mg/12 h) to avoid bleeding, as assessed in several clinical trials.
+In addition, anti-Xa factor monitoring was established to establish the final dose.
+1.
+Four hours after administration of the third dose, the concentration of anti-Xa factor in blood obtained was 0.37 IU/mL.
+Between 0.35-0.49 IU/mL we proceeded to increase ≈10% the dose (170 mg/12 h).
+Four hours after the next dose, the concentration of anti-Xa factor was 0.59 IU/mL, and at 24 hours, 0.48 IU/mL.
+In view of this result, the dose was increased to 180 mg/12 h.
+Finally, the following determination obtained a value of 0.84 IU/mL, placing us within the therapeutic range and fixing the optimal dose for our patient at 0.75 mg/kg/12 h.

@@ -1,0 +1,20 @@
+A three-month-old infant was taken to the consultation of his primary care pediatrician, because the mother reported that in the last days he had been tired and sudated a lot with the shots.
+Pregnancy, delivery and neonatal period were normal, and there was no personal or family medical-surgical history of interest.
+In the physical examination, the pediatrician found tachypnea with mild subcostal pull, oxygen saturation of 98% and a pansystolic murmur grade 3/6 audible in multiple foci of the left third intercostal space with maximum intensity.
+After performing an electrocardiogram (ECG), the infant was referred to the hospital emergency department due to the suspected diagnosis.
+1.
+What is the interpretation of the ECG?
+And the suspected diagnosis of the pediatrician? (review the ECG before reading again).
+Sibling systematic reading, we observed a regular sinus rhythm (positive wave I and aVF) at 100 beats per minute, with no abnormalities in P wave or repolarization (segment ST).
+The axis of the QRS complex is located around 60o (positive in I and in aVF, virtually isphasic with aVL), with a pattern of incomplete right bundle branch block (BIRD1: RS').
+Attention is paid to QRS voltages in leads V5-V6.
+At this point, it is important to thoroughly analyze all ECG details.
+The habitual recording velocity consists of a 25 mm/second amplitude and a 10 mm/mV amplitude (the amplitude refers to the height and depth of the different waves).
+In this case, velocity is the standard (composed on the right lower part of the ECG), but not amplitude.
+Together with the place where the speed is indicated, "5 mm/mV" can be read, that is, each millivoltage (mV) is equivalent to 5 mm of the line, and not to 10 mm as usually
+In other words, each millimeter measured with this fixation (5 mm/mV) shall be equal to twice the standard recording (10 mm/mV).
+In the present case, we measured at V6 a 24 mm R wave, which in reality are 48 mm in view of reference values, and a 4 mm Q wave, which in fact constitute both ventricular hypertrophy limits 8 mm.
+PR (0.11) and QTc (0.41) intervals are normal in duration, with no other pathological findings.
+1.
+The pediatrician urgently referred the patient with very good criteria, because he suffered congenital heart disease with left-right shunt and hemodynamic repercussions.
+This presumption was confirmed when a broad muscular communication was diagnosed in the hospital by echocardiography.

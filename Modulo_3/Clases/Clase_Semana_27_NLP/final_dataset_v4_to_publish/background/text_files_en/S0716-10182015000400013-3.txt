@@ -1,0 +1,30 @@
+The patient was hospitalized due to diarrhea, fever and vomiting since the previous day.
+Blood count was 2,700 leukocytes/mm3 and PCR 190.9 mg/L. Febrile and metabolic acidosis were present.
+Treatment was initiated with cefoxime, which was maintained for two days until transfer to the ICU of another care center.
+She was discharged after 6 days.
+Salmonella spp. developed in the coprocultive.
+Both parents, a sister and the household counselor had diarrhea.
+Two months prior to admission, they had acquired two water turtles in a free fair.
+Both reptiles were coprocultured.
+The aquarium was cleaned in the dishes, the same place where the infant's food was prepared.
+Microbiological study
+Deposition samples were taken from patients and pets.
+The wooden torula is located in Cary Blair (BBL) transportation medium.
+Samples were placed in Mac Conkey agar plates and SS agar plates (Bio-Mérieux) in an environmental atmosphere at 35°C.
+Traditional biochemical tests and Gram-negative VITEK-ID identification card (Biomérieux) were used to study fungal colonies.
+Susceptibility study to all Salmonella isolates was performed by disk diffusion according to document M100 S24 CLSI 2014.
+The serogroup study was performed by agglutination reaction with polyvalent antiserum (Salmonella O: poly A-I & Vi, BD-Difco) and with specific group antisera.
+Isolates were sent to the National Reference Laboratory (ISP) for serotyping and subtyping.
+The latter was performed using the restriction enzyme Xbal, according to the standardized protocol PulseNX pulsaI OPS-CDC Atlanta 25 (EFCP) pulsed-field gel electrophoresis (EPCP).
+Patterns were analyzed using Bionumerics biotactics program (Applyed Maths, USA).
+Microbiological results
+There was development of Salmonella spp. in the stools of the three infants and in the stools of two of the four turtles studied.
+The infected pets corresponded to one turtle in case 2 and one in case 3.
+In the first case, the patient's strain agglutinated with BD-Difco Salmonella O antiserum group C1 Factors 6.7.
+In the second case, patient and turtle isolates agglutinated with BD-Difco Salmonella or antiserum group C2 Factors 6.8.
+In the third case, it was not possible to serogroup, since the isolates only agglutinated with the polyvalent antiserum.
+The strain of the first patient was identified as Salmonella Monteo; the isolates of the second child and its turtle corresponded to Salmonella Newport and those of the third patient and its turtle, Salmonella Pomona.
+All strains were susceptible to ampicillin, cotrimoxazole, chloramphenicol and ciprofloxacin except in the second case, in which the strain showed intermediate susceptibility to this quinolone.
+The results of the genetic study revealed that the two isolates from case 2 had an identical subtype called CL-NP-XBA-014 (100% similarity).
+Both isolates from case 3 presented the Cl-Spm-Xba-001 subtype.
+These findings confirmed the genetic link between the cases and pets.

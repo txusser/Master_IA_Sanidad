@@ -1,0 +1,14 @@
+We report the case of a 48-year-old man with a family history of a mother who died of nonspecific chronic liver disease progressing to liver cirrhosis and a sister with an unrelated liver disease.
+His personal history included hepatitis C (HCV) genotype 1b with no response to peginterferon α-2a and ribavirin on two occasions.
+Besides, recurrent nephritic colic.
+In February 2011, the patient presented an episode of intense pruritus and epigastric pain.
+The most notable analytical values were AST 145 U/L (0-37 U/L), ALT 121 U/L (0-37 U/L as viral protein, bilirubinase (6-50 IU/L), alkaline phosphatase 116 U/L (50-190 U/L).
+The following were performed: gastrointestinal ultrasound, which did not show evidence of space or dilatation of the bile ducts. A bile duct showed no conclusive data of biliary cholangiolithiasis. Endoscopy showed hepatolithiasis or bile duct stones.
+Liver biopsy revealed grade 3 fibrosis according to METAVIR compatible with hepatitis C, with no other remarkable changes.
+A year later, the patient returned to the doctor's office with similar characteristics (jaundice, pruritus and epigastric pain). UDCA was prescribed due to recurrence, with rapid improvement of symptoms.
+The recurrent clinical picture and the absence of etiologic cause were diagnosed as LPAC syndrome.
+A sample was sent to the University Hospital La Paz (Madrid) for immunohistochemical study of liver biopsy, observing a normal canicular expression of DRD3.
+Subsequently, the ABCB4 gene coding sequence was not studied by DNA mutation in peripheral blood lymphocytes in the Saint-Antoine University Hospital (París) using the Roche 454 GS Junior PCR sequence neither.
+persistence of the clinical suspicion in La Paz Hospital was analyzed again the gene ABCB4 this time with the technique MLPA® (Multiplex Ligation-dependent Probe).
+The patient sample was compared with a sample of his sister (control 1) and a healthy individual (control 2).
+A heterozygous mutation was identified by the deletion of a gene fragment containing the complete exon 4, compatible with a partial deficiency of MDR3 (10), confirming the diagnosis of ACL.

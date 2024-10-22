@@ -1,0 +1,74 @@
+Enfermero Unidad de Diálisis* Supervisora Unidad de Diálisis** Hospital Comarcal “Rafael Méndez” Lorca (Murcia)
+ 
+Correspondencia: Domingo Pérez Ruiz C/ Jerónimo Santa Fe, nº 5, 3º C 30800 Lorca Murcia
+ 
+Presentamos a un varón con IRT en diálisis periódica doce horas semanales, con capilar de PS de 1.9 m2 de superficie, baño de 2.5 mmol de calcio, anticoagulación con heparina sódica continua. En su historia clínica se refleja:
+Antecedentes de litiasis renal expulsiva desde los dos años, sin controles desde los 10 años, pese a que persistían los cólicos nefríticos expulsivos periódicos. Se desconoce la función renal previa del paciente. Un año antes del ingreso, en una analítica practicada para una intervención oftalmológica por traumatismo ocular, tenía una creatinina de 1.9 mg./dl. Sin alergias medicamentosas conocidas, HTA o diabetes. Tabaquismo moderado.
+Desde una semana antes del ingreso refiere nauseas, vómitos, mareos y contracciones musculares. Su médico observa imagen cálcica renal izquierda, enviándole a urología, donde se detecta insuficiencia renal muy importante sin obstrucción urinaria, motivo por el que ingresa.
+El paciente que en aquel momento contaba con 26 años, ingresa en situación de insuficiencia renal avanzada (creatinina sérica 43,2 mg./dl), urea 384 mg./dl., precisando hemodiálisis de descarga urgente a través de catéteres femorales, permaneciendo desde entonces en programa de diálisis periódica.
+EVOLUCIÓN DE LA ENFERMEDAD
+Del estudio realizado en su primer ingreso destacaba la existencia de una nefrocalcinosis corticomedular bilateral en Rx. simple de abdomen y en la ecografía renal; los familiares del paciente niegan la administración en la infancia de derivados de la vitamina D. Se realizó oxalemia, estando discretamente elevada hasta 6,8 mg./dl. (v.n. < 6 mg./dl.).
+En controles posteriores se observó un progresivo aumento de la densidad ósea a todos los niveles no justificada por alteraciones de la PTH, calcificaciones extraóseas, una resistencia parcial a la EPO, y una intolerancia a la UF intradiálisis.
+Se repitió la oxalemia, siendo de 8.3 mg./dl. Ante la fuerte sospecha de que la enfermedad de base fuera una hiperoxaluria primaria, se realizó biopsia hepática para determinación de actividad del enzima AGT, que se realizó en mayo de 2002 en el departamento de Histoquímica de University College London Hospitals, con el siguiente resultado: actividad de alanina-glioxilato-aminotransferasa (AGT) 3.8 mmol/h/mgr de proteína (rango: 19,1-47.9); inmunorreactividad AGT negativa. Estos resultados son compatibles con el diagnóstico de hiperoxaluria primaria tipo 1.
+Según progresa la enfermedad es necesario mayor cantidad de diálisis, llegando a ser de veinte horas semanales en cinco sesiones. A lo largo de los años en diálisis presenta las siguientes complicaciones:
+• Hiperparatiroidismo. • Clínica de claudicación intermitente. • Calcinosis cutis • Calcifilaxia • Pleuritis • Pericarditis • Resistencia a eritropoyetina • Anemia crónica • Desnutrición secundaria a hiperoxaluria • Tendencia trombogénica con incremento de trombosis en FAVI • Tendencia al estado depresivo.
+Ante esta situación clínica se establece el plan de cuidados de enfermería5 que se describe a continuación:
+VALORACIÓN DE ENFERMERÍA
+De la valoración de enfermería se obtuvieron los siguientes datos:
+Varón de 32 años, soltero, vive con sus padres y no realiza actividad laboral. Actualmente en programa de diálisis diaria por empeoramiento de su enfermedad de base (Hiperpoxaluria primaria) según diagnóstico médico, a través de catéter femoral por trombosis en anteriores FAVIS.
+• Requiere reiterados cuidados de enfermería para el mantenimiento de la permeabilidad del catéter venoso. • Presenta dificultad en la masticación por dolor en encías (aparecen ligeramente inflamadas) y falta de piezas dentales. • El balance nitrogenado es negativo, teniendo recomendación médica de dieta hiperprotéica. En las analíticas los valores de albúmina sérica y proteínas está disminuida. • Generalmente acude a la Unidad con sobrecarga de líquidos > 2000 cc. • Presenta limitación del movimiento físico por afectación músculo-esquelética que se manifiesta por falta de fuerza muscular en los miembros inferiores que le hace deambular con dificultad, inflamación, dolor y limitaciones en la flexo-extensión. Precisa silla de ruedas para acudir a la Unidad. • Las manos comienzan a manifestar signos de rigidez, con molestias y dificultad para la prehensión. • Precisa ayuda para bañarse, vestirse o desvestirse, encontrando colaboración en sus padres. • La piel presenta frialdad, lesiones nodulares, prurito e irritación en la zona del apósito del catéter. • Se encuentra cansado y con fatiga tras realizar mínima actividad que requiera esfuerzo físico. • En el transcurso de su enfermedad muestra resistencia a la EPO y pérdidas sanguíneas derivadas de la técnica de diálisis, por lo que la anemia no mejora, precisando frecuentes transfusiones. En las últimas presentó reacción transfusional con erupción cutánea, prurito, urticaria y edema en labios y párpados, precisando tratamiento con esteroides. • Poco comunicativo, suele centrar la conversación en su enfermedad, mostrándose preocupado y a veces con miedo. • Muestra preocupación por su futuro y comienza a tener dudas relacionadas con el tratamiento de su enfermedad e incluso del transplante. Esto le hace tener alteraciones del humor • No siente ganas de salir de casa por la dificultad para caminar y por el deterioro de su imagen corporal (pies genu-valgo, manos, catéter). Recibe visitas y llamadas de teléfono de familiares y amigos. • Dice tener dificultad para dormirse y para permanecer dormido a causa de la inquietud y dolor. • Solicita información sobre su enfermedad.
+A continuación, se describen los problemas más importantes que hemos observado en este enfermo y el plan de cuidados. Los diagnósticos se han realizado atendiendo a la taxonomía de NANDA6.
+1- Desequilibrio nutricional por defecto r/c dieta inapropiada o insuficiente y dificultad para la masticación y m/p signos de desnutrición
+Objetivos:
+• Aumentar la ingesta de proteínas en su dieta. • Mejorar pautas alimenticias.
+Actividades:
+• Valorar el estado nutricional • Reconocer las alteraciones de los exámenes de laboratorio. • Informar al paciente su régimen alimenticio, rico en proteínas. • Aconsejar semiblanda mientras permanezca alterada la mucosa oral. • Estimular higiene bucal tras cada comida. Consulta con el odontólogo • Coordinar la dieta de acuerdo con sus preferencias y nutrientes permitidos.
+2. - Deterioro de la movilidad física r/c falta de fuerza muscular y m/p limitaciones del movimiento o de la capacidad para moverse en su entorno.
+Objetivos:
+• Prevenir complicaciones de la movilidad disminuida. • Aumentar la resistencia y fomentar un óptimo nivel de movilidad. • Enseñar métodos adaptativos a la dificultad de movilidad.
+Actividades:
+• Realizar ejercicios pasivos 2 o 3 veces al día. • Realizar hidroterapia y masaje de las extremidades afectadas. • Facilitar los traslados con medios mecánicos. • Evaluar los cambios en la amplitud de movimiento de articulaciones y en la fuerza muscular • Recomendar la visita al fisioterapeuta. • Buscar posibles complicaciones de la inmovilidad (flebitis, úlceras, frialdad, dolor, hormigueo) • Aconsejar que realice paseos cortos y frecuentes adaptados a su tolerancia.
+3. – Deterioro del patrón de sueño r/c dolor e inquietud y m/p desvelo prolongado y sueño interrumpido.
+Objetivos:
+• Proporcionar medidas de comodidad para inducir al sueño. • Reducir o prevenir las circunstancias que puedan interferir en su descanso.
+Actividades:
+• Reducir las distracciones ambientales (luz, teléfono) • Recomendar música suave, baño nocturno, ropa limpia, masaje, lectura, etc., • Procurar una postura cómoda. Utilizar elementos de acomodación en miembros inferiores. • Eliminar causas físicas. • Aconsejar tratamiento farmacológico cuando lo necesite.
+4. – Déficit de autocuidado r/c deterioro músculo esquelético y m/p incapacidad para actividades de vestirse, arreglarse y aseo.
+Objetivos:
+• Ayudar al paciente a adaptarse a las deficiencias. • Informar a su familia sobre los cambios de rol.
+Actividades:
+• Proporcionar seguridad en las actividades adecuando en lo posible el espacio. • Proporcionar oportunidades para adaptarse. • Implicar a la familia en los cuidados.
+5. – Riesgo de deterioro de la integridad cutánea r/c calcinosis cutis y piel seca y m/p prurito e irritación de la piel.
+Objetivos:
+• Mantener la integridad cutánea. • Aliviar los síntomas.
+Actividades:
+• Mantener la piel hidratada mediante masajes con crema hidratante. • Refrescar la piel con agua fría. • Mantener las uñas limpias y cortas para evitar lesiones e infecciones. • Proteger las zonas afectadas por calcinosis cutis. • Utilizar apósitos para el catéter que sean hipoalergénicos. • Retirar los apósitos de la manera menos traumática (humedecer).
+6.- Deterioro de la interación social r/c cambios del aspecto físico y m/p retraimiento, poco comunicativo y aislamiento social.
+Objetivos:
+• Incrementar la autoestima del paciente. • Enseñar formas de afrontamiento.
+Actividades:
+• Promover conversaciones sobre sus aficiones. • Incentivar actividades recreativas en los días que no acude a la Unidad. • Fomentar la expresión verbal de sus experiencias. • Enseñar técnicas de modificación de conducta: entrenamiento en habilidades sociales, reforzamiento positivo.
+7.-Temor r/c su enfermedad y m/p cambios en el patrón de conducta: irritabilidad, aprensión y depresión.
+Objetivos:
+• Identificar respuesta emocional: irritabilidad, preocupación, angustia. • Conocer actitud y recursos de afrontamiento ante su enfermedad.
+Actividades:
+• Dar información relacionada con el control y pronóstico de su enfermedad. • Reducir o eliminar los estímulos amenazantes. • Enseñar técnicas de modificación de conducta: relajación, parada de pensamiento, autocontrol emocional. • Establecer una relación de confianza enfermero/paciente.
+8.- Riesgo de infección r/c procedimientos invasivos.
+Objetivos:
+• Conservar vías de acceso para la realización de la técnica de diálisis. • Identificar procedimientos favorecedores de infección.
+Actividades:
+• Realizar los cuidados de la fístula arteriovenosa y catéteres según normas de la unidad y el seguimiento de la maduración de la fístula arteriovenosa. • Valorar signos de infección. • Mantenimiento de la permeabilidad de catéter femoral utilizando cuando ha sido necesario protocolo con urokinasa. • Enseñar medidas higiénicas y de conservación.
+Procesos interdependientes relacionados con diálisis y comunes a pacientes en IRT:
+• Intolerancia a técnica de diálisis s/a una elevada ultrafiltración. • Anemia secundaria a disminución de eritropoyetina y pérdidas sanguíneas. • Reacción anafiláctica s/a transfusión sanguínea. • Dificultad en el acceso vascular s/a microcalcificaciones vasculares. • Intolerancia a la actividad física s/a fatiga y disnea de ejercicio • Estreñimiento s/a tratamiento farmacológico y restricciones en la dieta
+EVOLUCIÓN
+A pesar de las diálisis diarias, la enfermedad continuó su curso y el deterioro físico iba en aumento.
+Tras las sesiones de rehabilitación y el esfuerzo del paciente, comenzó una deambulación dificultosa y lenta a la que se supo adaptar. Inició cortos y ligeros paseos, en ocasiones salía a casa de amigos, a pesar de que sus limitaciones y aspecto físico siguen preocupándole mucho.
+No presentó signos de infección ni del catéter ni de las zonas irritadas de la piel.
+Aunque aumentó bastante la ingesta de proteínas, llegando incluso a engordar, continúa la mal-absorción de proteínas.
+Ha recibido toda la información que ha solicitado y ahora se muestra más colaborador y muestra más esperanzas en el transplante. Sigue teniendo altibajos de humor pero ahora incluso hace alguna broma con los problemas que le surgen. A pesar de que sigue preocupado por su futuro, comenta que se siente seguro por todo el apoyo que recibe tanto de su familia como del personal sanitario.
+En enero de 2003 se sometió a un trasplante mixto hepato-renal con carácter urgente. En la actualidad no está en programa de diálisis, acudiendo periódicamente al centro hospitalario de referencia para evaluar su evolución.
+
+Agradecimientos
+Nuestro agradecimiento al Dr. D. Eladio Lucas Guillén, jefe de sección de Nefrología, por su ayuda y colaboración. Por su constante e incondicional ayuda y valiosas sugerencias queremos dar las gracias a la supervisora de la unidad de diálisis, Dña. Montserrat Pérez Robles.
+Un agradecimiento especial a Dña. Paqui Pérez Robles, profesora y jefe de estudios de la Escuela Universitaria San Juan de Dios de Barcelona, que nos dispensó su tiempo y sus conocimientos.
+ 

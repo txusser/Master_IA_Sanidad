@@ -1,0 +1,25 @@
+Paciente varón de 54 años de edad sin antecedentes personales de interés.
+Acude al Servicio de Urgencias de nuestro hospital en septiembre de 2005 por cefalea frontoparietal derecha y diplopia de mirada lateral de 2 semanas de evolución así como edema palpebral derecho desde hace una semana.
+Fue valorado inicialmente por el Servicio de Oftalmología objetivando exoftalmos moderado en ojo derecho, inflamación, hiperemia y tumefacción palpebral superior e inferior derecha moderadas, limitación en todas las posiciones de de la mirada y diplopia. No presentaba alteración de la agudeza visual. La presión intraocular (PIO) del ojo derecho era de 20 mmHg., la PIO del ojo izquierdo fue de 10 mmHg. La exploración del fondo de ojo era normal.
+Se solicitó TAC orbitario objetivándose aumento de tamaño del hueso esfenoides con patrón permeativo e hiperostosis de cara orbitaria con masa de partes blandas que abombaba el músculo recto lateral. Asimismo se producía ocupación de las celdillas etmoidales.
+
+El paciente ingresó en el Servicio de Neurocirugía solicitándose RMN craneal que era informado como posible meningioma hiperostósico en placa periorbitaria derecha del ala mayor de esfenoides sin poder descartar lesiones fibroóseas esfenoidales.
+Se programó para realizar biopsia quirúrgica de dichas lesiones. El resultado anatomopatológico de la biopsia fue de tejido conectivo, músculo esquelético estriado y aisladas trabéculas óseas con nidos y cordones de células epiteliales con citoplasma amplio que formaban focalmente luces glandulares, en el hueso se apreciaba metástasis de adenocarcinoma con positividad inmunohistoquímica para el Antígeno Prostático Específico (PSA).
+Ante estos hallazgos se consultó con el Servicio de Urología. Realizando una anamnesis dirigida se descubrieron alteraciones en la micción en los últimos meses (polaquiuria y nocturia) y hemospermia.
+Exploración física
+Tacto rectal: próstata volumen II/IV, de consistencia pétrea en ambos lóbulos, fija, sospechosa de cáncer de próstata.
+Pruebas complementarias
+PSA: 389 ng/ml
+Biopsia de próstata transrrectal: adenocarcinoma prostático Gleason 4+4=8 que afecta extensamente a ambos lóbulos.
+Rastreo óseo con Tc99m: las imágenes mostraban múltiples áreas de hipercaptación que afectan a región cigomática derecha y orbital interna derecha, ambas parrillas costales, columna dorsolumbar, pala ilíaca, región acetabular e isquiopubiana derechas, espina iliaca y región acetabular izquierdas y tercio medio de diáfisis femoral izquierda.
+
+Diagnóstico
+Adenocarcinoma de próstata Gleason 4+4=8 con metástasis óseas múltiples.
+Tratamiento
+Se instauró tratamiento con bloqueo hormonal completo (Bicalutamida 50 mg/24h y Goserelina 10,8 mg/12 semanas) y bifosfonatos (Ácido Zoledrónico 4 mg iv /4 semanas).
+Evolución
+Tras la instauración del bloqueo androgénico se produjo una mejoría progresiva de la clínica ocular. Durante los primeros 7 meses de seguimiento el paciente se mantuvo asintomático.
+A los 8 meses el paciente ingresó en el Servicio de Urología con clínica de hematuria, que al no mejorar con lavado vesical continuo, requirió la realización de RTU vesical, apreciándose gran proceso neoformativo prostático que invadía el suelo vesical. Anatomía patológica de los fragmentos de resección: focos de adenocarcinoma prostático con cambios involutivos secundarios a tratamiento hormonal.
+A los 9 meses del diagnóstico inicial el paciente ingresa de nuevo en nuestro servicio por síndrome miccional obstructivo, disminución de la diuresis, deterioro de la función renal y disnea. Se realizó TAC toracoabdominopélvico apreciándose derrame pleural derecho con atelectasia compresiva, múltiples adenopatías mediastínicas, metástasis pulmonares múltiples, dilatación ureteropielocalicial del riñón izquierdo y las ya conocidas múltiples lesiones óseas metastásicas de tipo blástico.
+Se realizó pleurocentesis derecha (la citología del líquido pleural fue positiva para células tumorales malignas). Se desestimó la colocación de nefrostomía percutánea.
+El paciente pasa a ser controlado por la Unidad de Cuidados Paliativos. Falleció 10 meses después del diagnóstico inicial.

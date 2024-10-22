@@ -1,0 +1,26 @@
+This is a 74-year-old woman with type 2 diabetes, hypertension (HTN) treated with losartan, and post-menopausal osteoporosis diagnosed at 68 years of age in the office of Rheumatoid Arthritis Weekly Tscore 3.9.
+She was referred to the endocrinology service because in this context she had high PTH levels, normal calcium, phosphorus and magnesium levels, as well as high calciuria.
+1.
+In this first evaluation, hypercalciuria with elevated PTH without hypercalcemia was labelled under study, with a diagnostic possibility of normocalcemic PHPT.
+The study was extended and bisphosphonate was suspended 3 months before to perform a baseline study, objectifying in successive analytical normal PTH levels with high plasma calcium levels, normal magnesium and phosphorus range.
+At the beginning of the follow-up he presented high heels and later they normalized without being low.
+Parathyroid scintigraphy was also negative.
+The calcium clearance/creatinine clearance (CCCR) ratio in mmol/l was calculated, ranging from 0.011-2, not being clearly lower than 0.01, a finding that characterizes FHH.
+Therefore, we were faced with a patient with mild hypercalcemia - corrected, with normal PTH levels, initially with high calcium levels that normalized during follow-up.
+Secondary causes that could be interfering in the levels of Ca/PTH, such as vitamin D deficiency, renal failure and treatment with thiazides or bisphosphonates were excluded.
+During follow-up, her niece and nephew (her sister's eyes) were diagnosed with FHHH, with compatible genetic study.
+With all these data, the genetic study was requested in our index case, showing the following result: “by sequencing the CaSR gene located on chromosome 3q 21-25, the patient presents a mutation of exon 7 G>97 c
+The patient studied presented this alteration in heterozygosis".
+In approximately 65% of cases, HHF is the result of an inactivating mutation in the CaSR, whose genes reside in the long arm of chromosome 3 (3q21.1); this form of HHF1 is called our patient [3].
+HHF2 is derived from inactivating mutations of the G alpha 11 protein (19p): a guanine-binding protein that binds to CaSR to activate extracellular phospholipase C PTH-inhibitory concentrations.
+Finally, HHF3 is linked to mutations in AP2S1 (19q13).
+To date, about 200 mutations in the CaSR gene associated with FHH (http://www.casrdb.mcgill.ca) have been described. Moreover, there is evidence that the specific phenotype of FHHFci is confirmed in all families.
+In FHH, hypercalcemia does not usually have clinical consequences, although there are cases described in which it has been associated with pancreatitis, chondrocalcinosis, nephrolithiasis and other symptoms associated with PHPT [7].
+The clinical guidelines recognize the CCCR as the biochemical index of choice for differentiating PH from HHF [8]: a quotient ̄01 is suggestive of HHF and>TP of PHTP.
+The CCCR is limited in the range between 0.01 and 0.02, which would be the situation we faced in our case.
+This test has a sensitivity of 80% and a specificity of 88% for the diagnosis of FHHH, which has led to the proposal of a two-step diagnosis [9]: request genetic testing in all patients with normal or high PTH levels, hypercalcemia.
+Although limited in its sensitivity and specificity, the CCCR can alert the clinician about the possible presence of HHF, even with urinary calcium excretion within 24 hours “normal” [10].
+FHH is a rare entity and sometimes its clinical presentation overlaps with PHPT, much more common.
+The 24-hour urinary calcium excretion can be low, normal or high in both pathologies, which can confuse us in the diagnosis.
+It should be borne in mind that CCCR can help us to differentiate between both entities, and that genetic testing to determine mutations in CaSR is the only safe method for diagnosis, although these necessary tests are not sensitive and even a careful family history.
+In conclusion, it should be borne in mind that, in the presence of mild hypercalcemia, clinicians must consider the possibility that this is a FHHH, because despite its name, neither hypercalcemia nor unnecessary genetic testing can help us.

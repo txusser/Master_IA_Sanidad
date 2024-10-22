@@ -1,0 +1,29 @@
+The second case was a 25-year-old woman with a history of systemic lupus erythematosus, lupus nephritis and living donor kidney transplantation 22 months ago; received management with tacrolimus and mycophenolic acid.
+Before hospitalization, he presented cough, initially dry and then with purulent expectoration, of one week of evolution with hemoptoic paints, non-quantified fever, asthenia and adynamia.
+On admission examination, there were no abnormal findings on cardiopulmonary auscultation or signs of respiratory distress and the initial chest X-ray was normal.
+The initial diagnosis was acute bacterial bronchitis and it was decided to handle amoxicillin on an outpatient basis for 7 days.
+The patient consulted again 72 hours later due to fever and dyspnea.
+Physical examination at admission revealed right tachypnea, feverish tachypnea, and absence of vesicular murmur on the right lung base. A new chest X-ray showed opacity of the lower two thirds of the hemis
+1.
+A chest ultrasound showed pleural effusion with multiple septa inside.
+The inferior lobe was removed and abundant right pleural effusion with pus and fibrin was found inside, and segmental necrosis was found on the right diaphragmatic face, with "hepatization" (sic.) (hepatization)
+Biopsy and drainage of pleural effusion plus decortication were performed.
+The pathology report revealed a pulmonary wedge with acute necrotizing pneumonia and multiple bacterial colonies of cocci.
+Postoperative evolution continued in the intensive care unit, requiring vasopressive and respiratory support, and he developed secondary septic shock and acute renal failure, after which linezol 600 mg was initiated every 12 hours.
+The patient recovered well, with decreased systemic inflammatory response, and respiratory and inotropic supports were removed.
+However, the patient developed a new fever, increased leukocytosis and neutrophilia, and a new finding of systolic murmur in the pulmonary area. A transesophageal echocardiogram was performed, which revealed an infective endocarditis on the right pulmonary valve.
+Given the recovery of renal function, it was decided to change antibiotic treatment to vancomycin, 1 g intravenously every 12 hours, with monitoring of serum levels to reduce the risk of nephrotoxicity.
+The clinical evolution was adequate, so it was discharged, to complete six more weeks with vancomycin in the home hospitalization service and with new echocardiographic control.
+Pleural fluid samples from the two patients were resistant tuberculosis in the clinical laboratory, with identification of gender and species by microbiological method (MicroScan WalkAway® plus System, Dade Behring.
+Molecular confirmation was performed in the reference laboratory (Instituto de Genética Bacteriana, Universidad El Bosque).
+Species identification and presence of mecA gene were confirmed by polymerase chain reaction (PCR) (7).
+Minimum inhibitory concentrations (MIC) were determined by agar dilution test, according to the recommendations of the Clinical and Laboratory Standards Institute (CLSI) (8).
+Both microorganisms were susceptible to, amphenicol, linezolid, cyprofloxoxacine, erclinda, clindamycin, tetra, gentamicin μmycin resistant (CIM only).
+The strain S. aureus 29213 was used as control.
+Infections caused by MRSA outside the hospital are associated with the presence of PVL (lukF-PV and lukS-PV genes) and to the staphylococcal cassette chromosomic type IV (9cSC, cc).
+The two isolates were positive for the lukF-PV and lukS-PV genes and SCCmec type IVc, exfoliative toxin (eta), operonic protein, clumping factor a fibrinogen (cfect).
+None of the isolates contained the mobile genetic element that encodes the catabolism of the tape measure (ACME) (12).
+The USA300-0114 strain was used as control.
+Pulsed field electrophoresis was performed with digestion with restriction enzyme SmaI in the genomic DNA of pleural fluid MRSA isolates in both cases.
+Electrophoretic patterns were classified according to the criteria described by Tenover et al (13), and analyzed with the Fingerprinting II program (Bio-Rad Laboratories, Hercules, CA), with a Dice similarity coefficient.
+Macrorestriction analysis with SmaI showed two MRSA isolates possibly related to clon USA300, with a similarity of 86.67% for case 1 and 78.13% for case 2.

@@ -1,0 +1,10 @@
+Varón de 19 años de edad con antecedentes de bronquitis crónica que acude a urgencias del hospital por dolor abdominal, nauseas, disuria y fiebre de 8 horas de evolución.
+En la exploración se observa un abdomen distendido, duro a la palpación con defensa voluntaria, doloroso de forma difusa con predominio en fosa ilíaca derecha, peritonismo difuso y palidez cutánea. La analítica muestra un cuadro de anemia, leucocitosis con intensa desviación a la izquierda e hipoproteinemia.
+Con el diagnóstico de peritonitis, se realiza estudio de imagen (ecografía, RNM, TAC) en los que se describe una gran lesión ocupante de espacio, quística, multiseptada, infiltrante, que ocupa la mayor parte de la cavidad peritoneal, mayor en el compartimento inframesocólico, extendiéndose hasta la pelvis menor, que estira y comprime el mesenterio y rechaza las asas de intestino delgado. Ante la sospecha de neoplasia maligna, se realiza laparotomía exploradora en la que se encuentra una tumoración multiquística que afecta a todo el mesenterio, desde íleon hasta ángulo duodenoyeyunal, con afectación del borde mesentérico. Se toma biopsia de la lesión y se realiza lavado peritoneal y drenaje.
+
+Macroscópicamente, la pieza recibida es una formación de aspecto quístico que mide 8x5 cm y que al corte corresponde a una formación multiseptada, de paredes finas y brillantes, ocupadas la mayor parte por líquido blanquecino de aspecto proteináceo, y algunas de ellas por material de aspecto purulento.
+En el estudio microscópico, se observan abundantes estructuras vasculares de diverso tamaño y forma, tapizadas por endotelio aplanado, sin atipia, con presencia de haces incompletos de músculo liso en las paredes de las formaciones quísticas de mayor tamaño.
+
+En el estudio inmunohistoquímico se pone de manifiesto la expresión de CD31 ( DAKO Cytomation, Carpinteria, California) por las células endoteliales que tapizan estos espacios.
+El paciente cursa tras la laparotomía con fístula quilosa, que cede tras reposo digestivo y nutrición parenteral total, permaneciendo asintomático a los seis meses.
+

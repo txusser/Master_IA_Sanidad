@@ -1,0 +1,19 @@
+This is a 10-year old singer, mestizo, with a history of frequent manifestation of ticks, from the city of Arica, a border city with Peru.
+The patient had a clinical picture of six weeks of evolution with commitment of general status and anorexia, which was diagnosed with aspiration in the last month oral bleeding; symptoms did not improve after initial therapy with vitamin B and antimicrobials (metronidazole and e
+Their owners consulted a veterinarian to request euthanasia due to progressive deterioration.
+Physical examination revealed weakness, gingival bleeding and multiple hematomas.
+Before euthanasia, a blood sample was obtained for study due to clinical suspicion of ehrlichiosis.
+Thrombocytopenia of 30,000 platelets/mm3, (normal values for dogs 150,000 to 500,000/mm3), mild anemia with haematocrit 32% and Hb 10.5 mg/dL normal canine Hb-19400 blood counts.
+A determination of IgG anti-E. canis and anti-A. phagosome precision of 100% was performed using a rapid immunochromatographic kit (SNAP 3Dx Plus Test, Idexx®, USA), with a standard sensitivity of 794.53% (
+Canine serum was positive for E. canis and negative for A. phago philum.
+DNA was extracted from the blood sample using the Wizard DNA Purification (Promega) kit.
+PCR was performed using EHR-OUT1 and EHR-OUT214 primers that amplify the 16S rRNA gene of Ehrlichia and Anaplasma genera.
+Amplification was performed using the touch down PCR method, which consists of 14 cycles of denaturation for 30s at 95°C, nested for 30s at 74.4°C (decreasing temperature by 9014°C).
+Then, 19 cycles of denaturation for 30s at 95°C, annulling for 30s at 67.4°C and extension for 90°C, using a final volume of DNA C reaction of 300 μL 72.
+The fragment obtained from approximately 1,000 base pairs was subjected to a new amplification by nested PCR using specific internal primers for Ehrlichia spp GE2F and EHRL3-IP214.
+For this purpose, 1 μL of the previous reaction was used in a final volume of 25 μL.
+The amplification consisted of 35 cycles of denaturation for 30 s at 95 C, annulling for 30 s to 50 s and extension for 30 s at 72°C 120lich. The expected presence of Ehr was 72 bases.
+To identify the species of Ehrlichia, the product of the first PRC was sequenced with the reverse sider EHR-OUT2 obtaining a fragment of 210 base pairs.
+This sequence showed 100% homology with the strain of E. canis (DQ915970.1) reported in Peru in 200715.
+A genetic replicameter based on 16Sr sequences was constructed using the nearest neighbor RNA method (Neighbortwo-Joining). The distance matrix was calculated using the Kipstra method.
+Pathogenetic tree was created using MEGA 4.023 software.

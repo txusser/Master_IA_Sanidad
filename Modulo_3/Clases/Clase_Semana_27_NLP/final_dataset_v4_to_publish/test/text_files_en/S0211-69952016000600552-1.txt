@@ -1,0 +1,38 @@
+A 26-year-old woman, with no relevant history or chronic treatment, who consulted in Primary Care due to general malaise, cramps and paresthesias in hands and feet and, for two days, also referred impossibility to elevate the left eyelid.
+In Primary Care, an analytical control was requested and a creatinine level of 4.6 mg/dl was detected (the only previous recorded control available in our center was 6 years before with a creatinine level of 1.5 mg/dl), which is why.
+No family history of kidney disease was found in any family member.
+Ev
+Her blood pressure was 135/67 mmHg, heart rate 120 bpm and temperature 37.5°C, with an anodyne physical examination.
+Repeated blood tests in the emergency department confirmed the deterioration of renal function (creatinine 5.1 mg/dl and urea 245 mg/dl), together with 124mmol/l of magnesium normal blood count; normal calcium pH 7.08 mmol/carbonic acid; 204.013 white blood cell count; normal blood cell count;
+Other analytical determinations showed: calcium 7.4 mg/dl; 5.6 mg/dl; PTHi 298 pg/ml; vitamin D 18,27 ng/ml and serum phosphorus 8.8 mg/ml.
+Blood electrophoresis showed decreased gammaglobulins.
+Serology for B, C and HIV was negative.
+The urine systematic had pH 6.0, blood+, leukocytes +++.
+In 24-hour urine, proteinuria was 0.73 g, creatinine clearance was 12 ml/min, urine output was 600 mg, calciuria was < 4 mg/kg and oxaluria was 101).
+The electrocardiogram showed sinus rhythm, with ST elevation of 1mm in all leads.
+The chest X-ray was normal.
+A plain abdominal X-ray showed extensive bilateral renal calcifications.
+After correction of hypocalcemia, hypomagnesemia and metabolic acidosis, the patient was discharged, with no relevant incidents during hospitalization.
+The analytical values at discharge were creatinine 3.6 mg/dl; sodium 142 mmol/l; potassium 4.4 mmol/l; pH 7.43; bicarbonate 24.6 mmol/l; magnesium sodium calcium 103 mcg/dl; calcium ionized calcium corrected 1.9 mg
+1.
+After about 48 h, after being discharged from the Nephrology Department, she consulted in the Emergency Department because of the impossibility of speaking and performing tongue movements.
+In addition, the patient reported that the night before presented alteration in the control of movements of the right hand.
+In addition, severe asthenia was associated with difficulty.
+He had no fever or headache.
+On physical examination, blood pressure was 102/72 mmHg, heart rate 75 bpm, basal oxygen saturation 98%, and the rest of the examination was normal.
+Blood analysis was: creatinine 3.6 mg/dl; sodium 141 mmol/l; potassium 4.4 mmol/l; pH 7.43; bicarbonate 24.6 mmol/l; calcium 8.6 mg/dl; corrected ionized calcium 1.16 mmol/l.
+In this service we performed the edrophonium test (negative), non-contrast brain CT (without significant findings), EEG (abundant sprouts of paroxysmal activity [ondas theta] on the left temporal region, with bilateral sprouting).
+Treatment was initiated with levetiracetam 250 mg/12 h, which was insufficient for seizure control.
+The patient was admitted to the ICU due to focal status, no response to diazepam (10 mg hasta) or to boluses of valproic acid.
+Since then, the patient remains asymptomatic.
+Subsequently, in the Neurology ward, the patient was managed with asymptomatic oral medication and discharged with 500 mg/12 h of valproic acid orally.
+Genetic study
+Given the absence of a family history of kidney disease, the current situation of advanced renal failure and, therefore, the diagnostic difficulties to perform specific studies to clarify what was the primary process that led to the development of nephrocalcinosis was.
+We requested the analysis of all genes associated with known tubulointerN deficiency of known genes http://nefrochus.villaweb./en/ which includes the analysis of the nephrochuin gene variants found in Santiago.
+The study determined that the patient (II:1) had a missense mutation in exon 14 of the SLC4A1 gene associated with autosomal dominant distal renal tubular acidosis (AD-RTA).
+This mutation (c.1766G > A, fig. 2A) represents the substitution of a basic amino acid (pLI.1766G > A, Fig. 2A) associated with a distal genomic acidosis syndrome rs12.
+The functional study performed with several tools for prediction in silico awarded the gene variant pathogenicity criteria (SIFT: publications; poly mutation: Publicphen2: publications; LRT: media advisor; MutationTaster: disease_caus).
+1.
+Cosegregation study
+In order to decide on a possible living kidney transplant donation, a cosegregation study was conducted in both parents (I:1 and I:2).
+Not being a carrier of the R589H mutation indicates that this mutation is de novo or spontaneous, and thus can be candidates for donation.

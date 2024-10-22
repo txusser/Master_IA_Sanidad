@@ -1,0 +1,86 @@
+Blanca, 87 years old, lives in a residential center for 12 years.
+Recently, he suffered his third fall, this time presenting a hip fracture.
+It progresses to hypertension and diabetes, and has urinary incontinence, problems that have worsened after the last fall episode.
+Blanca suffers from moderate cognitive impairment, so sometimes it is hard to pay attention; in addition, she has instability syndrome and high risk of falls, and it is hard for her to remain standing without help; therefore, she requires rehabilitation.
+In addition, Blanca suffers from chronic back pain that has also increased by falling, which prevents her from resting and alters her sleep-rest pattern.
+Beding has caused chronic constipation to be accentuated and has increased the risk of pressure ulcers.
+This event has intensified his mood disorder, as now Blanca is discouraged by requiring help for his care and losing autonomy to develop certain activities.
+In addition, it manifests fear of suffering a new fall, requiring the attention of another person continuously at the time of performing any activity or displacement.
+Blanca has family support and a good social environment.
+It is accompanied most of the day by your family or other people from the center.
+After analyzing this case, we propose to conduct a literature search to know how to assess the risk of recurrent falls and the interventions that can be performed.
+CASE ANALYSIS
+The case analysis is structured in assessment of the risk of recurrent falls and interventions for the prevention of recurrent falls.
+And, in turn, each section is divided into physical and emotional aspects.
+Assessment of the risk of recurrent falls
+PHYSICAL ASSESSMENT
+According to the American Geriatrics Society (AGS) and the British Geriatrics Society (BGS), it is considered appropriate to perform an assessment of the risk of falls of the elderly on admission to the residential center and annually to correct them.
+In the clinical setting, several scales are used, such as the “Tin8 scale”, validated in Spanish, which assesses ambulation and balance through direct observation10, and has shown to be appropriate and complete for elderly falls.
+In addition, the Downton11 scale is also used, which assesses risk factors such as: previous falls, medication use, sensory deficit and mental and gait status; the incontinence multiple falls scale gomp et al recommends the use of a functional scale.
+Other scales that measure the risk of falls are the following: Activities-specific Balance Confidence (ABC)15, Accident Risk Screening Tool (FRST)16, Fall Risk Screening Index (FRI19)
+PSYCHOLOGICAL ASSESSMENT
+When an elderly person falls, this can trigger feelings of anxiety and fear of suffering a similar event again.
+That is, the person can develop what is known as the “post-fall syndrome”, loss of confidence in himself and restriction of certain activities of daily living (ADL) as a consequence20.
+The social relationships the patients had before may even be affected21.
+Therefore, it is essential to assess the psychological state of the elderly after suffering a fall3.
+The literature identifies several instruments that can be used to assess this aspect.
+Among them stands out the Failures Scale-International (FES-I), an instrument that measures the patient's confidence and ability to prevent falls while performing ADLs, since it has already suffered a previous fall22.
+This scale is validated in 14 languages and is easy to use in the clinical setting22.
+Table 1 shows the Spanish translation.
+In addition, other scales that assess the individual's state are: Survey of Activities and Fear of Falling in the Elderly (mSAFFE) and Iconographical both validated Falls Scale (icon-FES)
+While mSAFFE determines the fear of falling, the icon-FES allows obtaining global information about the concern of the person in relation to falls24.
+1.
+Translated into Spanish by Ramona Lucas23.
+1.
+In the clinical case presented above, the risk of recurrent falls and the fear of falling again presented by Blanca were not assessed, supported by instruments such as those mentioned above.
+Only general data such as history of falls, pharmacological treatment, sensory deficit, cognitive status and gait difficulties, and the use of walking support instruments were recorded in the medical record.
+Evidence suggests that using specific scales, such as those mentioned above, allows a systematic and complete assessment of the person after a fall.
+Interventions to prevent recurrent falls
+R/C PROVISIONS RELATING TO RISKS
+To prevent recurrent falls, it is essential to identify the risk factors that have caused previous falls, and apply appropriate interventions at an interdisciplinary level and individually3.
+There are different risk factors that predispose the elderly to fall and make them more vulnerable.
+Therefore, the first intervention for effective prevention would be to identify them27.
+These risks can be classified into intrinsic or non-modifiable and extrinsic or modifiable.
+INTRIGNMENTS
+One of the intrinsic factors to consider is sarcopenia27.
+We can perform interventions on people with this difficulty, as studied by Sherrington et al.
+(2011), which has shown that the combination of strength exercises with balance exercises and training decreases the number of falls28.
+Another intrinsic factor that would increase the incidence of falls is the change in sensory perception27.
+Therefore, we must intervene to ensure that the person is in an environment free of obstacles and with recurrent falls, thus avoiding them.
+It is important that the elderly go to the ophthalmologist and optometrist to review their vision.
+In addition, they should use their glasses or hearing aids, if needed, to improve sensory perception.
+Polypharmacy also increases the risk of falls.
+Therefore, the medication they consume should be reviewed and the physician should be advised to adjust the necessary doses3.
+It is also essential to assess possible forms of self-medication, as it is usually common among the elderly.
+Multipathology also contributes to falls.
+It is important to identify which diseases the patient suffers and whether they can represent a risk of falls, to lead to frequent control of these pathologies27.
+In this clinical case, the team worked with other professionals, so that physiotherapists performed balance and gait exercises with the resident to recover and gain mobility to prevent recurrent falls.
+In addition, residents were monitored every year by ophthalmologists, and their ears and hearing were assessed every 6 months.
+Nursing, along with medicine, reviewed their medication periodically so that the resident would take whatever was necessary with doses adjusted to their needs.
+As for pluripathology, blood pressure and glycemia controls were performed every month, assessing whether they required adjustments in their treatment.
+OUTCOME
+Among the extrinsic risk factors, we highlight the place of residence of the elderly, as it should always be adapted to their limitations, eliminating the arquitectonic barriers that may pose a greater risk to their integrity.
+Soils should be avoided slippery, inadequate light, filamentous fungi, etc.27.
+The residents' rooms should be spaces for mobility not to be restricted.
+The furniture must be stable and the seats must carry arms.
+The bathrooms should have enough space and have bars for greater safety.
+If the person is bedridden and has a high risk of falls, the bed should be stopped and as low as possible.
+In addition, the placement of bars in bed will be carefully evaluated.
+This is a controversial issue because there are authors who consider it a strategy and others rather a risk because it involves a restriction for the patient.
+Nurses can collaborate with the rest of the team to assess the best option30.
+Finally, it is important to focus on a footwear with low heel and non-slippery sole.
+In addition, clothing should be adequate for each person13.
+In this clinical case, the residential center was adapted to the needs of its residents, including Blanca.
+There were no arquitectonic barriers, the rooms were spaces and the passes had bars for residents to find support when travelling.
+Training was adequate and received supervision to perform ADL.
+In addition, it was sought that the footwear and clothing of residents were appropriate.
+R/C INTERVENTIONS AND EMOCIAL CHARGES
+Psychological intervention of the risk of falls is important due to the emotional impact they produce21.
+Meléndez-Moral et al, in a 2014 study, demonstrated that it is possible to increase safety and reduce the fear of falling of patients through an educational program to perform balance correctly and safely greater coordination of exercises ADL, through
+It is also effective to provide education, providing information to the patient on how to get up after a fall, how to enter and leave the bed, how to sit up and stand up and how to dress among other20 health problems.
+Interventions on residents' behavior can improve their confidence in themselves and the feeling of control not to fall21.
+To do so, professionals should help residents to establish realistic goals when performing ADL, and verbalize what is their conception of themselves.
+It is also necessary to be able to transform their fears into positive responses, such as exercising or the initiative to change the environment in which they live to feel safer21.
+In the case of Blanca, no type of intervention was carried out, either for evaluation or therapy, to reduce the psychological consequences that triggered the fall in the resident.
+However, considering the recommendations of the specialized literature, this would have helped to plan specific care for the management of the post-fall syndrome presented by the resident.
+Table 2 lists possible interventions that may have been implemented in this case.

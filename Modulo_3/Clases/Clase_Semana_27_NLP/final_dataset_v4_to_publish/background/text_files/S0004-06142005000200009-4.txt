@@ -1,0 +1,4 @@
+Paciente de 70 a. con PSA de 30 ng/ml. Los valores previos de PSA eran de 12 y 19 ng/ml respectivamente. El paciente había sido sometido a 2 biopsias prostáticas previas, la 1ª por sextantes y la 2ª mediante 8 muestras, puesto que por entonces ya habíamos empezado en nuestro servicio a tomar 8 muestras en los casos de rebiopsia.
+Al realizar la E-RME se objetivó una extensa área hipointensa central, que por espectroscopia mostraba en algunas zonas unos índices sugestivos de neoplasia, tal como se muestra en la figura, sobre todo en los voxels 29,30, 31 y 32. En estos voxels se observan curvas de colina elevadas con respecto a las de citrato, lo cual sugiere la presencia de neoplasia en esta zona. En dichos gráficos se observa también una 3ª curva, de banda ancha que habitualmente corresponde a la presencia de grasa.
+Posteriormente la biopsia confirmó la presencia de un adenocarcimoma Gleason 7 (3+4) en la zona central de la próstata.
+

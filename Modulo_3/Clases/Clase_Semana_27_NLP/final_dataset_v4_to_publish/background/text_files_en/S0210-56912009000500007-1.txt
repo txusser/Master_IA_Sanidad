@@ -1,0 +1,28 @@
+A 26-year-old male, with no relevant past medical history, suffered a road accident.
+Perform a medicalized ambulance in GCS of 4 points (M2-O1-V1).
+Sedation, intubation and transfer to our center were performed.
+On admission computed tomography (CT) showed bilateral extraaxial hemorrhagic base with bilateral extension in right internal capsule and another in left internal capsule and caudaco nucleus caudacoparum; diffuse cerebral edema with obliteration of the skull base small fracture time
+It was decided to monitor the patient with an intracranial pressure (ICP) sensor and another oxygen tissue pressure sensor placed in the right frontal lobe.
+Initial ICP levels were high, but could be controlled with sedation and relaxation.
+However, starting 48 hours after admission, ICP increased again, so a control cranial CT scan was performed (third from admission), which showed an increase in the right contusion and a temporoparietal volume of approximately 28 ml.
+Surgical intervention was decided, and a right frontotemporal craniotomy and contusion evacuation were performed.
+The impossibility of closing the dura by a considerable swelling of the brain was not observed.
+After surgery, ICP was controlled and all therapeutic measures could be progressively removed.
+The patient was discharged after 20 days with a GCS of 10 points (O4-M5-V1).
+During surgery, images of the microdislocation were recorded.
+Previously, the research committee of our hospital had approved the study.
+Also, the patient used as control and the relatives of the patient of the clinical case signed the informed consent; in both cases they authorized the performance of the technique.
+After evacuation of the contusion and before starting the closure by planes, 8 10-s sequences were recorded. The recordings were made on the cerebral cortex, at the limit of the penu refused surgical resection.
+1.
+The control patient was a 51-year-old male with no relevant medical history who underwent elective surgery for an incidental brain aneurysm of the right middle cerebral artery.
+There were no lesions of any type in the parenchyma, so we consider it a good example of the normal state of cerebral microarray.
+The images shown were also obtained on the cerebral cortex of the frontal and temporal lobes.
+1.
+When comparing both images, it can be seen that the background in Figure 1 is black due to the large quantity of extravasated particles.
+In addition, Figure 1 shows a picture in the form of screen that could correspond to the pia-arachnoids.
+The greatest difference between both images is vessel density.
+Figure 1 shows only vessels, although the image corresponds to the pericontusional cerebral cortex.
+Moreover, the few vessels observed are difficult to identify when comparing this image with the control patient.
+Numerically, these differences are shown in Table 1.
+The total length of vessels in the control patient was 5,120 μm and 625 μm in the trauma patient.
+Regarding density, in the control case, vessels occupy 14.17% of the total area of the image, while in the TBI patient, only 2.51%.

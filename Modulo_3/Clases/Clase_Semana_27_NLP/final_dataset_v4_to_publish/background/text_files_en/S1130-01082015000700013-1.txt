@@ -1,0 +1,44 @@
+A 62-year-old woman, self-employed for activities of daily living, with no relevant medical history.
+As a result of dysphagia to liquids, a gastroscopy was performed and a polypoid tumor lesion was observed, bleeding on the rock, non-stenotic, located in the middle third of the esophagus, at 25 cm of the wall.
+The pathological study by biopsy was diagnosis of squamous cell carcinoma.
+The cystogram showed a stenosing lesion in the middle third of the esophagus with esophageal dilation superior to it.
+Endoscopic ultrasonography showed a tumor with involvement of the adventitia.
+A computed tomography (CT) scan revealed mediastinal adenopathy, liver and lung metastases.
+The patient was staged as T3N1M1.
+Chemotherapy was initiated based on cisplatin and 5-fluorouracil. After 3 cycles, a partial response of the pulmonary, hepatic and primary tumor lesions was observed by CT; however, after 6 cycles, there was stability of the other esophageal lesions.
+At that time, the patient presented with significant dysphagia to fluids with postprandial vomiting due to tumor stenosis, which made it difficult to eat properly, and consequently had a weight loss of 3 kg at 7 months of diagnosis.
+The patient had a performance status of 0 and was considered tributary of brachytherapy for dysphagia control.
+Before treatment, CT and endoscopic ultrasound were performed to determine the length and extent of the lesion in the esophagus and to rule out the presence of fistulas that could contraindicate the procedure.
+Establishing the American Brachytherapy Society (ABS) indications (4) the patient was considered to be receiving treatment with 3 brachytherapy sessions to administer a dose of 6 Gy in each one.
+The procedure for each treatment was as follows:
+1.
+Endoscopy and placement of the applicator.
+In our center's Digestive Endoscopy Service under sedation, gastroscopy was performed to evaluate the tumor to be treated.
+A stenosing tumoral lesion was observed (10 mm thick), located between 24 and 33 cm from the dental arch, circumferential and that did not affect the carious region.
+A flexible metal guide wire is placed through the endplate.
+The gastroscopy without moving the metallic guide was removed.
+A 10 mm diameter Bonvoisin (Nucletron®) brachytherapy applicator was then placed by sliding.
+This applicator is characterized by: (a) having a central light that allows its displacement through the metallic guide wire inside the esophagus and the passage of the radioactive source once the treatment is planned; and (b) to treat the tumor margins,
+Finally, the applicator was attached to the skin at the agreed distance of the dental arches with adhesive tape.
+2.
+Treatment planning.
+The patient was sent to the Ontario Radioterápic Service where the correct positioning of the applicator with respect to the dental arches was verified.
+A tube of transfer is placed inside the applicator for the passage of the radioactive source and within it a simulated source or metallic guide with radiopaque marks, separated by one centimeter from each other.
+Subsequently, a CT study was performed for subsequent treatment planning, with the patient in the same position in which endoscopy was performed.
+The CT sections were obtained every 1 mm. Once the image was obtained, it was transferred to the Planning System (Oncentra Braqui version 4.1, Nucletron®).
+In each section the esophagus was delimited to treat and the possible organs of risk such as vessels, heart and marrow.
+The bronchus in this patient did not present any proximity.
+Finally, dosimetric calculation was performed for a prescription of 6 Gy to 5 mm from the applicator surface in each of the 3 treatment sessions.
+The planned length of treatment was 11 cm.
+3.
+Treatment.
+The patient was placed in a radioprotected room where, after removing the simulated source, the transfer tube was connected to the radioactive source transfer equipment (Nucletron MicroHDR®).
+After verifying the correct position of the applicator, the patient began isolated treatment in the radioprotected room during the administration of the treatment (10 minutes).
+In this situation, a visual and external radiophonic control system allowed monitoring the patient.
+Once the treatment was completed, the transfer tube was disconnected and the applicator was removed without incident.
+The patient was discharged a few hours later.
+The other two treatment sessions were carried out one week apart and by the same procedure of applicator placement and treatment described above.
+Dysphagia improved after the second session and after 4 weeks of treatment a complete response of her dysphagia was observed. After that, her diet was normal and her weight increased progressively.
+Controls were also performed by means of endoscopic ultrasound and chest CT.
+At the end of brachytherapy, the patient received a second line of chemotherapy according to docetaxel scheme 75 mg/m2 weekly with progression of their metastases after 3 cycles.
+The patient died 4 months after brachytherapy for sepsis and was free of dysphagia.

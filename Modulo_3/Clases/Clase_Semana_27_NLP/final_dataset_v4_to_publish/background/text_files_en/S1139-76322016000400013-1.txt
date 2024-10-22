@@ -1,0 +1,102 @@
+A nine-year-old African-Latin American male patient born in Italy with a glucose-6-phosphate-dehydrogenase (G6PD) deficiency diagnosed during neonatal screening.
+There is no allele or grade.
+He was referred to our hospital six years later for follow-up by the Hematology Service as a reference hospital.
+Two years later, he was discharged from hospital because he had never suffered a hemolytic crisis.
+There are several analytical tests 180ml with bilirubin (high limit (1.97-3.7%), without anemia; normal total (0.8-1 mg/dl); G6PD values between 12 and 69 U/10 serum erythrocytes (normal: 146-376).
+She comes to consultation because her private dentist does not dare to perform dental extraction for painful caries, since lidocaine is usually used for this intervention, an oxidizing drug listed for this type of patient.
+From the consultation she is sent to Primary Care Dentistry, where they refer to the reference hospital.
+There he consults with the Hematology Service, where he can't solve the anesthesia problem.
+The pediatrician then sends him back to the Department of Surgery and Anesthesia of the hospital and these to the Department of Hospital Dentistry.
+There they tell him that it can only be extracted under general anesthesia and that it does not meet criteria for being diagnosed with this form.
+After six months of follow-up, the mother consults her pediatrician again, who, through the mail list of the partners of the Madrid Association of Paediatrics of Primary Care, can use local anesthetics without showing the problem.
+With this information and the corresponding medical literature, it is derived again to the dentist of the Area, where they tell him that this medication is not available in the literature and that there can not be extracted any tooth for being a risk hospital;
+Finally, the tooth fell alone and made prophylactic seals without anesthesia in his private dentist.
+BIOQUAL AND PHYSIOPATOLOGICAL BACKGROUND
+Pentose phosphate pathway is responsible for cellular oxidative metabolism.
+G6PD is a key enzyme in this metabolic pathway, so it is present in all cells.
+Their total absence is incompatible with life.
+It catalyzes the first passage of the pentose pathway, oxidizing glucose-6-phosphate to 6-phosphogluconic acid.
+In this H- donor reaction, the nicotinamide-adenine-dinucleotide-phosphate (NADP) is reduced in NADPH (its reduced form), which maintains the oxidative stress in the erythroSH state.
+When a mutation decreases the activity, quantity or stability of G6PD, adequate levels of NADPH are not generated.
+Therefore, there will be reduced glutathione deficiency and reduced haemoglobin will be difficult.
+When this occurs, groups are oxidised hydryl from it, making it less soluble and facilitating its precipitation.
+This is observed in relation to ethnicity as defined by Heinz.
+In addition, with oxidation, there is accumulation of spectrin aggregates and other membrane proteins, which deform authenticate and make it rigid, giving a "delayed" appearance.
+They are, therefore, discovered by macrophages passing through the spleen.
+Sometimes this extravascular hemolysis component is added an intravascular component due to cellular instability1.
+G6PD deficiency generates increased susceptibility in erythrocytes.
+This is due not only to the fact that it is the only source to reduce NADP, but also to the fact that, as there is no nucleus, they cannot synthesize enzymes.
+Selded cells are able to adapt the number of G6PD molecules to respond to oxidative stress because they have mechanisms to produce more.
+However, after enucleation, erythrocytes cease protein synthesis.
+Therefore, G6PD molecules containing an erythrocyte that were synthesized in their precursor stages are those that are.
+Lipids and younger erythrocytes have the highest enzymatic activity decreasing as they age.
+There is a surplus available for stress situations in a person without G6PD deficit.
+Each mature erythrocyte has, upon entry into circulation, an initial enzymatic activity 50 times higher than that required to survive2.
+As erythrocyte ages, the amount of G6PD gradually decreases, but always maintains sufficient levels.
+In an erythrocyte with G6PD deficiency, the surplus of this enzyme available for stress situations is exhausted before (sometimes rapidly), becoming vulnerable to oxidative stress.
+The complete absence of G6PD, as we have already said, is incompatible with life; therefore, mutations do not imply complete abolition of enzyme function, oscillating the most serious clinical possibilities from near-normality to involvement.
+PREVALENCE
+It is estimated that 7.5% of the world population carries a G6PD deficiency gene.
+Therefore, it is not a rare disease.
+The incidence varies from 0.1% in Japan and North Europe to 62% among Jews kurdos.
+The most affected populations (about 30%) are in Africa, Asia, the Middle East, Mediterranean and New Guinea.
+90% of the victims are male, but women may be heterozygous carriers.
+Homozygous women with symptoms similar to those of affected men have also been described.
+Moreover, even though they are heterozygous, due to the phenomenon of lionization, they may sometimes present clinical symptoms3.
+ESTABLISHMENT
+The genetic defect is found in the long arm of chromosome X, in locus Xq28.
+More than 60 mutations have been described, some simple and others more complex.
+The World Health Organization (WHO) classifies this deficiency into five groups:
+1.
+Group I: includes variants with severe deficiency level (< 10%), which manifest with chronic hemolytic anemia and non-spherocytic stenosis.
+One of the mutations is due to the fact that one of the extremes of the enzyme affects the attachment of the NADP, thus its function is almost null (lasting hours).
+Erythrocytes have a shorter half-life even without being subjected to oxidative stress.
+Severe illiteracy of the neonate at risk for congenital syphilis may also be present.
+Group II: includes variants with severe deficiency (Mediterranean form) and enzyme activity slightly above 10%.
+This group has more mutations (A-), making the enzyme more and less effective.
+The duration of the active enzyme is only a few days, so oxidative stress triggers intra- or extra vascular hemolysis.
+It affects populations of African origin, Greek, Spanish, Jewish and Spanish.
+It is associated with favism.
+Group III: includes variants with moderate level of deficiency whose enzymatic activity is between 10% and 60% of normal.
+It usually has the A+ allele.
+Group IV: includes variants with no deficiency or very mild deficiency (60%) of the B allele.
+Group V: includes variants with higher enzymatic activity than normal.
+1.
+In these last two groups, there is no clinical evidence of G6PD deficiency.
+CLINICAL PARTICULARS
+The clinic is marked by the degree of deficit, which makes it very heterogeneous.
+Thus, for example, the A+ variant causes a little severe clinical presentation because the G6PD of erythrocyte loses its function after 50-60 days of circulation, suffering hemolysis 20-30% of erythrocytes.
+But the Mediterranean mutation (type A-), or WHO type I, is severe because G6PD of the erythrocyte loses its function much faster (between hours or few days of circulation).
+Therefore, most deficient erythrocytes suffer hemolysis.
+When contact is made with a stressful event and there is a deficit, acute hemolytic anemia can begin from hours to three days after suffering oxidative stress.
+It concludes when all erythrocytes deficient in G6PD have been hemolyzed and new erythrocytes have been synthesized with enzymatic activity at four and seven days.
+Oxidation can be caused by infections, diabetic acidosis, and consumption of oxidant drugs.
+The most important oxidizing agents are some drugs.
+Some are well studied (Table 1); however, in others, such as anesthetics, especially local anesthetics, there are important knowledge gaps (Table 2)4.
+1.
+Infections can trigger hemolytic crisis due to fever and acidosis.
+It has been established through divicin and irreversible isour proteins that produce glutathione oxidation.
+Hemolytic crisis evolves with abdominal pain, back pain, jaundice and anemia5.
+In patients with a deficit of G6PD, hemolytic anemia may occur. It is not a hemolytic anemia that can be aggravated by immaturity leading to severe hepatic failure.
+A blood test may show a decrease in haemoglobin, decrease in haptoglobin and increase in bilirubin and lactate dehydrogenase (LDH).
+Heinz and bitten.
+Urobilinogen and hemosiderin appear in the urine.
+Subsequently, erythropoiesis stimulated for four or seven days and the patient returned to normal.
+In cases of severe deficit, neutrophil dysfunction due to oxidative involvement of catalases has been described.
+This prevents phagocytosis of certain germs, leading to more infections1.
+DIAGNOSIS
+The diagnosis is made by measuring the activity of G6PD in erythrocytes.
+There are screening methods that consist in measuring NADPH by fluorescence after adding G6PD and NADP to a sample of red blood cells.
+There are also confirmatory methods in which the measurement of NADPH is made by means of a spectrophotometer.
+Normal values according to the technique and temperature; at 25 °C an enzyme between 5.5-8.8 U/g of hemoglobin is considered sufficient.
+It should be noted that the test is not valid if there has recently been a blood transfusion or an acute hemolytic episode, because old erythrocytes have hemolyzed and those remaining can give false negatives in circulation and have little time.
+In Spain, neonatal screening for this deficit is not performed.
+This is the case in Italy, where our patient was diagnosed.
+TREATMENT
+There is no specific treatment.
+Prevention is the best treatment.
+If there is a seizure, it is treated as any haemolytic anaemia.
+Cholecystectomy does not show benefits.
+In case of chronic hemolytic anemia, the use of folic acid may be recommended to avoid the possible deficiency that causes increased erythropoiesis.
+This may occur in patients with type I and II defects.
+Pregnant women who are heterozygous for the DG6PD should avoid oxidant drugs, since some may reach the fetal circulation and can also be transferred with lactation.

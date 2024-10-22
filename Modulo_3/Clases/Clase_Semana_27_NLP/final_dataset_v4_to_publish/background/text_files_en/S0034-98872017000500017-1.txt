@@ -1,0 +1,21 @@
+A 58-year-old woman with chronic kidney disease of unknown etiology since 1995 and on three-week HD since 1999.
+In April 2011 a frank TSH of 0.04 μIU/ml was investigated in routine tests, so it was referred in 2012 to endocrinological evaluation, where hyperthyroidism was confirmed by clinical manifestations.
+Graves Basedow disease was diagnosed with thyroid scintigraphy showing goiter.
+Anti-TSH receptor antibodies were not evaluated due to lack of access to this test.
+He was treated with propylthiouracil, the only antithyroid drug available in our institution at the time of diagnosis, this treatment was maintained for 30 months, achieving euthyroidism and was gradually withdrawn.
+Five months after drug withdrawal, suppressed TSH was again observed, but with normal T3 and T4, so it was decided to administer 131-I therapy.
+The patient received17 mCi of 131-I in capsule form (as the next sodium starch), immediately after a complete HD session and hospitalized in radioactive isolation for 7 days.
+There were no complications secondary to treatment.
+It is worth noting that this patient presented residual diuresis, at 400 cc/day.
+The first HD after 131-I administration was performed at 90 h with a Fresenius 4008 ml equipment and ultraethra tapered (QB) 300 ml (PES) 210 with a blood flow rate of 1.900 ml.
+The second HD was at 46 h of the first (6th day), with the same equipment, with a PES 170 filter, using the same parameters of QB, QD and QT, obtaining a net UF of 2,000 ml.
+Radiation exposure measurements were performed with Geiger Muller Fluke Biomedical model 489-110D meter in direct contact with the thyroid, at 1 and 1.5 meters from the patient on the days shown in Table 1, where rates are shown.
+During HD sessions we measured the exposure rate to which the nurse in charge was exposed and the dialysis team; in addition, we took aliquots of 1 ml Alfa Bec blood and dialysis fluid 131MB in order to measure the activity.
+1.
+The radiation exposure rates after the first and second HD were 0 μSv/h and 0.3 μSv/h for the equipment, and 3 μSv/h and 0.36 μSv/h for the dialysis filter, respectively.
+The exposure measurement of the nurse in charge of the HD sessions was performed with a direct reading dosimeter RAD-51/60/62, which resulted in 1.0 mR (10μSv) during the first HD session (4 h exposed).
+It is worth noting that the nurse used the wet apron and sat down after a shielded biombo when she was not in direct contact with the patient.
+Table 2 summarizes the activity of 131I measured in blood and dialysate fluid before, during and after HD sessions.
+1.
+One month after therapy thyroid function parameters still showed hyperthyroidism with TSH of 0.004 μIU/ml (VN: 0.27-4.2) and free T4 of 2.07 ng/dl (VN: 0.9-1.7).
+After 4 months, normalization of TSH (2.31 μIU/ml) and decrease of free T4 (0.730 ng/ml) were observed, which confirmed the effectiveness of the treatment, after which the patient continued treatment with oxygen.

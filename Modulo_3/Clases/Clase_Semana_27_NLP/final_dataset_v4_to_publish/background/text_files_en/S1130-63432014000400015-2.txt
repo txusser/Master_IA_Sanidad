@@ -1,0 +1,17 @@
+A 73-year-old patient with a respiratory infection due to Pseudomonas aeruginosa treated with Amikacin + Ceftazidima presented with fever associated with diarrheal stools.
+Empirical treatment with metronidazole was initiated and the detection of C. difficile toxin in stool was positive.
+He was diagnosed with severe and complicated ICD according to the criteria mentioned above and was referred to the resuscitation unit.
+The patient was febrile (axillary temperature > 38.5ยบ C), with hypoalbuminemia (serum albumin < 3 g/dL), abdominal discharge equation, Crs around 0.6 110 mg/dL (clarification).
+The radiological study by computed tomography showed compatible findings with pancolitis.
+This, in addition to the positive detection of C. difficile toxin, confirms the diagnosis of pseudomelanoma pancolitis and it is decided to modify the treatment.
+Oral vancomycin is administered at doses of 250 mg every 6 hours for 2 days.
+After this treatment, the patient improves by decreasing abdominal discomfort and changing the dose to 125 mg every 6 hours for another 13 days.
+After 7 days of treatment plasma trough values of 10.25 μg/mL were reached.
+Treatment is continued for a total of 15 days.
+Three days after discharge, the patient was admitted again for C. difficile reinfection. Oral vancomycin was started on a descending regimen starting at 125 mg every 6 h.
+After 7 days plasma concentrations were 5.94 μg/mL.
+After 14 days concentrations decreased to 2.65 μg/mL.
+The descending pattern was continued until concentrations were < 0.70 μg/mL with 125 mg every 24h.
+It is continued with 125 mg every 48 h, ending with 125 mg every 72 h.
+One week after the descending course, the patient was readmitted with a third reinfection.
+It was treated with 11 days of vancomycin 125 mg every 6 h until treatment with fidaxomicin 200 mg every 12 h was started.

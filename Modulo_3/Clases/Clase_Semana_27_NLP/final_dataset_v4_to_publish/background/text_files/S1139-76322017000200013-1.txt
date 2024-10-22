@@ -1,0 +1,10 @@
+Niña de diez años de edad que es atendida en Urgencias por presentar pérdida de conocimiento de unos 4 minutos de duración mientras realizaba gimnasia escolar, sin relajación de esfínteres, ni movimientos tónico-clónicos, ni cuadro vegetativo acompañante.
+Antecedentes familiares: no tiene historia de síncope ni de muerte súbita. Antecedentes personales sin interés.
+En urgencias mantiene las constantes estables, con exploración física completa, analítica de sangre y electrocardiograma de reposo normales.
+
+Es ingresada en observación en la planta de Pediatría, monitorizada, no presentando incidencias.
+Se realizan las siguientes pruebas complementarias: ecocardiograma normal, electrocardiograma (ECG) ECG-Holter normal. La ergometría, en el pico máximo de esfuerzo a 178-180 latidos por minuto, presenta bigeminismo y parejas de extrasístoles ventriculares (ESV) con morfología de bloqueo de rama derecha (BRD), permaneciendo la paciente asintomática en todo momento.
+
+Ante estos hallazgos es derivada a la Unidad de Arritmias del Hospital Vall d'Hebrón. Se realiza un test de provocación con adrenalina, observándose a partir del estadio 3 ESV frecuentes con bigeminismo, seguido de parejas de ESV bidireccionales e incluso una salva de taquicardia ventricular bidireccional. Se considera el test como positivo para taquicardia ventricular polimorfa catecolaminérgica (TVPC).
+Se le implanta subcutáneamente un detector de arritmias y se inicia tratamiento con nadolol 20 mg/12 h. En las visitas periódicas, la paciente no refiere síntomas y los electrocardiogramas son normales. A los dos meses de iniciar el tratamiento, la paciente está asintomática, el ECG-Holter es normal y en la ergometría no se aprecian alteraciones electrocardiográficas al 66% de la frecuencia cardiaca predicha para su edad (tratamiento: nadolol 20 mg/12 horas).
+Se realiza estudio genético a los padres, siendo la madre positiva para la variante c.7426T>A (p.Tyr2476Asn) en el gen RYR2, responsable de la TVPC.

@@ -1,0 +1,42 @@
+A 28-year-old woman with general malaise, fever, respiratory distress and deterioration in her general condition was admitted to our cardiovascular surgery ICU.
+His physician noted the history of fever and rheumatic heart disease, which caused severe mitral-aortic dysfunction.
+One month before, he had undergone a CA and aortic and mitral replacement.
+There were no perioperative or postoperative incidents.
+She reported having received diagnostic or therapeutic procedures that constitute a risk of developing dental caries.
+In his initial clinical evaluation, his temperature was 38.6°C, pulse 112 beats/min, respiratory rate 28/min, and blood pressure 100/50 mmHg.
+Oxygen saturation was 78% breathing room air.
+His mental state was confusing.
+Cardiovascular evaluation revealed jugular vein engorgement, prostrate noises and aortic and mitral murmurs at 3/6 intensity.
+Examination of the respiratory system showed decreased respiratory murmur in both lung bases and middle fields.
+There was also edema in the lower limbs.
+The main laboratory findings were: hemoglobin 8.9 g/dL, leukocyte count 39.200/mm3, CRP 42 mg/dL, creatinine 5 mg/dL.
+Emergency TTE confirmed aortic valve stenosis.
+A complicated septic shock was suspected, initiating treatment with inotropes and empirical antibiotic therapy with meropenem (500 mg every 24 h) and vancomycin (1 g every 4 days).
+Two blood cultures detected the presence of P. aeruginosa; then vancomycin was suspended and amikacin was added.
+Only the patient's hemodynamic condition allowed it, an aortic valve replacement was performed on day 5 since admission.
+Blood cultures were negative.
+Pathological examination of the prosthetic valve revealed findings consistent with a
+The culture of this piece was negative.
+On postoperative day 9, blood gases deteriorated abruptly and the patient died within a few hours despite medical interventions.
+Review of infection control
+The TIB investigated the medical records of the infection control program related to CA.
+This audit verified the existence of programs or policies for infection control, the noncompliance of an Infection Control Committee for nurses and doctors on sterilization processes, as well as the absence of written sterilization protocols.
+This, contrary to the regulations in Turkey, all public and private hospitals should actively develop and implement an infection control program.
+The BIT also reviewed the CA and detected that the catheters of one use were discarded after being used once, but that the disposable contrast medium injection pump during each CA procedure was not changed regularly after.
+Guidelines for the control of infections secondary to cardiac catheterization recommend the use of single-use disposable catheters or limit the replacement of solutions for each equipment, and include the inclusion of all face-to-face reception facilities.
+Finally, the TIB recoded 36 surveillance samples during the inspection at the AC room.
+Ten and seven of them were extracted from various liquid solutions and liquid soap, alcohol-based disinfectant and heparin solutions; three distilled water O2 bottles; five alcohol solution O2 bottles.
+The 19 remaining samples were obtained from various surfaces.
+A single environmental sample, the radio-opaque solution obtained from the angiographic injecting pump, yielded a positive result of P. aeruginosa.
+All other environmental samples were negative.
+The patient isolate had the same phenotype (in vitro susceptibility profile) as P. aeruginosa recovered from the radio-opaque solution.
+These isolates were susceptible to all antipseudomonals (ceazidime, piperacillin, amikacin, tobramycin, ciprofloxacin piperacillin/meopenr, merftemepi gentamicin).
+Follow-up to surveillance and resolution
+The CR unit of this particular institution was closed down by the DS-A due to regulations disregarded by the TIB.
+The DS-A stated that the medical center, according to the National Infection Control and Prevention Regulation, should: establish activities for the control of infections and management of risks in the control of nosocomial infections as soon as possible; proceed with a written cleaning of infections; proceed with a medical management of nosocomial infections;
+An infection control program was established actively in this medical center within one month.
+The DS-A revised the infection control program and implemented the same environmental samples as previously done.
+The same microbiology laboratory evaluated all environmental samples that were sterile.
+The CA unit was then authorized to resume its activities normally.
+No new cases were detected, even though official information about this outbreak was communicated to hospitals.
+For this reason, it is considered that the reported sprout was limited to the three patients described.

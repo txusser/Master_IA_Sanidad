@@ -1,0 +1,190 @@
+25 years old military of the E.T., highlighted in Afghanistan, who in June 2011 suffered amputation of a woman's right footman and a vehicle of various kinds of wounds due to the explosion.
+The events take place in the northwest of the country where the patient is part of a military convoy.
+A high power explosive device, lifting up the armored vehicle and causing injuries of different consideration to the five occupants of the vehicle, bursts along its vehicle.
+As a result of the explosion, he suffered hemodynamic shock, catastrophic lesions with amputation of the right lower limb (RLL) with various burns in the residual limb, fracture of the proximal extremity of the right cubitus and acute stress reaction.
+The patient was evacuated to ROLE-2, hemodynamic stabilization and emergency amputation was performed with knee disarticulation.
+Subsequently, she was referred to the Hospital Central de la Defensa (HCD) where she was admitted to the Intensive Care Unit (ICU).
+Upon arrival, the patient had a non-functional amputation level with loss of substance and poor dermal coverage, so transfemoral amputation was performed above the intercondylar groove.
+Five days after surgery, the patient complained of pain in the stump and root of the RLL, as well as in the back and sole of the amputated foot.
+The patient was assessed by the Department of Clinical Psychology after hospital consultation.
+Describe phantom limb pain with the following characteristics:
+• Intensity on the Analogue Rating Scale (VAS): 5-6 out of 10.
+• Quality: "as an electric current".
+Acquirement: spastic.
+• Location: on the foot bridge.
+• Experience: exhausting, anxious, awake, constant.
+1.
+The patient's history did not show any significant psychopathological history.
+The evaluation and intervention by the Rehabilitation Service is hampered by the dermal problems of the stump.
+Multiple burns in the amputated limb require successive cures so that protection is achieved about 3 months.
+There is an anxious-depressive reaction to amputation, which requires pharmacological and psychological support.
+The Rehabilitation Service performs muscle potentiation exercises of the upper and lower limbs, with potentiation of the pelvitrochanteric muscles (to avoid IDW flexion) and manual and electrotherapeutic treatment.
+Finally, prosthesis was started with total fitting exoskeletal prosthesis, with C-leg knee and C- energy accumulator foot admission approximately 6 months after discharge, followed by training and ambulation with prosthesis up to day.
+1.
+Introduction to the concept: pain, phantom limb, phantom limb pain
+Ambroise Paré, French military surgeon, first described the phantom limb pain.
+However, it was Silas Weir Mitchell, a North American neurologist, who coined the term "ghost member" (MF) to describe the sensations that referred to the United States burned extremities in America1.
+Currently, the classification of sensations that appear after amputation of an extremity2, distinguishes between:
+- stump pain: Pain in the stump that persists beyond healing.
+This is thought to be due to structural problems of the stump and/or its prosthesis, or pain due to nerve deafferentation.
+In this case, the pain is located in the stump itself.
+- Perceived phantom limb sensations: painless sensations in an extremity after amputation.
+The most outstanding property of ghost member is the mental illness2.
+- Phantom limb pain: Pain in one limb after amputation.
+This does not correspond to localized stump pain or scar pain.
+Although fantastic limb sensation appears in 70% to 100% of amputated patients, fantastic limb pain occurs in 60% to 100% of amputated patients3-8.
+The direct relationship of its incidence with different parameters has been demonstrated, such as: the severity of the initial injury, the duration and intensity of pain prior to amputation, the age of the patient, being very little prevalent in children under 61.9 years.
+Postoperatively it is difficult to tell whether a patient has postoperative pain, stump pain, or early onset of phantom limb pain1,10.
+Although the origin is organic11, psychological factors can exacerbate pain, in fact it is known that the perception of pain intensity is closely related to emotional states and levels of anxiety experienced by the patient with a reciprocal personality disorder.14
+Although the hypothesis of the existence of psychopathological factors such as FMD has been questioned, several authors defend that amputated patients with FMD are no longer neurotic than the general population10,14.
+Finally, the reduction in PLP after early implantation of a prosthesis is also reported, suggesting that contact with it would produce greater feedback from the proprioceptive system.
+1.
+Physiopathology of pain
+Painful sensations are recorded in the nociceptors of the skin, which convey such information by means of fibers the "damaged nerve" and "C" of the spinal cord, attached to the "SGR" of Ro.
+It is in this where they perform synapses with the second neuron that, crossing to the contralateral lateral spinothalamic bundle, settle by performing multiple synapses in the somatosensory lobe of the parietal cortex, up to the central cortex.
+Located information of each anatomical region is transmitted to a specific area of somatosensory cortex.
+Repeated activation of each area ends up generating a somatosensory memory, according to the scheme proposed by Penfield15.
+1.
+Physiopathology of phantom limb pain
+The mechanisms underlying the FMD are not fully understood despite the extensive research developed in this area16,17.
+Research indicates that there are several factors involved in the generation of FMD.
+It is generally believed that the phenomenon begins with the changes that emerge in the periphery and alter the inputs received in the spinal cord and brain.
+Very likely, it starts peripherally and then originates a cascade of events that are directed to more central structures and end up involving cortical brain structures.
+This would cause central reorganisation and changes that contribute to the development of phantom pain.
+Brain structures may be responsible for the vivid and complex sensations that some people refer to complaints of this pain.
+The development of animal models that mimic neuropatic pain and research in other conditions on neuropatic pain have significantly contributed to the understanding of FMD.
+Nerve injury is followed by a series of morphological, physiological and chemical changes in the peripheral and central nervous systems, and these changes are likely to play a role in the induction and maintenance of FMD18.
+Peripheral factors
+There are several clinical studies that postulate that peripheral mechanisms (either in the stump or central parts of afferent pathways septa), play an important role in the concept of the fantastic limb.
+FMD is significantly more frequent in amputated patients who have had pain for a long time than in those without persistent pain19.
+After a nerve cut, the formation of neuromas is universally appreciated.
+A common feature associated with stump pathology is altered sensitivity.
+In the period immediately after amputation, the relationship between phantom pain and stump pressure pain thresholds is inversely proportional20.
+Phantom sensations can be modulated with various manipulations on the stump21.
+Tapping neuromas may increase phantom pain.
+After local stump anesthesia, sensations of the phantom limb may be temporarily abolished.
+Changes in blood flow can also change the perception of the phantom limb.
+Neuromas show spontaneous and abnormal evoked activity after mechanical or chemical stimulation.
+The ectopic activity and the increase provoked from the spontaneous periphery is the result of an increased expression of sodium channels.
+After complete nerve section, these changes also occur in the cells of the dorsal root ganglia (RDG).
+Cell bodies in DRGs show abnormal spontaneous activity and increased sensitivity to mechanical and neurochemical stimulation.
+The sympathetic nervous system can also play an important role.
+Animal studies know that the application of noradrenaline to the stump or activation of sympathetic post mortem fibers, excites and affects the normal nerve fibers but not the normal ones.
+Alterations in the afferent innervation to the central nervous system may arise as a result of:
+- Ectopic discharge of afferent nerves at the site of amputation and of all neuromas resulting from damaged nerves (this spontaneous discharge has been linked to voltage-gated sodium channel regulation);
+- increased sensitivity of neuromas to mechanical and chemical stimuli;
+- the ectopic discharge of the cells from the dorsal root ganglia, linked to the up-regulation of the voltage of the sodium channels,
+- The afferent input is maintained at sympathetic level from the amputation site, secondary to the pairing between the sympathetic and sensory nervous systems, similar to the mechanism in complex regional pain syndrome.
+Spinal factors
+Clinical observations show that spinal cord factors may be involved in the generation of FMD.
+For example, PLP may appear or disappear after a spinal cord neoplasm22.
+In case reports it has been suggested that spinal analgesia may cause phantom limb pain and epidural analgesia should be contraindicated in amputated patients.
+However, in a prospective study of 17 patients with previous lower limb amputation with 23 epidural anesthetics, only one developed phantom limb pain23.
+It is believed that increased stimulation from neuromas and from DRG cells induce long-term changes in the neurons of the central recess of the dorsal metabolic induction, including spontaneous neuronal activity, early spinal augmentation of genes
+Another type of reorganisation may also be present and contribute to the centralisation.
+Substantia P is normally expressed in small afferent fibers that follow nerve injury, substantia P can be expressed in large Aβ fibers.
+This phenotypic switch of large Aβ fibers in non-contrast nerve fibers may be one of the reasons why non-harmful stimuli can be perceived as painful.
+The pharmacology of spinal anaesthesia includes an increase in the activity of systems operated by N-methyl-D-associate (NMDA) and many aspects of central anaesthesia which may be reduced by NMDA-receptor antagonists
+In human amputation, stump evoked pain or phantom pain caused by repeated stimulation of the stump may be reduced by the "kidney" defect, NMDA24.
+Two important medullary mechanisms have been proposed to explain FMD:
+- Anatomical reorganisation in the spinal cord following peripheral nerve injury.
+In other words, demyelinated C fibers involved in pain management usually synapses on the lamina 1 and 2 of the dorsal horn.
+Peripheral nerve injury can lead to degeneration of these demyelinated C fibers.
+The large myelinated fibers Aβ, which are normally involved in the aunt, pressure and proprioception sprout out of connections of laminae 3 and 4, where normally sinapsan, in the laminae 1 and 2, may experience pain.
+- The central location of the dorsal horn cells that occurs in response to increased alluvation of painful stimuli over the amputation site.
+This hyperexcitability state leads to the development of hyperalgesia, in which the patient experiences an exotic response to noxious stimuli.
+Exciting amino acids, such as glutamic acid and aspartic acid, may be involved in this process by acting through N-methyl D-aspartate (NMDA) receptors.
+Other receptors and neurotransmitters such as substance P and calcitonin gene-related peptide may be implicated.
+Supraspinal Factors
+If amputation produces a cascade of events in the periphery and spinal cord, it is reasonable to assume that these changes will eventually move to more central structures and alter neuronal activity in cortical and subcortical structures.
+Also, the concept of phantom limb, with its complex qualities of perseverance and its possibilities of modification by several internal stimuli (attention, distraction or stress), show that the phantom image is a product of
+Studies with magnetoelectroencephalography in humans and primates have demonstrated the functional plasticity of the primary somatosensory cortex after limb amputation, when cortical reorganisation occurs.
+In upper limb amputated patients, the area of the somatosensory cortex corresponding to the limbs seems to receive sensory information from other body areas that synapse with the adjacent areas of the somatosensory cortex.
+The attachment of Penfield shows the area of the face bordering the area of the hand.
+When they hit the face, amputated upper limbs often experience a simultaneous feeling of touch on the face and on amputated fingers.
+The speed with which these changes occur after amputation suggests that this reorganization is probably the result of unmasking hidden synapses in the somatosensory cortex directly anatomical, instead of direct anatomical changes.
+Phantom limb pain may arise from errors that occur in this cortical "repeal" process, resulting in overamplification of pain experienced.
+There may also be errors in the mesial modalities, experiencing the touch as pain.
+In studies with primates, after dorsal rhizotomy, a decrease in the threshold to evoked activity in the thalamus and cortex can be demonstrated, and the adult monkeys show normal reorganization of the corresponding barbferent area.
+Studies in humans have also documented cortical reorganization after amputation using different brain imaging techniques.
+In a series of studies, Flor et al. showed a correlation between phantom pain and the amount of reorganized somatosensory cortex.
+Birbaumer et al. studied the effect of regional anesthesia on cortical reorganization in upper limb amputated patients and found that brachial plexus block, abolished pain and reorganized it in six patients.
+Huse et al. showed in a small group of amputated patients that pain and cortical reorganization were reduced during treatment with morphine.
+Changes are also observable at more subcortical levels.
+Using techniques for recording and neuronal stimulation, thalamic neurons that normally do not respond to stimulation in amputated begin to respond and show enlarged somatotopic maps31.
+Besides functional plasticity, structural changes also occur after amputation.
+Draganski et al. have shown a decrease in the thalamus grey matter in 28 amputated patients.
+The decrease was related to the time elapsed after amputation and was explained as a structural defect with loss of attachments to metals.
+Finally, we cite the proposal of Ramachandran et al., which states that the genesis of the phantom limb is due to cortical reorganization of adjacent areas to the representation of the afferented site.
+In fact, these authors observed that stimulation of distant areas in the somatotopy, but in the limb of the phantom cortical representation, can activate the cortical site of the deafferent region, and evoke motor coordination.
+The body representation in the somatosensory cortex obtained by electrical stimulation shows the proximity of the following areas: cheek-hand, genital-foot, neck-breast.
+1.
+Pain treatments
+Pharmacological treatment for phantom limb pain
+In the meta-analysis by Alviar et al., on a review of 583 references/publications, 13 studies involving a total of 255 participants were selected.
+Six groups were reviewed: NMDA receptor antagonists, antidepressants, anticonvulsants, anesthetics, opioids and calcitonin.
+Ten of the studies were of high quality, and the other three of moderate quality, based on the criteria of Jadad and Van Tulder.
+Due to the wide heterogeneity in pharmaceutical interventions, the result of the measurements, analyses, reporting of results, duration of follow-up and designs, it was not possible to group the results for most interventions.
+Morphine (administered orally or intravenously) was effective in reducing the intensity of pain in the short term, but side effects were reported: constipation, sedation, tiredness, dizziness, itching, difficulty in breathing.
+NMDA receptor antagonists, kickfan and dextrometor, had analgesic effects.
+Adverse effects were more severe and included loss of consciousness, sedation, irritation and embarrassment.
+Gabapentin results in terms of pain relief were conflicting, but combining results showed a tendency to benefit.
+The gapentine, however, did not improve functionality, depression score or sleep quality. The side effects experienced were somnolence, dizziness, headache and nausea.
+Amitriptyline was not effective in the treatment of PLP, with side effects of dry mouth and dizziness, according to one of the studies consulted.
+Calcitonin and anesthetic findings varied.
+The adverse effects of calcitonin were headache, flushing, nausea, vomiting and hot and cold smells.
+Most studies were limited by the small sample size.
+The authors concluded their research stating that the long-term effectiveness of opioids, NMDA receptor antagonists, anticonvulsants, antidepressants, calcitonin and anesthetics for clinically relevant sleep outcomes, including very good quality of life.
+Morphine, gabapentin and k, showed a tendency to short-term analgesic efficacy.
+Memantine and amitriptyline were ineffective for the treatment of FMD.
+The results, however, have to be interpreted with caution since most of them are based on a small number of studies with limited sample size, which also varies considerably in time and also lacks results on efficacy and safety.
+The efficacy of calcitonin, anaesthetics and dextrametorphan needs further investigation.
+Larger and more rigorous randomized trials are needed to make more powerful recommendations about what might be useful for clinical practice
+Rehabilitation Treatment
+-Muscular Power: Enhancement of healthy members and residual limb, and reeducation to resume activities of daily living as early as possible should be performed.
+Postural Hygiene: It is also intended to prevent right hip flexion.
+Epidural anaesthesia: To relieve residual limb pain.
+-Massages: Dedicated to desperate mental illness and to reduce muscle tension.
+Tactile stump stimulation has been shown to reduce the occurrence of phantom limb.
+-Tactile stimulation and prosthesis: this is possible; it must be done as early as possible2.
+Neuropsychological Treatment
+Several psychological techniques have been described as useful in the treatment of amputated patients with FMD who did not present relevant psychiatric disorders.
+Among these techniques we have biofeedback and hip.
+When peripheral factors predominate, biofeedback seems to be an effective alternative.
+Indeed, Sherman4 has reported considerable relief of phantom limb pain for different types of pain: muscle tension biofeedback for phantom limb pain and temperature biofeedback for pain.
+Techniques such as Shapiro Wilk's Eye Movement Processing and Eye Movement Reprocessing and Ramachandran's mirror technique have also yielded very satisfactory results 35-37.
+The neuropsychological treatment followed with our patient is the treatment of phantom limb pain using the Spectrum Technique proposed by Ramachandran36.
+This procedure consisted of placing a spike parallel to the limb opposite the amputee.
+Reflecting on it, the left becomes right and vice versa.
+The members are then reflected in a specular, symmetrical and sensitive posture.
+That is, the person sees mirror image of himself reflected in the mirror, where the right person is the left and vice versa.
+1.
+As described by Solvey and Ferrazzano35, "exercise consists in placing the healthy limb exactly in the same symmetrical and specular posture, which would occupy the amputated limb.
+This means that if the phantom limb is in pronation, contracture or extension, for example, the healthy limb should be placed exactly in the same position.
+When observing the patient's image in the mirror, the reflection of his healthy member will be visually occupying the location place of the location of the ingenerate, so that he has the "optical illusion" that fantasy.
+If the lost limb is the left, the patient "see" in the mirror the complete left limb.
+Movements should then be performed with the healthy limb, and looking at the mirror when the patient is moving the patient will receive the visual stimulus.
+The hypothesis is that the brain automatically decodes the new information without the patient needing to believe it, in fact the person obviously knows it is an illusion.
+Ramachandran suggests that when the parietal lobe contralateral to the amputated limb experiences conflicting data (such as moving the injured limb), proceed with visual signals that inform the patient that the amputated limb is resolved.
+Thus, the memory trace of phantom limb pain is scanned by the new information that comes through the visual pathway.
+According to Ramachandran et al., in order to be really effective, this technique requires daily repetition exercises of at least five to ten minutes for a period of not less than three weeks.
+Thus, what we would be producing is a phenomenon of overlearning through which the old and painful information would be gradually erased from the memory of the brain by new visual information, which indicates that the member is healthy.
+In current terms, we would speak of a virtual reality that offers a signal of external visual disturbance, extinguishing the trace of previous memory.
+This highlights the surprising degree of plasticity of the adult brain, and the powerful interaction of the visual pathway on the sensory-motor pathway, also considered by other authors3,37,38.
+The use of this technique has also been reported before patients undergo surgical amputation39, the authors declare a lower incidence of development of PLP after amputation.
+It has also been shown to be effective in the treatment of upper limb pain after stroke.
+1.
+Establishment plan
+- After the patient has been evaluated, 30 sessions of 20-30 minutes as described above are held at the HCD gym.
+Subjective measurement of PLP was taken at the beginning and end of each session by VAS as shown in Figure 7.
+VAS are a common tool for assessing pain intensity 3.37.40.
+1.
+- There is a noteworthy incident in which the patient re-experiments the loss of the amputated limb.
+Being in the middle of the 10 session, contemplating the mirror reflected in the mirror, she suffers an episode of anxiety in which she refuses to look at the mirror and says she does not want to believe that she has cancer.
+For this reason the financial year was suspended until the next day.
+- Once this incident has been overcome, the exercises described above continue and after 5 follow-up sessions, with levels of 1 to 10, there is a significant recurrence of pain.
+It originates after having been remembering the evening before the attack with another partner, also wounded, who was discharged.
+During that night he suffers nightmares from the attack.
+- Exercises are resumed at a FMD level of 1 over 10 in three sessions.
+- 4 more follow-up sessions are carried out until the patient is discharged by the Rehabilitation Service.
+The final result pre/post-treatment is shown in Table 1.

@@ -1,0 +1,7 @@
+Paciente de 76 años que ingresa en el Servicio de Cardiología por infarto agudo de miocardio de localización anterior complicado con insuficiencia cardiaca. Se decide la colocación de un catéter venoso central accediendo a través de la vena subclavia derecha.
+La radiografía simple de tórax de control muestra un trayecto anómalo del catéter que desciende por el lado derecho del mediastino para desviarse posteriormente siguiendo un perfil cardiaco izquierdo.
+
+Con el objetivo de descartar la canulación de un vaso arterial (subclavia o carótida común derechas), se solicita una gasometría (pH: 7,35, pO2: 40, pCO2: 48) y se registra la curva de presión intraluminal (15 mmHg). Ambas demuestran la existencia de un flujo venoso a través de la vía.
+A continuación, se implanta un catéter de Swan-Ganz en la rama principal derecha de la arteria pulmonar, también a través de la vena subclavia derecha. Se realiza un ecocardiograma que muestra dilatación del seno coronario (diámetro de 1,5 cm). En el interior del seno coronario se observa el catéter abocando a la aurícula derecha, al ventrículo derecho y, finalmente, a la arteria pulmonar. Ninguna otra vena conecta con la aurícula derecha.
+Todos estos datos son compatibles con una malformación venosa que consiste en la persistencia de la VCSI con desembocadura en el seno coronario, asociada a permeabilidad de la anastomosis entre el sistema venoso derecho y el izquierdo.
+

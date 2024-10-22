@@ -1,0 +1,17 @@
+A 23-year-old woman with a history of polycystic ovary syndrome due to elevated aminotransferases.
+She was a user of oral contraceptives, had not undergone surgery, did not smoke or drink alcohol very occasionally.
+His father had a Gilbert syndrome and his uncle died from a multiple myeloma.
+In a general control, liver tests were evaluated: AST 224 IU/L (VN 25), alanine aminotransferase (ALAT 13 IU/L < 30), non-steroidal bilirubin (INV) 037 IU/dL (ALT),
+One month later, AST was elevated again (261 IU/L), with the rest of liver tests being completely normal.
+Since the patient was asymptomatic, it was decided to repeat the tests two months later, persisting isolated elevation of AST (293 IU/L).
+As a result, an extensive study was conducted to rule out liver diseases: viral hepatitis and autoimmune and metabolic liver diseases (determination of alpha-1 antitrypsin levels and iron profile) and celiac disease by determinations.
+All results were within reference ranges.
+Abdominal ultrasound was also normal.
+Since after 6 years of follow-up asymptomatic patient was suspected of having a macroenzyme.
+In order to verify this, it was decided to use the Polyethylene glycol (PEG) method, which, under appropriate conditions, has the property of precipitating macroenzyme complex and allows measuring the remaining activity in the envelope.
+For this purpose, a new serum sample of the patient was analyzed, whose AST activity determined in the Modular® multianalyzer (Roche/Hitachi) was 176.5 IU/L. In this sample, 25% whey was centrifuged according to an OEG5 solution.
+The procedure was performed in triplicate and serum samples were collected as control from 5 patients with non-isolated elevation of AST.
+The results are shown in Table 1.
+The patient's samples showed a high percentage of post-precipitation activity with PEG (%PPA, PEG precipitation activity) in all test tubes: 98.0%, 98.8% and 97.7%.
+In control patients, on the other hand, the percentages were lower, obtaining an average %PP of 55.5%, with an interval between 31.6% and 64.0%.
+Unlike what was observed in the controls, almost the total enzyme activity of the patient under study was found in the precipitate, suggesting the presence of a macroenzyme.

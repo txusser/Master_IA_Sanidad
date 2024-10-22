@@ -1,0 +1,55 @@
+Patient description before treatment
+Approval was obtained from the institutional ethics committee for the study in an eight-year-old boy, born in Bogotá, educated, product of the third term pregnancy (39 weeks), healthy mother and non-consanguineous parents.
+The delivery was spontaneous in the vertex presentation, with institutional care.
+The Apgar score was 9 and 10; the weight was 2,960 g, the height was 49 cm and the neonatal perimeter was 34 cm. It presented an early pair and neonatal sepsis that resulted in cerebral infarction in the neonatal period.
+He required 21 days of neonatal intensive care and had evident motor deficit since the third month of age.
+The neurodevelopmental indices were as follows: presence of mental disorder at six months, seats at thirteen months, cats at one year, march at twenty months and first words at 24 months.
+During the first year of life, visual and auditory evoked potentials were evaluated, with normal results.
+A computed tomography (CT) study of this period reported 'ischemic infarction in the left middle cerebral artery'.
+At the age of four years a gait study was carried out in which echinodynamic gait and femoral anteversion were reported.
+A simple brain magnetic resonance imaging (MRI) study found 'left temporoparietal encephalomalacia'.
+At the age of six years, a new brain MRI was performed, in which it was observed ' cortico-subcortical left fronto- temporoparietal malformation'.
+In the evaluation of neurological damage at the age of eight, spastic infantile cerebral palsy of the right hemiparesis type was diagnosed, secondary to a neonatal ischemic event.
+The child received neurological rehabilitation and was evaluated as a patient with dominant left hand.
+He received myofunctional, occupational and physical therapy with the Goita method from the age of four months.
+The child is functional and autonomous, does not use the upper right limb for learning, which does not reclude or use completely in his instrumental life or activities of daily living.
+She has not been treated with botox.
+In the physical examination prior to the intervention with movement restriction therapy, it was found that the left hemibody was healthy at the motor level, with sensitivity and coordination.
+The right hemibody presented hyperreflexia with altered hand movement restriction in this shoulder to more than 90°, with force of 4/5, contracture in the forearm that limited the complete supination, alteration of the right pinch.
+He also presented the right unilateral Babinski sign, investment and eversion commitment, strength of 3/5, paretic-spastic gait without balance of the right upper limb.
+The Fugl-Meyer scale obtained 40 out of 66 points and Brunnstrom scale was classified as stage 4.
+Between October 10 and 21, 2011, the patient was treated according to the protocol of movement restriction therapy.
+The patient accumulated in 12 days 50 hours of intensive motor rehabilitation, controlled and supervised in his right hemibody, and 12 days of restriction (block or immobilization) of his left upper limb.
+As part of the neurological rehabilitation protocol, resonance images were taken with a 1.5 T-operating equipment (Siemens, Erlangen) before and after treatment.
+Volumetric images potentiated in T1 (magnetization with rapid Gradient Echo, MP-R), diffusion images for tractIRAGE patients with remains in the hand, functional magnetic resonance imaging with the patient at rest (20 seconds).
+The quantitative analysis of the functional images at rest was performed using the MELODIC tool and 75 independent components were obtained from which an expert extracted the motor network by visual inspection, following two criteria around the activation low frequency (19): central location of the signal.
+The tracts are analyzed with the Med-INRIA tool, which allows the manual definition and, from research activation maps by IMRf of regions of interest for the construction of the N-fiber and N-fiber tracts.
+Proceedings of MICCAI Workshop on Interaction in Medical Image Analysis and Visualization, 2007).
+Active task activation maps are obtained using the parametric statistical mapping tool (Statistical Parametric Mapping 8) with a FWE statistical correction threshold (family 0.05 (20). error )
+In the first phase of the neurological rehabilitation protocol, it is important to assess the degree of integrity of the corticospinal tract and sensory-motor network, factors that have an impact on the positive prognosis after therapy (8.15 motor restriction).
+To study the changes produced by the treatment, changes in the activation pattern when the patient performs the motor task are evaluated by fMRI.
+Volumetric images allowed observing the global loss of volume in the left hemisphere and the extensive zone of encephalomalacia in the posterior temporal and left parietal regions.
+It was also noted that there was a defect in the brain stem with a decrease in its left portion, indicating the presence of Wallerian degeneration processes by loss of white matter fibers in the corticospinal tract.
+Median quantitative tractography yielded a fiber ratio of 175 and 40 for the right and left hemispheres, respectively.
+1.
+In the execution of the motor task, ipsilateral motion of the pinch of the right hand, activations of the representation area of the hand were obtained in the left precentral gyrus, in the supplementary motor area and in the cerebellum.
+The absence of activation in the hemisphere on the side of the lesion during the performance of the proposed task allowed us to have a first uncertainty about the correct functioning of the mechanisms that regulate the sensory-motor network (14).
+Figure 4 shows how the results of the functional study were used to extract tracts crossing the activation region in the precentral gyrus.
+This analysis allowed to relate activation with the fibers of the corticospinal tract.
+1.
+Median independent component analysis (Calhoun VD, Adali T, Hansen JC, Larsen J, Pekar JJ.
+ICA of FMRI: An overview.
+Proceedings of the International Workshop on Independent Component Analysis and Blind Signal Separation, Nara, Japan, 2003), maps of the sensory-motor regions of fMRI were developed from the images.
+This study revealed a pattern of bilateral activity, which represents a factor of good prognosis for rehabilitation and involves primary and supplementary motor areas.
+1.
+Description of the patient after treatment
+In the physical examination at the end of the intervention with the hand movement scale with complete motor restriction, the following was found: healthy left hemibody; in the right hemibody, complete range of motion of the shoulder movement; full range of motion of motion of 30°; strength of force of 5 / 5 / 5 / 5
+The mother and the patient reported 80 % subjective improvement with respect to the child's previous condition after mobility therapy using motor restriction.
+Regarding the motor task of the right hand, activation was present in the left precentral gyrus, with an increase in the amount of active voxels of 95 % compared to the study prior to treatment.
+There was also activation in the right cerebellar hemisphere, although with a 65 % reduction in the number of active voxels compared to the study prior to therapy.
+There was no activation of the supplementary motor zone or the right cerebral hemisphere.
+Figure 6 shows the fMRI results and Figure 7 shows the amount of fibers obtained for this new activation pattern after intervention with motor restriction movement therapy.
+1.
+No changes were found in connectivity at rest after treatment.
+Instead, it was found that the sensory-motor network found in the previous stage covered cortical activations obtained with the motor task before and after therapy.
+Figure 8 shows the overlap of activations by fcMRI (red) and fMRI (yellow circle) before and after therapy (blue).

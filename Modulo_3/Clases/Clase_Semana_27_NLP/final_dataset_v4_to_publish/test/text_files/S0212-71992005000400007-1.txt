@@ -1,0 +1,21 @@
+Anamnesis: Presentamos el caso de una mujer de 75 años, con antecedentes personales de diabetes mellitus tipo 2 insulindependiente, hipertensión arterial, dislipemia, cardiopatía isquémica, apendicectomía y colecistectomía, que presentaba fiebre de 1 mes de evolución, acompañado en los últimos 6 meses de síndrome constitucional (anorexia, astenia y pérdida de unos 21 kilogramos de peso) y aparición de múltiples hematomas cutáneos ante mínimos traumatismos.
+Exploración física: En la exploración física destacaba una intensa palidez mucocutánea, múltiples hematomas cutáneos, murmullo vesicular disminuido de manera generalizada con crepitantes en base pulmonar derecha en la auscultación pulmonar y esplenomegalia a la palpación, sin hepatomegalia, ni adenopatía periféricas.
+Pruebas complementarias: Las pruebas complementarias aportaban los siguientes resultados:
+-Hemograma: a) serie roja: hemoglobina 7,2 g/dl, hematocrito 22%, hematíes 2.710.000/µl, VCM 81,1 fl, HCM 26,6 pg, CHCM 32,8 g/dl, amplitud de distribución eritrocitaria 19,8%, reticulocitos 3,45% (107.000/µl); b) serie plaquetaria: plaquetas 11.000/µl; y c)serie blanca: leucocitos 1.500/µl.
+-Frotis de sangre periférica: a) serie roja: anisocitosis, 14% normoblastos, dacriocitos y algunos macroovalocitos; b) serie plaquetaria: plaquetas gigantes; c) serie blanca: 52% segmentados, 30% linfocitos, 4% monocitos.
+-VSG: 32 mm/hora.
+-Bioquímica: glucosa 67 mg/dl, urea 33 mg/dl, creatinina 0,4 mg/dl, urato 5,6 mg/dl, bilirrubina 1,1 mg/dl, AST 141 UI/l, ALT 38 UI/l, Fosfatasa alcalina 245 UI/l, LDH 1650 UI/L, GGT 75 UI/l, proteínas totales 4,9 mg/dl, colesterol 149 mg/dl, triglicéridos 266 mg/dl, calcio 9,1 mg/dl, hierro 62 mg/dl, indice de saturación de tranferrina 34%, transferrina 143 mg/dl, ferritina 7597 µg/dl, vitamina B12 609 pg/ml, folato 1,81 ng/ml, alfafetoproteína < 1.
+-Proteinograma: albúmina 54,6%, alfa 1 globulina 3%, alfa 2 globulina 11,8%, beta globulina 15,4%, gamma globulina 15,2%.
+-Radiografía de torax: infiltrado pulmonar basal derecho.
+-Ecografía abdominal: múltiples lesiones focales hepáticas con afectación difusa del parénquima hepático con tamaño hepático normal, marcada esplenomegalia, sin que se visualizen adenopatías intrabdominales.
+Diagnóstico: Así pues, ante la presencia de un cuadro de síndrome constitucional, fiebre, pancitopenia con datos de infiltración de médula ósea, mieloptisis (reacción leucoeritroblástica y dacriocitos en frotis de sangre periférica), y la presencia de lesiones ocupantes de espacio hepáticas se decidió realizar un aspirado y biopsia de médula ósea.
+Sin embargo, antes de obtener el resultado definitivo del examen de médula ósea, la paciente a pesar del soporte hemoterápico, evolucionó de manera desfavorable falleciendo a los 9 días de su ingreso. No se llegó a realizar la autopsia por deseos expresos de la familia.
+El examen de médula ósea evidenció los siguientes datos:
+-Aspirado de médula ósea: aspirado seco (sugerente de mielofibrosis).
+-Biopsia de médula ósea: parénquima medular hipercelular (5/5), a expensas de una infiltración masiva y difusa de células neoplásicas de aspecto hematopoyético, con fenómenos de mielofibrosis y necrosis. Las células tumorales son de talla grande, citoplasma abundante eosinófilo y núcleos voluminosos y polimórficos, con nucleolo prominente central y abundantes figuras de mitosis. No se aprecian fenómenos de hemofagocitosis.
+Inmunohistoquímica:
+•CD45/ EMA/ LISOZIMA (patrón Golgi)/ CD68: positivos.
+•CD79a/ CD10/ CD23/ CD43/ IgS/ CD15/ CD30/ CD45RO/ CD1a/ CD2 / CD3/ CD4/ CD8/ CD57/ CD 34/ MPX/ FACTOR VIII/ LMP1 (VEB)/ BCL2/ P53: negativos.
+•Tasa de proliferación celular (Ki 67) >80%.
+Las células tumorales se acompañan de células reactivas linfoides de estirpe T (CD45RO/ CD2/CD3/CD8/CD57 positivos) e histiocitos (CD68 positivo).
+El diagnóstico definitivo del examen de médula ósea era compatible con un sarcoma histiocítico según la clasificación de la Organización Mundial de la Salud.

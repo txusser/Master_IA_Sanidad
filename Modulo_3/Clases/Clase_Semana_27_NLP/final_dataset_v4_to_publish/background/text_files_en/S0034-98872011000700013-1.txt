@@ -1,0 +1,16 @@
+Male patient, 13 years old, derived by volume increase in the right shoulder region.
+On physical examination, masses on the inner thigh and on the face of the upper rib, plus a mid-posterior mediastinal tumor, diagnosed by chest X-ray, were also described.
+The hemogram showed no pathological characteristics.
+A soft tissue ultrasound study reported multiple masses in the subdermal region located in different parts of the body.
+A tumour biopsy was performed, which described an undifferentiated neoplasm composed of large cells of pleomorphic nuclei growing discohesively on a densely vascular network.
+Immunohistochemistry was performed for CDla, CD3, CD4, CD15, CD20, CD25 (clon: 4C9), CD31, CD34, CD45 (clon: PD7/9926 and CD56
+Search results were positive.
+Biopsy was reported as histological and immunohistochemical findings consistent with myeloid sarcoma.
+1.
+The study of bone marrow by myelogram and biopsy ruled out tumor involvement, only changes described were described.
+The immunophenotype was normal and PCR (polymerase chain reaction) in bone marrow and peripheral blood samples were negative for translocations (9;22), (8;21), (15;17v), (9;16).
+Conventional cytogenetic analysis was performed (according to standard protocol for bone marrow samples in Marrow-max® medium culture, hypotonia with KC10.075M and fixation with an acetic acid-methanol® sample with only one chromosome).
+FISH study in bone marrow for ETO/AML1 translocation was negative in 100 nuclei studied, and no ETO signal loss was observed, which ruled out the possibility of a monosomy 8.
+To better characterize the tumor, we decided to perform the FISH study in the formalin-fixed and paraffin-embedded tumor tissue sample. No fresh tissue was available to attempt a primary tumor culture.
+We began the evaluation of the sample for translocation (8;21), described in the literature as the most frequent manifestation in pediatric patients1, followed by inv (16) and finally MLL(llq23).
+The first two were reported to be normal in 100 nuclei studied, while in the study of signal partitioning for MLL on chromosome 11, 50% of the nuclei with three signs were detected, with no evidence of consistent partitioning 11,2%.

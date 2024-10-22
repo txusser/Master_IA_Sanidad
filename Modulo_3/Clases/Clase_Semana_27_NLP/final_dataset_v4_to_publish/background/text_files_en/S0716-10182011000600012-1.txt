@@ -1,0 +1,32 @@
+A 63-year-old woman with a history of hypertension, glucose intolerance, dyslipidemia and an uncomplicated acute diverticulum episode in 2004 was treated.
+In early January 2009, the patient began a clinical picture characterized by abundant and explosive liquid stools with mucus, without blood or pus, associated with colic abdominal pain and fever of up to 39 °C.
+Due to persistence of symptoms, she consulted on the second day of evolution in a private health center where a computerized axial tomography of the abdomen was performed, showing signs compatible with inflammation of the terminal ileum, ascending and transverse colon.
+Only symptomatic treatment was indicated.
+Due to the persistence of severe high frequency diarrhea and abdominal pain associated with vomiting on the third day of evolution, she consulted the Emergency Department of the Military Hospital of Santiago, where she was hospitalized with a diagnosis of infectious colitis and schistosomiasis.
+Physical examination at admission showed an axillary temperature of 37.4 °C, tachycardia with 113 x', normal blood pressure, signs of increased heraldation with mild noise and distended abdomen, diffusely hydrous.
+Laboratory tests included blood count, hemocultives, plasma electrolytes, C-reactive protein (CRP), blood glucose and study of stools (fecal leukocytes, adenovirus coprocultive, rotavirus detection).
+The results only highlighted an elevated CRP of 44.25 mg/dL (VN: 0-1), hypokalemia of 3.11 mEq/L (VN: 3.5-5.3), slightly elevated glycemia of 156 mg/dL fecal field.
+Twenty-four hours after admission, treatment with ceftriaxone and metronidazole, parenteral hydration and hypokalemia correction was initiated.
+The fever resolved, but despite treatment, the patient persisted with severe diarrhea, between 8-10 stools/day, abdominal pain and vomiting.
+It was also obtained the antecedent of three people related to the patient who would have presented similar gastrointestinal symptoms, without obtaining more information.
+In the coprocultive taken at admission there was the development of a gram-negative bacillus after 72 hours of isolation, identified as V. spp.
+Cultures on TCBS and Chromoagar agar, oxidase test and Microscan identification were consistent with the presumptive diagnosis of V. cholerae.
+The isolate was sent to the Microbiology Program of the Institute of Biomedical Sciences (ICBM) of the University of Chile for molecular characterization.
+Antimicrobial treatment was modified, continuing with oral ciprofloxacin 500 mg every 12 hours.
+Blood cultures were negative on the seventh day.
+After 10 days of evolution, the patient showed a clear improvement, vomiting ceased and stool frequency decreased.
+He completed eight days of antimicrobial treatment and was discharged in good condition at 11 days of evolution.
+Molecular characterization
+With the objective of deepening the characterization of this new clinical strain of V. cholerae non-O1, non-O139, this was derived to the Laboratory of Molecular Microbiology of Vibris of the Microbiology and My Medical School.
+Serotyping studies with anti-O1 and anti-O139 antisera demonstrated that this isolate belongs to the type non-O1 and non-O139.
+All parties used in this study for polymerase chain reaction (PCR) tests are detailed in Table 1.
+In order to corroborate the serological results, a 16S RNA gene region was amplified and sequenced using the pair of parties: fD1 and rP210.
+The sequence obtained (the deletion strain 99% Andrew Camilli, Tufts University Medical School, Boston, MA, USA) was analyzed by BLAST confirming with certainty that the sequence belongs to the V. cholerae type 1 species.
+Among the probable virulence genes of this strain were studied by standard PCR cholera toxin (CTX), pilus and the presence of a Pathogenicity Island Pathogenicity Pathologist V7.
+The ctxA and tcpA genes encoding the CTX catalytic subunit and pilus piline subunit TCP, respectively, were both negative.
+Standard PCR assays were also performed to amplify different segments, including both ends and central zone, of the gene region previously described by the Mekalanos7 group.
+The aim of this study was to establish with some degree of confidence if our diarrheogenic strain carried this genetic structure completely or partially.
+For this purpose, the following pairs of parties were used: the pair P5 was designed to amplify the proximal segment of the pathogenicity island, the pair Pm for the central region and the pair P3 for its terminal region.
+P5 and Pm pairs amplified a fragment of the expected size.
+The pair P3 amplified a segment of approximately 3,000 bp size, the expected size being 1,832 bp.
+Given the difference in size, amplicon P3 was partially sequenced to corroborate its identity.

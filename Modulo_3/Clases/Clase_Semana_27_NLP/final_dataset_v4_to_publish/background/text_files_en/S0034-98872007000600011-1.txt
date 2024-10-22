@@ -1,0 +1,20 @@
+A 59-year-old woman with a history of hypothyroidism and dyslipidemia treated with diet and levothyroxine.
+Since the age of 42, she had episodes of recurrent episodes of recurrent, sudden onset episodes, mostly self-limiting, associated with syncope on two occasions.
+On one occasion, it was possible to document a regular narrow complex tachycardia of approximately 320 milliseconds, which seemed to be a PR wave of approximately 80 milliseconds, with a round PS cycling included in the PS segment.
+The differential diagnosis of VRNAT vs ventricular atrial reentry tachycardia by a hidden paraspecific beam was proposed.
+On that occasion, he became sinus rhythm with the administration of a bolus of intravenous adenosine (6 mg).
+She failed to prevent episodes of tachycardia with amiodarone, atenol and flecainide.
+Physical examination was within normal limits.
+His baseline electrocardiogram was normal.
+Two years ago, she underwent an electrophysiological study (EFS) in another center where tachycardia could not be induced.
+Given the persistence of symptoms, malaise, despite drug treatment, it was decided to perform a new EPS.
+Under biannual conditions, an increasing frequency was observed with a 500 ms cycle and less, there was constriction compaction ms-concentric coupling until a 450 ms cycle was programmed. The non-recognition phase was 250 ms.
+Under these conditions, arrhythmias could not be induced.
+Subsequently, atrial stimulation was performed at increasing frequency up to a cycle of 360 ms cycle associated with anterograde conduction with Wenckebach-type block.
+Subsequently, programmed auricular stimulation was performed with stimulation cycles of 700/550 ms and less, the AH interval was linearly prolonged up to a coupling interval of 290 ms and the non-echo 280 ms time was observed.
+Because tachycardia could not be induced by auricular stimulation, an infusion of isoproterenol (1-2 mcg/mln) was initiated, which accelerated the rhythm to 110 bpm.
+Under these conditions, auricular stimulation was repeated at increasing frequency and programmed auricular stimulation.
+The prolongation of the new HA interval was linear and arrhythmias were not detected.
+Ventricular stimulation was repeated, and with a 270 ms cycle, a typical VRNAT was induced with a 262 ms cycle (228 beats per minute).
+A long curved Mansfield fulguration catheter (slow color mango) was advanced through the right femoral vein. Seven radiofrequency pulses were not applied in the region of obtaining abundant non-contrast pathway.
+cable 3A failed to demonstrate residual dual-way physiology and tachycardia could not be induced by atrial or ventricular stimulation at increasing frequency (with an infusion cycle of 220ms), or after induction (within 30ms).

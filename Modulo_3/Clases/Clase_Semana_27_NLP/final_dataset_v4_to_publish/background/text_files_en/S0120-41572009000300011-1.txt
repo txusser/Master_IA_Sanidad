@@ -1,0 +1,45 @@
+The description of human rabies cases was obtained by visiting the infected people's place of residence and taking the testimonies of relatives and relatives.
+The description of each case took into account age, sex, anatomical location and degree of radiation exposure, dates of onset of symptoms and death.
+In addition, information on the symptoms and clinical history of patients was obtained from hospitals and health centers.
+Diagnosis and antigenic typing of rabies virus
+The diagnosis of probable rabies cases was carried out in the Virology and Pathology Laboratory of the National Institute of Health in Bogotá.
+The techniques used were direct immunofluorescence (DIF) on fresh brain material (19.20), in which polyclonal anti-rabies antibodies marked with fluorescein recognize the viral antigen authenticity
+For the previous procedure, we used the conjugate anti-clockwise Rabies DFA Reagent (Light Diagnostics, Cat.
+No 5100), according to the manufacturer's specifications.
+In addition, conventional histopathology and immunohistochemistry techniques were used, using avidin-biotin conjugated with peroxidase on brain material fixed in 10% neutral formaldehyde; the primary antibody 1:160 (21) was used.
+The confirmatory test was performed by intracerebral inoculation of brain suspension in laboratory mice strain ICR (Institute of Cancer Research) (22).
+Antigenic typing of the virus was performed by indirect immunofluorescence using brain material infected with the rabies virus in each case, a panel of eight monoclonal antibodies produced in mice (23) by the Centers for Disease Control and Prevention
+The general pattern of reactivity (positive or negative reaction) of the eight monoclonal antibodies together results in the antigenic variant of the viruses isolated in each case.
+Vaccination in dogs
+Vaccination was carried out home in the whole district of Santa Marta, with the consent of the owners of the animals.
+The vaccination method was by subcutaneous inoculation in the upper neck of the animals.
+The anti-cancer vaccine produced in the EBRO cell line by the Colombian Company of Veterinary Products, SA, RAB165 and RAB167 lots was used.
+Massive vaccination journeys were carried out between November 2006 and February 2007, and later in October 2007, as well as continuous vaccination programs aimed at immunizing puppies over three months of age.
+1.
+Measurement of neutralising anti-rabies antibody level in vaccinated dogs
+After a period of four to six months after massive vaccination of dogs, blood was drawn from a sample of 252 dogs (147 males and 105 females) aged between 1 and 13 years old, who had been vaccinated.
+The sample size was calculated according to the Wayne-Daniel formula, obtaining a sample population of 224 dogs:
+n = N x Z2 x p x (1-p)
+d2 (N-1) + Z2 p (1-p)
+where N is the total population, 49.222; Z, the value corresponding to the confidence level, 95%; d, absolute precision, 3%, and p the percentage of sample loss, 10%.
+In order to take the sample, a puncture of the ceftazidime vein was performed and 5 to 7 ml of blood was extracted from vaculogyration tubes.
+The samples were centrifuged for 15 minutes at 5000g.
+Sera were separated according to E. coli to No. -20 degrees centigrade up to the time of measurement of the level of anti-rabies neutralizing antibodies. This was done by ELISA using CBio Plateau.
+Vaccination in humans
+Post-exposure vaccination treatments were applied to people who had suffered aggression by their relatives, mainly dogs and cats, as well as to those who had contact with people with a positive diagnosis of friends and a positive degree of exposure.
+These treatments consist of five intramuscular injections of deltoid muscle, accompanied by the application of anti-cancer serum, following the recommendations of the "Protocol and Guide for the Care of Aggregate Patients (24).
+Verorab® (Sanofi Pasteur), a batch of 21158-1-exp, was used as rescue medication.
+11/12/08.
+Monitoring of transmitters and reservoirs
+Dogs without owners walking in the district of Santa Marta and representing a potential threat to public health were eliminated.
+The elimination procedure consisted of inoculating a dose of phenylhydantoin and sodium pentobarbital into the saphenous vein.
+The number of dogs eliminated between 2006 and 2007 per month is shown in Table 2.
+1.
+Community education
+Meetings of the Committees on Epidemiologic Surveillance were held to establish commitments and activities.
+Training and upgrading of the human resource involved in the provision of health services, such as doctors and nurses, in health care institutions in the district were done.
+Meetings were held with community leaders and senior management of rabies promotion, prevention and control by community surveillance committees, as well as students from secondary education institutions and Santa Mar de Medicina
+Information about rabies was disseminated to the community through press releases, radial programs and elaboration of foldable flyers.
+Statistical analysis of the information
+A database was created in Office Excel XP to record the vaccination process of each patient in real time.
+Data were analyzed using SPSS, version 13.0, with analysis of mean difference and logistic regression, using post hoc-Scheffé (25), Kolmogorov-Smirnov (26.27) and Mann-Whitney (28) tests.

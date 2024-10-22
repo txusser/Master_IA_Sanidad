@@ -1,0 +1,22 @@
+A 50-year-old man was referred to our unit because for two years he had serum ferritin concentration above 1,000 μg/l (normal range, 26-370).
+The patient had serum ferritin (1,277 μg/l) and increased γGT (116 U/L; normal range, 10-60) and liver ultrasound led us to suspect a possible fatty liver.
+Complementary laboratory and serological tests revealed no abnormalities.
+The patient was asymptomatic.
+She didn't drink alcohol or use tobacco.
+Her personal and family medical history and physical examination did not reveal anything remarkable.
+We analyzed markers of iron metabolism (serum iron levels, ferritin, soluble transferrin receptor and transferrin saturation index), and liver iron concentration and architecture of liver tissue by liver biopsy.
+The sections of liver tissue were stained with hematoxylin-eosin, and blue dye for persistent detection of iron.
+We studied the image obtained by liver magnetic resonance imaging (MRI).
+We also looked for allelic variations c.845G>A (p.C282Y) and c.187C>G (p.H63D) in the HFE gene.
+Genomic DNA was extracted from a sample of peripheral blood. Polymerase chain reaction (PCR) was performed using specific oligonucleotides to amplify the coding regions, the intronic regions of HGF-R1 receptor.
+PCR products were bidirectionally sequenced in DNA sequencer ABI Prism 317.330x1, and sequences were compared with reference ones (numbers of decay0.187_N7.115, NBank, respectively).
+Informed consent was obtained from the patient according to local recommendations for genetic study and liver biopsy.
+The study protocol was conducted according to the ethical principles of the Declaration of Helsinki (2008).
+The patient's iron parameters were: serum ferritin, 1.070 μg/l (normal range, 26-370 μg/l); serum iron, 160 μg/dl (normal range, 59-158 μg/dl); transferrin saturation,
+Hepatic magnetic resonance imaging showed diffuse abnormalities of parenchymal intensity associated with increased iron; hepatic iron content was estimated at 160 μmol/g (normal values, < 36 μmol/g).
+Ultrasound guided percutaneous liver biopsy was performed.
+Histopathological evaluation showed normal lobular architecture, narrow portal spaces without inflammation or fibrosis and without vascular or ductal lesions.
+The lobe was composed of hepatocytes with normal morphology and low-intensity deposits of hemosiderin, with the typical pattern of hemochromatosis, i.e., iron deposits located almost exclusively in peri-canal granular areas.
+The patient underwent phlebotomy treatment and, after 20 fortnightly phlebotomy, more than 5 g of iron were eliminated, and γGT and ferritin concentrations returned to normal values.
+Currently, the patient undergoes maintenance phlebotomy twice a year.
+Molecular study of the genes involved in iron metabolism showed the following allelic variants in heterozygous state: c.187C>G (p.H63D) in the HFE gene and c.840.

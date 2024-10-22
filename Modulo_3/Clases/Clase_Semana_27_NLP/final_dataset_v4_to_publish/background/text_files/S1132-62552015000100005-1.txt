@@ -1,0 +1,26 @@
+M.A., de 40 años de edad es mujer trabajadora del servicio de radiodiagnóstico del hospital. Tiene como antecedentes familiares madre fallecida por cáncer de mama a los 56 años de edad y padre diagnosticado de hipertensión arterial esencial. Antecedentes personales sin interés.
+Antecedentes laborales: es técnico de radiodiagnóstico del hospital. Clasificada por el servicio de protección radiológica como trabajadora profesionalmente expuesta a radiaciones ionizantes categoría A (puede recibir una dosis efectiva superior a 6 mili Sieverts (mSv) por año oficial) desde 2006. Anteriormente trabajó en otro centro sanitario como auxiliar de clínica.
+ 
+Diagonostico
+Diagnosticada en hospital de la Conselleria de Sanitat de carcinoma ductal infiltrante de mama derecha. Piel libre. El informe de anatomía patológica evidencia: bordes de resección libres; adenopatía libre de infiltración; receptores estrogénicos negativos; receptores de progesterona negativos; estadío pT1N0 (sn)Mx.
+ 
+Tratamiento
+Tumorectomía (bordes de resección libres) y biopsia de ganglio centinela. Quimioterapia adyuvante con Taxotere. Radioterapia sobre glándula mamaria totalizando una dosis de 50 Grays (Gy) con dos campos tangenciales, a ritmo de 2 Gy por fracción. Braquiterapia de alta tasa con agujas de Iridio-192, totalizando 8 Gy.
+ 
+Evolución
+Sigue controles en los servicios de oncología y radioterapia de hospital de la Conselleria de Sanitat. A los 18 meses es Alta por agotamiento. Acude a la consulta de medicina del trabajo del servicio de prevención para reconocimiento médico tras ausencia por larga enfermedad. Aporta informes de oncología y radioterapia.
+Refiere "informe verbal" del oncólogo desaconsejando la exposición a radiaciones ionizantes.
+ 
+Discusión
+La trabajadora es técnico de radiodiagnóstico y está calificada por el servicio de protección radiológica como profesionalmente expuesta a radiaciones ionizantes categoría A. En este caso concreto, además del certificado médico de aptitud habitual para la empresa, debe emitirse otro para el Consejo de Seguridad Nuclear, que clasifica al trabajador en tres categorías: APTO / NO APTO / APTO EN DETERMINADAS CONDICIONES (especifíquese).
+
+La trabajadora ha recibió en su tratamiento una dosis de 50 Gy de radioterapia convencional (telerradioterapia con acelerador lineal) más 8 Gy de braquiterapia con Iridio (cabe recordar que en caso de fotones y electrones 50 Gy = 50.000 mSv). El límite legal de exposición profesional es: dosis efectiva = 50 mSv por año oficial y 100 mSv en cinco años consecutivos (en 1 cm2 de piel 500 mSv / año oficial). 
+ 
+Conclusiones
+La trabajadora es calificada como apta para el puesto de trabajo de Técnico Especialista en Radiodiagnóstico, con las siguientes limitaciones:
+* No apta para exposición especialmente autorizada, definida en el artículo 12 del Reglamento sobre protección sanitaria contra radiaciones ionizantes.
+* No apta para participar en los planes de emergencia radiológica definidos en el artículo 59 del Reglamento sobre protección sanitaria contra radiaciones ionizantes.
+ 
+Dirección para correspondencia: Hospital NISA 9 de Octubre Avenida Valle de la Ballestera - 59 46015 - Valencia e-mail: psoto@hospitales.nisa.es
+Fecha de recepción: 15 de diciembre de 2014 Fecha de aceptación: 9 de marzo de 2015
+

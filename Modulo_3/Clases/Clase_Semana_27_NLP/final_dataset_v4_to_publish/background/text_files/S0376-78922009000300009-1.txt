@@ -1,0 +1,27 @@
+La Unidad de Quemados del Hospital de Niños Baca Ortiz de Quito, Ecuador, recibe pacientes del 75% del territorio nacional; durante el año 2007 ingresaron en nuestra Unidad 169 pacientes con quemaduras de más del 15% de superficie corporal (SCQ). En 56 pacientes (33,13%) la causa fue el fuego directo, en 96 (56,8 %) por líquido hirviente y en 17 ( 10,05%) por quemadura eléctrica de alto voltaje de corriente alterna (AC). En éste mismo periodo se registraron 2 fallecimientos (1,18 %), que correspondieron al grupo de pacientes quemados por fuego directo.
+Describimos el caso clínico de un paciente de 12 años de edad y sexo masculino, nacido y residente en la ciudad de Riobamba, Ecuador, que es referido al Servicio de Emergencia del Hospital Pediátrico Baca Ortiz por personal paramédico desde su lugar de origen 5 horas después del accidente, por presentar quemadura eléctrica producida por descarga de 3500 Voltios de corriente alterna (AC), pérdida de conciencia por tiempo no determinado, quemaduras de segundo grado superficial en tórax anterior, quemaduras de primer grado profundo en cara anterior de muslos y carbonización de miembros superior e inferior izquierdos.
+Al ingreso en nuestra Unidad el paciente se encuentra consciente, orientado en tiempo y espacio, con valoración de Glasgow 15/15, hemodinámicamente inestable, con soplo sistólico grado II/VI en foco mitral y aórtico, franca hematuria y proteinuria.
+En tórax presentaba quemadura de segundo grado superficial; a la palpación abdominal encontramos hepatomegalia dolorosa de 2 cm por debajo del reborde costal derecho.
+En la extremidad superior izquierda presentaba quemadura eléctrica con carbonización y necrosis tisular que compromete mano, antebrazo con exposición ósea de cúbito y radio (estallido) y necrosis de brazo.
+
+En la extremidad inferior izquierda presentaba carbonización y necrosis de pie hasta tercio superior de pierna y quemadura de segundo grado profundo en cara anterior de muslo.
+
+En la extremidad inferior derecha, quemadura de segundo grado profundo en cara anterior de muslo.
+Se realizaron al ingreso exámenes de laboratorio con los siguientes resultados:
+Biometría hemática: leucocitos 23100/mm3, neutrófilos 88.5%, linfocitos 5.8% monocitos 4,8% eosinófilos 0,1%, basófilos 0,7%, hematocrito: 52,3%, hemoglobina. 17,3mg/dl, plaquetas 434.000/mm3.
+Electrocardiograma: microvoltajes con alteración de la repolarización.
+Ecocardiograma: situs solitus, levocardia, levoápex, anatomía cardíaca normal, insuficiencia aórtica y mitral leve. Falso tendón no obstructivo en tercio medio de ventrículo izquierdo.
+Eco Doppler de miembros inferiores: arteria y venas poplíteas, arteria tibial posterior, arterias plantares y arterias pedias con flujo presente.
+El tratamiento inicial básico se realizó con la fórmula de Galveston modificada por el Hospital Baca Ortiz, siendo ésta:
+Día 1: (5000 x SCQ) + (2000 x SCT) (Lactato Ringer 50% en las primeras 8 horas y 50% en las 16 horas restantes).
+SCQ (superficie corporal quemada)
+SCT (superficie corporal total)
+Día 2:(3750 x SCQ)+ (1500 x SCT) (Lactato Ringer en 24 horas)
+Día 3:Dextrosa en agua al 5% + electrolitos Na y K, calculando el volumen de líquidos de mantenimiento de la siguiente manera: los 10 Kg. primeros por 100 cc, los 10 Kg. segundos por 50 cc y los kilogramos restantes por 20cc; a esto se añaden las pérdidas insensibles con la fórmula siguiente: (3000 x SCT x % de quemadura)/100. El cálculo de los electrolitos es: para electrosol Na: 2-3 mEq/Kg. y electrosol K: 1- 2mEq/Kg.
+Es importante mantener la función renal en valores normales de urea y creatinina, una densidad urinaria de 1010 y una diuresis horaria en torno a los 2cc/kg/hora.
+De acuerdo a la respuesta del paciente al dolor se administraron diversos analgésicos y por la complejidad de las lesiones se inició antibióticoterapia profiláctica con Cefalosporinas de tercera generación y Aminoglucósidos.
+En pacientes con quemaduras eléctricas administramos además expansores vasculares capilares, como Pentoxifilina, antiagregantes plaquetarios y fármacos para protección gástrica como inhibidores de la bomba de protones o bloqueadores H2.
+A los 11 días de hospitalización se realizó al paciente una gammagrafía ósea en la que observamos falta de vascularización del segmento tibio-peroneo de los tercios medio y distal de la pierna izquierda, examen que orienta efectivamente sobre la viabilidad vascular y que ayuda a definir el pronóstico y la decisión clínico-quirúrgica, para realizar amputación de la pierna izquierda en su tercios superior, manteniendo la articulación de la rodilla, lo que facilitó la utilización de una prótesis ortopédica. En el miembro superior izquierdo, al no tener viabilidad vascular y debido a la gravedad de la quemadura (carbonización), fue necesario realizar amputación.
+
+El paciente fue dado de alta con apoyo psicológico y derivado al Servicio de Rehabilitación.
+

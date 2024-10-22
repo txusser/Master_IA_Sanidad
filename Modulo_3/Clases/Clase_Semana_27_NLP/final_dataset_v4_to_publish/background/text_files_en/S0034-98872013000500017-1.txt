@@ -1,0 +1,19 @@
+A 38-year-old woman with a 3-year history of abdominal cramps, bloating, and constipation.
+Physical examination revealed abdomen with displaceable dullness.
+Cal25 of 354 (U/ml), CEA 4.3 (Ul/ml).
+The rest of the laboratory tests were normal.
+Abdominal computed axial tomography (CAT) showed a right adnexal mass involving the cecal pole and the presence of peritoneal carcinomatosis.
+The apex located at the cecal pole showed a proliferative, exophytic and irregular lesion of 4 cm long axis.
+The biopsy concluded villous adenoma with severe dysplasia.
+Upper endoscopy was normal.
+Paracentesis was performed and the cell block confirmed the presence of carcinoma.
+Culture of tumor cells of ascites and study of response to chemotherapy according to the panel used for CO, as planned.
+Under the clinical suspicion of stage III-C OC, chemotherapy was initiated with cisplatin-paclitaxel without response.
+She was admitted to hospital with vellous adenoma and intense dysplasia.
+Immunohistochemistry (IHC) of the cell block showed intestinal origin: CDX2 positive, Cal25 negative, cytokeratins negative.
+A QMT response study was repeated in the in vitro assay to the new cell block using a QMT panel for digestive cancer.
+QMT was changed to FOLFOX regimen.
+He died with rapid clinical deterioration.
+QS analysis for CO panel showed cisplatin-paclitaxel cytotoxicity below 30%.
+The QS study for progression to digestive cancer panel showed cytotoxicity of 20% to FOLFOX scheme.
+These results show a correlation between the clinical response and the in vitro test result for both the first and second line of CMT.

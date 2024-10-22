@@ -1,0 +1,51 @@
+A 12-year-old male with acute lymphocytic leukemia of medium risk, diagnosed eight months before admission.
+Two weeks prior to the onset of symptoms and in complete remission, she received a chemotherapy cycle with dexamethasone, vincristine, doxorubicin, and L-asparins.
+Established by coughing and coughing mucous sputum, which added pain and lower limb paresis.
+On physical examination at admission, the patient was compromised with consciousness, respiratory failure and signs of circulatory collapse.
+Chest X-ray revealed bilateral consolidation images.
+He was admitted to the intensive care unit with the diagnosis of septic shock, bronchopneumonia and high-risk febrile neutropenia.
+She required mechanical ventilation and vasoactive amines.
+The initial scheme included vancomycin, ceftazidime, amikacin, azitromi-cin, antiretroviral therapy and oseltamivir; the latter due to the epidemiological situation of influenza A H1N1 pandemic.
+Blood cultures were positive for Staphylococcus aureus.
+Search for respiratory viruses without dengue virus, adenoNvirus, respiratory secretion virus and influenza virus by immunofluorescence was negative; however, a polymerase chain reaction (PCR) was positive.
+CSF analysis showed a slight increase in proteins, and both the PCR for herpes simplex virus 1 and 2 and for influenza A H1N1 virus were negative.
+Ev: The patient presented isolated tonic-clonic seizures and an electroencephalogram with frontal epileptiform and right temporoparietal low voltage activity.
+Brain computed tomography (CAT) revealed multiple hypodense circular, corticoid subcortical, supra and infratentorial lesions consistent with acute disseminated encephalomyelitis.
+Chest CT showed multiple areas of bilateral pulmonary consolidation, predominantly in the left lower lobe, and confluent interstitial opacities in the right middle lobe and both upper lobes.
+On the fifth day, brain angioresonance was performed and showed multiple cerebral infarctions consistent with acute necrotizing encephalitis.
+Bronchoalveolar lavage fluid culture was positive for Staphylococcus aureus sensitive, non-culprit colonies, whereas bronchial alveolar isolation was positive with an index of 10.3.
+Question: What do you think is the etiology of CNS involvement?
+Response: Due to the characteristics of brain imaging, and in the context of a viral disease such as influenza, it is possible to suggest an encephalitis due to influenza A H1N1 virus.
+However, considering the risk factors associated with the underlying disease and the treatments received, it is difficult to rule out a contributing etiological role of the other infectious agents that have been identified although these patterns, when affecting the CNS, have another MRI pattern.
+Erythromycin-B deoxycholate and voriconazole were added to the antimicrobial treatment.
+Resistance to herpes simplex virus 1 and 2 was suspended.
+The patient showed a slight improvement but on the sixth day of evolution it got worse due to infection by Acinetobacter baumannii, dying two weeks after admission.
+The fatal outcome of this patient was probably due to the multiple infectious agents involved, late consultation, and empirical use of corticosteroids in a severely immunocompromised patient.
+Their clinical conditions prevented brain biopsy, which could have contributed to clarify the etiology of nervous system involvement.
+Establishment plan
+- Acute lymphocytic leukaemia of medium risk.
+- Acute necrotizing encephalitis associated with influenza A H1N1 virus.
+- Escherichia coli bacteremia.
+- Staphylococcus aureus susceptible pneumonia.
+- Sepsis by Acinetobacter baumannii.
+- Disseminated aspergillosis.
+Influenza A H1N1 virus infections in immunocompromised patients
+The advent of more effective therapies, based on more intense chemotherapy regimens, has increased the survival of many types of cancer, causing new complications in its evolution; one of the most important by its severity, is the CNS1.
+The case presented here is the second in a series of children with cancer with CNS infectious complications that we published2.
+The CNS of these patients is susceptible to infections caused by bacteria, viruses that can occur simultaneously or serially as single or multiple infections.
+In addition, there are a number of non-infectious processes that can affect the CNS and make diagnosis even more difficult1,2.
+The infection by influenza virus has been associated with various CNS complications (convulsions, consciousness compromise, acute disseminated encephalomyelitis Guillain ́s syndrome has been reported in the last cases of acute meningitis, Japan in 60 years).
+Since the beginning of the pandemic, in 2009, numerous cases with neurological complications associated with influenza A H1N1 virus in children have been reported; the first ones occurred in Dallas, E.U.A., a Chilean child series, and
+These complications were more frequently associated with influenza A H1N14-8 virus.
+In all of them viral RNA was detected in nasopharyngeal samples but not in CSF.
+1.
+In immunocompromised patients, published series show that influenza frequently presents as a mild disease, and that the most common complication is parenchymal pulmonary involvement in the form of pneumonia. None of the patients recovered from the CNS-12.
+In our case, the images are compatible with acute necrotizing encephalitis, an entity that has been associated with several viruses and, in particular, with influenza4 virus.
+Despite the multiple infectious agents confirmed in this case, influenza A H1N1 virus, which was confirmed by PCR in nasopharyngeal aspirate, seems to be the most probable agent of CNS involvement.
+The pathogenesis of this infection is controversial.
+Very few studies have demonstrated viral particles in the brain tissue of autopsies and viral isolation in CSF is very unusual 4, which means that it is more due to a host response than to a direct CNS effect.
+The recommended treatment is oseltamivir or zana-mivir administered over a period of 5 days13,14. These antivirals have been shown to be effective in treating the duration of symptoms and signs of the disease.
+Some experts recommend extending treatment to immunocompromised patients until viral excretion is stopped; however, cases of resistance to oseltamivir have been reported in association with this strategy10.
+According to published series, influenza has evolved in most cases in a benign way; however, it has forced to implement antineoplastic treatments which can affect the chances of survival of cancer patients.
+This situation justifies the recommendation to vaccinate these patients and people who have close contact with them annually.
+The trivalent vaccine is well suited for immunocompromised patients and has been shown to produce a limited but acceptable response in children with leukaemia when compared to healthy controls15.

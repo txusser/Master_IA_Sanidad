@@ -1,0 +1,22 @@
+The index case is a male who began control in our center at the age of 19 years for presenting a picture of poor general condition and fatigue for six months with alteration of renal function (creatinine 1.8 mg/dl).
+He had hyperuricemia of five years of evolution without episodes of gouty crisis, which controlled with allopurinol (100 mg/day).
+Renovesical ultrasound showed decreased size of both kidneys (9-10 cm) and urine sediment showed no proteinuria or hematuria.
+A renal biopsy showed nonspecific changes: 4 glomeruli were normal and 3 were in the wafer, the tubules had an atrophic aspect and lymphomononuclear infiltrate.
+The vessels were not affected and immunofluorescence was negative.
+1.
+The patient had a renal failure of slow progression and at 39 years a living donor kidney transplant (his wife) was performed without incidents.
+At 42 years of age, the patient has very stable renal function with baseline creatinine levels of 1.5 mg/dl and is being treated with allopurinol 100 mg/day.
+Family history includes several members with renal involvement and hyperuricemia, with different degrees of renal failure and clinical polyuria and polydipsia.
+A brother (III-2) with chronic kidney disease and hyperuricemia was admitted at age 47.
+Another sister (III-1), also with chronic kidney disease and hyperuricemia (at 35 years old has a creatinine of 1.8 mg/dl).
+The mother (II-4) of the three siblings, also with chronic kidney disease, started dialysis at age 34 and died at age 66.
+1.
+The diagnosis of juvenile familial hyperuricemic nephropathy was made by mutational analysis of the UMOD gene by direct sequencing of the 10 coding exons (exon 2-exon 11) from the genomic DNA index.
+Mutational analysis allowed the identification of the sequence variant c.606G>C (p.W202C) in heterozygosis.
+This variant is located in exon 3 of the UMOD gene and has not been previously described in the literature, although another mutation that alters the same amino acid [c.605G>C) (p.W202S) has been described.
+The c.606G>C variant (p.W202C) was not identified in more than 200 analyzed control chromosomes and alters the tryptophan amino acid 202 that is fully conserved in orthologous proteins.
+We also studied the segregation of this variant in the family and identified that it is caused by all affected members.
+Distinct biofertilisation algorithms (Condel, Sift Polyphen) predict that this is a pathogenic mutation.
+Therefore, we conclude that the c.606G>C variant (p.W202C) was with very high probability the pathogenic mutation causing the disease.
+1.
+The diagnosis of this pathogenic mutation allowed the study of certain young relatives, such as individuals IV:1 (affected) and IV:2 (unaffected).

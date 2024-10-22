@@ -1,0 +1,7 @@
+Patient 70 a. with PSA of 30 ng/ml.
+Previous PSA values were 12 and 19 ng/ml respectively.
+The patient had undergone two previous prostatic biopsies, the first by sextants and the second by 8 samples, since we had already begun in our service to take 8 samples in the cases.
+When performing the E-RME, an extensive central hypointense area was observed, which by spectroscopy showed in some areas indices suggestive of neoplasia, as shown in the figure, especially in the 31, 31 and 31 voxels 32.
+These voxels show high choline curves compared to citrate curves, suggesting the presence of neoplasia in this area.
+These graphs also show a 3rd curve, broadband that usually corresponds to the presence of fat.
+Biopsy confirmed the presence of a Gleason 7 adenocarcimoma (3+4) in the central area of the prostate.

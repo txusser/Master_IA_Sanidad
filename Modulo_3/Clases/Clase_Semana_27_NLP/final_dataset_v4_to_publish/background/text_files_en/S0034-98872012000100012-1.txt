@@ -1,0 +1,24 @@
+A 71-year-old woman with idiopathic cardiomyopathy and permanent atrial fibrillation for several years.
+The patient developed heart failure with functional capacity III (NYHA) despite adequate medical treatment.
+The echocardiogram showed moderate left ventricular dilatation (LVEDD 64 mm), severe impairment of left ventricular systolic function (FE 30%) and significant dilatation of the left atrium (diameter 56 mm).
+The treating cardiologist referred her to our institution for biventricular repair.
+The implant was planned with usual approach on the left side.
+A left prepectoral subcutaneous pocket was made and puncture of the left axillary vein was performed with Seldinger technique, without incidents.
+As the guidewire advanced, an unusual presentation was observed from the left subclavian vein to the inferior vena cava, compatible with the presence of a PLSVC.
+A venogram confirmed the diagnosis of PLSVC, with no communication with the right superior vena cava system.
+The venogram also corroborated the drainage of the PLSVC to the right atrium through the coronary sinus, without intracardiac shunt.
+Then, an active fixation ventricular electrode Medtronic® model 4076 was advanced through the coronary sinus to the right atrium, directing it through the tricuspid valve to the right ventricular septum infundibum.
+A sensitive R wave of 12.6 mV was obtained, with a right ventricular stimulation threshold of 0.4 V to 0.5 ms, with stimulation impedance of 550 Ohms.
+Subsequently, using a Ber-mann catheter with orifices proximal to the balloon, contrast medium injection was performed from the medial portion of the coronary sinus, showing a dilated coronary sinus, without contrasting the lateral branches of the coronary veins.
+Then, using a long sheath and a Medtronic® guide catheter 130° angle (model 6248 of 130) a left posterolateral coronary vein was cannulated with a left ventricular pacing threshold of 1.096 m.
+Both electrodes were attached to the prepectoral fascia and connected to the respective ports of the Medtronic® Insync III generator model 8042, occluding the auricular port.
+Finally, the procedure was completed by fulgurating the compact AV node.
+The patient achieved satisfactory recovery and functional capacity.
+After 15 days, the device was controlled, which confirmed 99% biventricular pacing.
+An R wave of 11.2 -15.68 mV was measured in the right ventricle, with a right ventricular stimulation threshold below 0.5 V to 0.4 ms with an impedance of 430 Ohms.
+The left ventricular R wave was greater than 22.4 mV, the stimulation threshold was 1.5 V to 0.4 ms and the impedance was 776 Ohms.
+After 10 months of follow-up, the patient remained under regular control with his cardiologist and was in functional capacity I-II (NYHA).
+The last control of its device showed 99% biventricular stimulation and the parameters of sensation and stimulation of both electrodes are adequate.
+The right ventricular electrode sense R wave over 8.0 mV has a stimulation threshold of 1.0 V to 0.4 ms, with impedance of 480 Ohms.
+The left ventricular electrode misses an R wave of 12.0 mV, has a stimulation threshold of 1.5 V to 0.4 ms, with impedance of 971 Ohms.
+He maintains complete atrioventricular block with nodal leakage at 44 beats per minute.

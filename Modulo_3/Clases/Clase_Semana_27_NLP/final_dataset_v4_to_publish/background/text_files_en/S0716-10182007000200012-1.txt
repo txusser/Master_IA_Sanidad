@@ -1,0 +1,31 @@
+A 27-year-old male, living in Santiago, single and heterosexual, with a diagnosis of HIV infection since September 2003, and confirmatory serology performed by the reference laboratory of the Instituto de Salud Pública (ISP).
+It was classified as stage A, no determination of CD4 lymphocytes was performed and had irregular controls in another polyclinic.
+Ten years ago he had lived on the streets dedicated to street vendors and housed in residence for indigent individuals.
+Since April 2005, the patient presented an increase in volume in the frontal region, with erythematous papular lesions also appearing in the extremities. He consulted the Infectious Diseases Clinic of the Hospital Juan de Dios in August 2005.
+A frontal abscess was observed and lesions of the type prevailed in both extremities, being sent to the emergency service for debridement of the abscess and obtaining cultures.
+The patient was followed up after two weeks, with progression of frontal abscess (5 x 4 cm in diameter), with an area of central necrosis and extensive thorax erythematous edges, mainly subcutaneous lesions, in the appearance of new soft-tissue diameters.
+Mucosal involvement was also observed, with crusted exophytic lesions in the internal angle of the eye, 2 cm in diameter, in both conjunctiva and exophytic lesions with central ulceration in the oral mucosa.
+1.
+The general physical examination revealed a patient in poor hygienic, pale conditions, with oropharyngeal candidiasis, axillary T° of 37.5° C, a regional body mass index of 18, without lymphadenopathy.
+Cardiovascular examination revealed no abnormalities and no abdominal visceromegaly was observed.
+There was no clinical neurological compromise.
+Other relevant backgrounds that appeared in the medical history were travels as a backpack to Peru (Tacna) in 2001 and Bolivia (Oruro) in 2003.
+He did not have pets; however, he reported having frequent contact with stray cats of all ages, and was occasionally scratchy.
+It was then decided to hospitalize the patient for further studies.
+Of the general tests, the following stood out: 31% haematocrit with alkaline MCV and HIVCM, 32% leukocytes with 5,700 lymphocytes/mm3 function, without left shift and platelets 310,000 cells/ml.
+Aerobic Gram-positive bacteria were negative seven days after onset of infection, secretion culture and frontal lesion biopsy were negative for bacteria, as well as smear microscopy and mycobacterial culture.
+The imaging study showed: normal chest X-ray, abdominal ultrasound without pathological findings and skull radiography without osteolytic lesions.
+A serum sample was sent for the determination of IgG antibodies to B. henselae and B. quintana by immunofluorescence (Focus®) to the Laboratory of Infectious Diseases and Molecular Virology of Chile 1:56.
+Biopsy of the frontal cutaneous lesion was performed, which reported: skin ulcerated by mature squamous epithelium, lobular proliferation of small caliber vessels, abundant interstitial nuclear polymorphs, some with karyorrhexis.
+Warthin Starry staining demonstrated cocobacious accumulations suggestive of Bartonella sp.
+Given the high clinical suspicion, after taking cultures and biopsy, treatment with azithromycin 500 mg/d v.o. plus ciprofloxacin 500 mg c/12 hs v.o. was initiated.
+A surgical resection of bilateral conjunctival exophytic lesions was performed. The lesions were sent for histological study which concluded: scaly epithelia, abundant connective tissue, hyperplastic amorphous material, chronic interstitial inflammatory process.
+Warthin Starry staining showed structures suggestive of Bartonella spp, compatible with bacillary angiomatosis.
+For molecular diagnosis, a biopsy of a violet nodule in the anterior abdominal region was performed and sent to the Molecular Biology Laboratory of the Pontificia Universidad Católica de Chile.
+DNA extraction from subcutaneous tissue was performed using a commercial method (QIAamp Tissue kit, Qiagen®), according to manufacturer's recommendations.
+The amplification of the gene encoding the 16S rRNA gene was performed with universal primers15.
+Subsequently, the amplified product was sequenced and evaluated in the ABI 310 genetic analyzer.
+The BLAST program was used for comparison of sequences deposited in Genebank gene bank.
+An homology of 100% was found on 418 base pairs deposited with the species B. quintana subspecies Tose, which was later confirmed by amplification and sequencing of the specific segments of the species ITS and 336, respectively.
+Before discharge, antiretroviral therapy was initiated with zidovudine, lamivudine and efavirenz with a diagnosis of stage B-3 HIV infection and bacillary angiomatosis by B. quintana.
+The evolution after starting antibiotic therapy has been satisfactory, with regression of cutaneous and mucosal involvement after four months of treatment.

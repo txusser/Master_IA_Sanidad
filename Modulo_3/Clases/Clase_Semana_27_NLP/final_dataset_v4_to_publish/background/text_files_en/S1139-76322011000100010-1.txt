@@ -1,0 +1,37 @@
+An 11-year-old girl who came for the first time to see her pediatrician for a review of the Child Health Program.
+During physical examination, a mild systolic murmur 1-2/6 was detected, located at the left lower apex and cardiac apex, which did not change with posture and a second apparently normal sound.
+The rest of the physical examination is normal, including peripheral pulses.
+Blood pressure is also normal.
+The patient is asymptomatic, has never presented syncope, precordalgia or syncope, and has good tolerance to exertion, performing regular sports (voleibol) twice a week.
+The mother says that the child has a murmur "often" but they told her that it was not important and that her other 16-year-old son had it when he was a child and then disappeared.
+Due to the characteristics of the murmur, which does not seem clearly functional, we perform an electrocardiogram (ECG).
+Before you continue reading, check your ECG for a few minutes.
+1.
+Even when ECG1 was read systematically, the patient showed sinus rhythm (P wave axis at 0o because it was positive in I and ecchyphasic in aVF) with a heart rate of approximately 80 beats.
+To determine the axis of the complex, we must follow two steps: 1) locate a quadrant using leads I and aVF, and 2) find a derivation with depth complex QRS isophasic wave S approximately equal (height QRS wave).
+The QRS axis will be perpendicular to this derivation within the selected quadrant.
+1.
+To locate a quadrant, we proved that the QRS complex in lead I is positive, this means that in the axis of derivation I the QRS vector is directed toward the positive pole, i.e., towards 0o;
+As in aVF the complex is negative, it will be directed toward the negative side of the aVF axis, i.e. towards -90o, second side of the quadrant.
+The quadrant will then be between 0o and -90o.
+In order to define more precisely the quadrant, we must seek to refer the members (I, II, III, a, aVF and aVL) where the QRS complex is neither positive nor negative, where it is not equitable.
+In our case, the referral with the equiphasic complex is II.
+The axis of the QRS complex will be perpendicular to the derivation II, within the selected quadrant (0o and -90o), i.e. at -30o.
+Once the axis was known, we compared it with the table of normal values, where we found that normal values for a 12-year-old girl were between +20o and +105o.
+Therefore, the QRS axis of our case is outside normal limits.
+There is a "to the left" deviation, that is, in the opposite direction to the clock needles.
+1.
+Then, we analyze the axis of the T wave that is between 0o and -90o, since this wave is positive in leads I and negative in aVF, which also supposes an alteration between the T wave and the normal axis of 0.
+From the analysis of P waves we deduce that there are no signs of right atrial growth (high P waves above the upper limit of normality) or left (wide P waves above the upper limit of normality).
+QRS complex duration is normal.
+In V1 we found a RSR' pattern, suggestive of right bundle branch block, in this incomplete case, because the QRS complex duration is normal.
+We know that the RSR' image is normal whenever the duration of the complex is normal and R' is less than 10 mm in a girl older than one year, as in our case.
+We now look for left bundle branch anterior hemiblock, whose criteria are shown in Table 2 and Figures 3 and 4, and we found that in our case the patient had findings consistent with left anterior hemiblock.
+1.
+We then tested the voltage of R and S waves in V1 and V6, without detecting signs of right or left ventricular growth.
+T wave was then examined in the precordial leads, ST segment, Q wave and PR and QT intervals, which were normal.
+The conclusions of our reading would be the following: ECG in sinus rhythm, at 80 bpm, QRS axis -30o (left deviation), changes in repolarization (left ventricular non-contrast-enhanced QT branch, left ventricular reversed QRS branch, left ventricular enlargement), hemiblock significance abnormal
+A negative T wave in aVF without other changes in repolarization can be seen in normal children and is not necessarily pathological.
+The presence of a left anterior hemiblock, and more in the presence of a murmur, requires ruling out structural heart disease.
+This patient was referred to a Pediatric Cardiology Department, where an echocardiogram showed mitral valve stenosis type "isolated cleft or mitral cleft" that originated a mild mitral valve insufficiency detected origin of the murmur.
+Surgery was recommended, which was performed within a few months without incidents.

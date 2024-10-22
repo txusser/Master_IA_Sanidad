@@ -1,0 +1,15 @@
+We report the case of a 66-year-old woman with New York Heart Association (NYHA) grade III-IV heart failure despite optimal medical treatment with angiotensin II converting enzyme inhibitors, beta-blockers and diuretics.
+Electrocardiogram (ECG): sinus rhythm with intraventricular conduction disorder type left bundle branch block and QRS width of 190 ms. Echocardiogram showed left ventricular ejection fraction (EF) 24%, left ventricular septal defect over 58 mm.
+Three guidelines were introduced by triple venipuncture that reached the right atrium (RA), following a path parallel to the left edge of the spine.
+A bipolar electrocatheter inserted according to the usual technique following the course of one of the previous guidelines recorded simultaneous atrial and ventricular activity during its course before reaching the RA.
+Repeated attempts to advance a guide into the innominate vein were unsuccessful.
+Given the poor clinical condition of the patient, venography is not performed to reduce the administration of radiological contrast, which could lead to more severe respiratory failure due to volume overload.
+However, the above data allowed the diagnosis of IPIVC with drainage in the CS and not communicated with the right side, later confirmed with helix computerized axial tomography (CAT).
+It was impossible to obtain a coronary angiography of the CS branches using a balloon catheter due to its large caliber, superior to the balloon diameter of the available catheters.
+1.
+With conventional technique we introduced two electrodes Capsurefix NOS (Medtronic) which were fixed in RA and right ventricle (RV).
+A unipolar OTW electrode (Medtronic) was elected for LV stimulation. After repeated attempts, a collateral branch was canalized with an angioplasty guide to slide the electrode.
+We recorded LV threshold of 0.8 volts, QRS-VI distance of 130 ms and RV-VI apex of 140 ms. Considering these adequate parameters, we accepted hemodynamic stimulation of this position due to poor patient's condition.
+The electrodes were connected to an Insync III (Medtronic) generator; the AV and VV intervals were adjusted by echocardiography;
+After one year the thresholds remain stable.
+On ECG, the biventricular stimulated QRS has a width of 135 ms. Echocardiography shows EF 35%, decreased LV diameters and mitral regurgitation, with visible output of the SC and dilatate leads through the RV.

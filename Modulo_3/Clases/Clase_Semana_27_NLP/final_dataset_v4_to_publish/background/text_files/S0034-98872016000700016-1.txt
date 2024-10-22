@@ -1,0 +1,14 @@
+Paciente de 41 años, de sexo masculino, con antecedentes de VIH, EPOC tabáquico y neumonía grave por P. jirovecii. Desde el 2012, en tratamiento con: lamivudina (150 mg/día), tenofovir (300 mg/día), atazanavir (300 mg/día) y ritonavir (100 mg/día).
+Durante los últimos 7 meses se agregó al tratamiento fluticasona/salmeterol (1.000 ug/100 ug al día), respetando dosis.
+Consultó en urgencias, por cuadro de 5 meses de evolución de dolor lumbar bilateral, punzante, no irradiado y EVA 8/10. Asociado a astenia, adinamia y aumento progresivo de peso. Se hospitalizó para estudio.
+Ingresó con hipertensión arterial (150/96 mmHg) y afebril. El examen físico reveló un IMC 38 kg/m2 (33 kg/m2 hacía 10 meses), perímetro abdominal (210 cm) y fenotipo cushingoideo.
+
+Se estudió con exámenes de laboratorio, destacando alteración en: cortisol libre urinario de 24 h (CLU), test de Liddle (TL) en dosis bajas y en ACTH. Con estos resultados, se realizó una tomografía computada (TC) de abdomen y pelvis con contraste, que evidenció glándulas suprarrenales de forma y tamaño normales.
+
+En radiografías de columna lumbar se pesquisaron fracturas por aplastamiento a nivel de T12 a L3; confirmadas en TC de columna lumbar y densitometría ósea informó T score: -4,75 DS en cuello femoral.
+
+A partir de los hallazgos en el laboratorio endocrinológico e imagenología, se concluyó que el cuadro era secundario a SCI por corticoides exógenos (CE); siendo fluticasona/ritonavir, la asociación más probable.
+Por estos motivos, ambos fármacos fueron suspendidos, se suplementó por un mes con cortisol oral (30 mg/día), indacaterol (150 ug/día) reemplazó a fluticasona/salmeterol y se cambió la triterapia a: raltegravir (800 mg/día), zidovudina/lamivudina (600 mg/300 mg/día).
+Igualmente, recibió calcio/colecalciferol (375 mg/150 UI/día) y ácido ibandrómico (150 mg/mes) por osteoporosis lumbar. Se otorgó el alta al lograr analgesia con buprenorfina 35 ug subcutánea y amitriptilina 25 mg/día.
+El eje hipotálamo-hipófisis-adrenal (HHA) fue revisado, a los 3 meses de la suspensión de fluticasona/ritonavir y a los 2 meses sin cortisol; obteniéndose 16 ng/ml de cortisol basal.
+Evolucionó sin dolor, normotenso, con un IMC 35 kg/m2 y con regresión del fenotipo cushingoideo a los 8 meses de seguimiento.

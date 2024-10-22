@@ -1,0 +1,93 @@
+The patient was a 32-year-old woman, 11 weeks pregnant, with no known toxic habits or cardiovascular risk factors.
+She had a history of penicillin allergy and spontaneous abortion 4 months prior to admission.
+The patient was admitted to the emergency department due to an episode of typical chest pain. The patient was normotensive and V was admitted to the electrocardiogram (ECG) showing sinus tachycardia at 110 bpm and a lesion currentepi5.
+Physical examination showed no abnormalities, with emphasis on initial laboratory tests leukocytosis with neutrophilia and elevated troponin.
+1.
+Initially, treatment was administered with good response to treatment with clopidogrel; clinical manifestations were as follows: intravenous diazepam 5 mg orally (VO), nitroglycerin 10 mcg/minute IV, oral acetylsalicylic acid (ASA) 200 mg IV,
+Given the relative contraindication of fibrinolysis in this context, it was decided to perform cardiac catheterization.
+An anterior descending artery was observed with a proximal stenosis of less than 30%, with the presence of a coronary stenosis (trombolysis in Myocardial Infarction).
+No lesions were observed in other vessels, and the ventricular ejection fraction was normal.
+Anterior hypokinesia was also evident.
+1.
+Given the positive electrical and clinical response to medical treatment and the findings of coronary angiography, it was decided not to intervene at first and to observe the evolution.
+Subsequently, a transthoracic echocardiography was performed, showing the left ventricle non-dilated or hypertrophic with moderately depressed systolic function, septal akinesia, septomedial and septoapical dyskinesia.
+An initial hypercoagulability study was normal.
+During her stay in the hospital, the asymptomatic patient underwent an ergometry before discharge, which showed no signs of ischemia at low load.
+The patient was discharged after 12 days without complications and treated with bisoprolol and ASA.
+At 38 weeks of gestation, after excluding the presence of fetal alterations and with the asymptomatic patient, it was decided to suspend treatment one week and perform a cesarean section in which a healthy newborn was obtained.
+The postpartum period was uneventful and the treatment was reintroduced later.
+1.
+Treatment of STEACS in pregnancy and puerperium
+The optimal treatment strategy for STEMI in women during pregnancy and puerperium has not been established.
+Given the low incidence of this clinical entity, there are no randomized controlled trials comparing percutaneous coronary intervention with fibrinolytic therapy, and there are no clinical guidelines that establish the most appropriate pharmacological treatment to those currently available.13
+Nevertheless, the treatment of STEMI during pregnancy is based on the effects that both techniques and drugs could have on the normal development of pregnancy.
+1.
+Coronary angiography
+Given that pregnancy is one of the relative contraindications of the treatment 14,15, most authors recommend performing an immediate coronary angioplasty and percutaneous coronary angioplasty without stenting.16
+Although this procedure has been successfully performed during pregnancy and the early postpartum period in certain cases, experience in this group of patients is very limited18-21.
+It should also be noted that if a stent is placed, a prolonged combined treatment should be continued, whose safety in this population group has not been established either22,23.
+The safety of coronary stents (paclitaxel, sirolimus, etc.) in pregnant women is unknown.
+In addition, given the risk of fetal exposure to radiation, special consideration should be given to the weeks 10-17 of gestation; and in this case, maximum protection measures should be taken when indicating brachial access16.
+1.
+Pharmacological treatment
+Fibrinolytic therapy
+Engaged in the category C of teratogenicity, its use is limited in pregnancy, although, according to some authors, the basis for its relative contraindication in this 26 period is a direct exclusion of pregnancy25, and probably the implementation was adopted.
+The limited clinical experience described in relation to the use of fibrinolytics during pregnancy has been mostly with streptokinase, urokinase and alteplase in patients with thrombosis, massive pulmonary embolism-stroke 514256.
+Although in most cases a favorable fetal outcome is described and no cases of fetal hemorrhage or teratogenic effects have been reported, complications including maternal bleeding, early delivery and fetal loss have been documented27,28,41.
+To date, the true risk of hemorrhage after systemic fibrinolysis in pregnant women is unknown23, although a recent review of all published cases places the maternal mortality rate at 1.2% and the occurrence of bleeding complications at 8.1%.
+In addition, the risk of bleeding increases when fibrinolytic treatment is administered in the peripartum period 4,54.
+The few studies available on the use of fibrinolytics during pregnancy have not found a teratogenic effect.
+Furthermore, most reported cases of foetal loss cannot be directly related to treatment, although this possible association cannot be completely ruled out.
+However, given the high risk of bleeding complications, the majority of authors recommend infarction or treatment with fibrinolytic therapy in pregnant women should restrict it to certain individualised cases, and after careful consideration of STEMI versus emergency coronary disease 1457.
+Morphine
+Also encompassed in category C of teratogenicity, the use of morphine in this context is punctual for the treatment of pain, and the required doses are usually low, so the potential negative effect is very limited.
+Nevertheless, no cases have been described in which the therapeutic use of morphine with the development of malformations has been described, but since it is administered previously to the placenta, it can cause neonatal respiratory depression58 when administered
+Morphine is excreted in milk in trace amounts, therefore, although a case of secretion of high concentrations of morphine in breast milk has been reported without adverse effects on the suckling child, 59 is considered compatible with breastfeeding.
+Diazepam
+Clustered into category D of teratogenicity, diazepam and its metabolite, desmethyldiazepam administered to the foetus, accumulates up to 3 times in the fetal circulation and in tissues during organogenesis.
+As with morphine, prolonged use is unlikely.
+In general, the effects of benzodiazepines during pregnancy are controversial: some studies show the association of their use with various types of congenital malformations, while others do not find any relationship.
+In addition, diazepam may accumulate in breast milk and therefore its use is not recommended in women during lactation.
+Anticoagulant treatment: Low molecular weight heparins
+Heparins are included in category B of teratogenicity, and anticoagulant drugs of choice during pregnancy are generally considered because they have an adequate profile of efficacy and safety, do not cross the placenta and oral anticoagulant malformations have not been related.
+Three systematic reviews have been published on the use of low molecular weight heparins (LMWH) during pregnancy for both the treatment of acute events and thromboprophylaxis including a total of 1851 patients.
+In most of these women, no serious adverse events were observed, the frequency of bleeding complications being low and no serious bleeding or thrombocytopenia cases attributable to treatment with enoxaparin have been reported.
+In addition, none of the cases of congenital malformations observed in these studies were considered related to the administration of enoxaparin 63.64.
+The same precautions as in the general population when these patients undergo epidural or other regional anesthetic techniques are recommended.
+In case of spontaneous delivery, treatment should be discontinued and, in case of bleeding, the use of protamine sulfate and blood products should be considered to reduce the risk of bleeding and allow safe epidural anesthesia62.
+Due to its high molecular weight and its inactivation in the gastrointestinal tract, the possible repercussion in the infant is considered negligible 59,61.
+Acetylsalicylic acid
+ASA is included in category C of teratogenicity, and its safety during pregnancy is a very controversial aspect, especially in the third trimester, in which high doses of ASA can lead to severe ductus arteriosus in the third trimester.
+The safety of low doses of ASA (≤ 150 mg/day) during the second and third trimester of pregnancy has been proven regarding the risk of fetomaternal bleeding 67-69.
+A prospective controlled study that included 46 women with a history of thromboembolism or thrombophilia concluded that the administration of 100 mg/day of ASA in combination with enoxaparin 40 mg/day was safe and well-pregnated every trimester.
+Although ASA is secreted into breast milk in low concentrations, caution has been advised when it is used by women in lactating dairy herds without adverse effects being reported59.
+Clopidogrel
+In Category B teratogenicity, the safety of clopidogrel in pregnancy is unknown, especially when used in combination with ASA.
+Studies in rabbits and rats suggest that it does not produce foetal toxicity, however no studies have been conducted in humans71,72.
+Only four isolated cases of patients in whom clopidogrel was used during pregnancy with good outcome have been reported in the literature.
+However, the pharmacovigilance department of the responsible laboratory reports ten cases of clopidogrel exposure in this situation, one of them presenting with acute respiratory distress at birth, which resolved favorably.
+Studies in rats h an have shown that clopidogrel and its metabolites are excreted in human milk, however it is not known whether the drug is excreted in human milk 71,72.
+Nitrates
+They are classified in category C of teratogenicity and have been used during pregnancy in the treatment of hypertension, myocardial ischemia and infarction.
+No adverse effects of treatment with these drugs have been observed during pregnancy, however careful management is recommended to avoid possible maternal hypotension and fetal repercussions73.
+No data are available on its passage into breast milk.
+beta-blockers
+They are included in category C of teratogenicity, and all of them attack the placenta.
+However, there is sufficient experience with bradycardia during pregnancy, atenolol, labetalol and metoprolol, which suggests that its administration during pregnancy is safe, although some adverse effects have been described as fetal apnea.
+Since non-selective agents can increase uterine activity, the use of selective agents ß1 is preferable.
+All beta-blockers are weak bases and accumulate at higher concentrations in breast milk than in plasma.
+Considering its possible accumulation in infants due to the immaturity of their hepatic enzyme system, monitoring of adverse effects should be strict74.
+The choice of beta blockers in this and labetalol are those found in lower concentrations in breast milk because they have a higher rate of plasma protein binding, so beta blockers would be the first choice.
+Angiotensin converting enzyme inhibitors
+They fall into category C of teratogenicity in the first trimester and category D in the second and third trimesters.
+These drugs are contraindicated during pregnancy due to the increased incidence of disease and fetal death.
+Reported complications include oligohydramnios, intrauterine growth retardation, preterm delivery, fetal and neonatal renal failure, bone malformations, persistent ductus arteriosus, pulmonary hypoplasia, fetal distress syndrome75, prolonged hypotension76.
+However, they can be used safely during breast-feeding.
+Calcium channel blockers
+Clustered into category C, the growing experience with or without fever during pregnancy for the treatment of hypertension, preeclampsia, myocardial ischemia and tocolysis have proven its safety77.
+However, more limited information is available on the use of verapa and diltiazem, and the use of diltiazem has been associated with a low incidence of cardiovascular malformations61.
+Malignant fever, cough, and diltiazem are considered compatible with breastfeeding59.
+Statins
+Studies in which the clinical course of statin use during pregnancy is reported are limited, which fall in category X of teratogenicity.
+A recent review suggests an increase in central nervous system and skeletal malformations in children born after exposure to statins during the first trimester of pregnancy78.
+Teratogenicity has also been reported in rats and therefore its use is contraindicated in pregnant women 79,80.

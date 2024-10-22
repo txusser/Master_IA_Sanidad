@@ -1,0 +1,12 @@
+A 26-year-old man with a history of Down syndrome and congenital heart disease consisting of complete atrioventricular canal, repaired in the infant period, and biological mitral valve replacement five years ago.
+In April 2010, in another institution, due to bradycardia, a definite unicam was implanted.
+The implant was performed in a prepectoral subcutaneous pocket, using a transvenous electrode of auricular stimulation with active fixation.
+The device was programmed in AAI mode with stimulation frequency of 50 beats per minute, with hysteresis frequency of 40 beats per minute.
+The patient was admitted electively to our center for uncomplicated abdominal hernia surgery.
+Routinely, preoperative evaluation by electrophysiology was requested.
+On physical examination it was found constriction of the left pectoral region.
+His electrocardiogram showed sinus rhythm at 60 beats per minute with normal atrioventricular conduction.
+The interrogation of the device showed normal battery voltage (2.79 V), with impedance stimulation of 833 Ohms and failure of sensing and auricular capture by the electrode.
+A chest X-ray was requested, showing that the generator electrode was placed outside the cardiac silhouette, fully coiled around the pulse in the area of the prepectoral pocket.
+The treating physicians were informed and the decision was made to discontinue the device, erasing it, given that the patient did not present bradycardia symptoms, his Holter ECG showed no arrhythmias and the original indication was questionable.
+Abdominal herniorrhaphy was performed without surgical or cardiovascular complications and remains asymptomatic at 1 year of follow-up.

@@ -1,0 +1,29 @@
+A 12-year-old boy presented to his paediatrician for a routine check-up.
+The patient is a healthy child with no personal history of interest.
+During physical examination, the pediatrician detects a cardiac systolic murmur 2/6 in relation to the left vibratory edge low phase, non-irradiated and modified with posture, with a second normal tone and arrhythmic tone.
+Peripheral pulses are palpable and symmetrical.
+The rest of the physical examination is normal.
+Blood pressure was within percentiles for age and height.
+The patient is asymptomatic, does not report syncope, precordalgia or syncope and has a good tolerance to physical exercise.
+In the family, they do not report cardiovascular diseases or a history of sudden death.
+When auscultation revealed arrhythmic tone, the pediatrician performed an electrocardiogram (ECG) in the consultation shown in Fig.
+1.
+What is the reading and interpretation of the electrocardiogram?1
+Although the first thing that draws our attention is irregular rhythm, we began our systematic reading proving that it is a sinus rhythm (positive P wave in I and aVF) at a frequency of 55 bpm.
+Then we analyzed the axis of the QRS following three steps: 1) locate the quadrant using leads I and aVF; 2) find the derivation with equiphasic QRS complex (quadrice of the R wave similar to the axis VR).
+In our case: 1) the QRS is positive in both leads so that the axis will be between 0 and 90o; 2) the derivation with more equiphasic complex would be the I derivation, whose perpendicular QRS axis is 90o; therefore
+The axis of the T wave is also normal because it is between 0 and 90o.
+QRS complex duration was normal (0.04 sec).
+We did not observe QRS morphology suggesting changes in intraventricular conduction (e.g., absence of rR' in V1) or findings suggestive of ventricular hypertrophy.
+T wave and ST segment are normal; there are no changes in repolarization.
+Then, we analyze the PR2: it is noteworthy that the PR interval (from the beginning of the P wave to the beginning of the QRS) varies throughout the recording, is not constant.
+Figure 2 shows the tracing in DII from the fifth heartbeat of the basal ECG: the PR interval of the first heartbeat measures 4.5 quartiles or millimeters (0.04 x 4.5=0.18 sec).
+We also see that after the fourth heartbeat there is a P wave (marked with a arrow) that is not followed by QRS complex.
+This electrode recording (RR interval progressively lengthening until a P wave does not lead) reflects a second-degree AV block Mobitz type I. The QTc interval is normal (0.38 sec).
+1.
+Establishment of an atrial fibrillation, the pediatrician decides to refer the patient to the hospital and to the pediatric cardiology department for evaluation.
+In the cardiology consultation an echocardiogram was performed which was normal, ruling out structural pathology.
+On the new electrocardiogram, sinus rhythm was observed at 60 bpm with an enlarged PR (first-degree AVB), and the rest of the systematic reading was normal.
+After performing light exercise to increase heart rate, the ECG was repeated, with normalization of the PR interval.
+In summary, we are facing an asymptomatic patient from a cardiovascular point of view, with a cardiac murmur of functional characteristics, normal echocardiography and a casual finding of first-degree and second-degree AVB on ECG.
+To extend the study, a 24-hour Holter-ECG was requested, which found a first-degree AVB with two second-degree AVB episodes Mobitz type I during night rest.

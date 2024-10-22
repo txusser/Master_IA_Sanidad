@@ -1,0 +1,78 @@
+A 71-year-old patient with advanced chronic renal failure secondary to ischaemic nephroangiopathy and atrial fibrillation was treated for progressive asthenia and a glomerular filtration rate below 10ml/min.
+It was not possible to perform arteriovenous fistula due to poor arterial and venous development in the upper limbs.
+Three days before the first dialysis session, the administration of low molecular weight heparin is started instead of its usual anticoagulant.
+A left jugular tunneled catheter was inserted, receiving usual doses of heparin to prevent clotting of the circuit and unscheduled heparin for catheter lock.
+Platelet count is 210x109/l.
+The first sessions are unsatisfactory due to low catheter performance.
+Nine days after the first administration of heparin, in its fourth dialysis session, there was a first acute event: sudden dyspnea and precordial pain at the beginning of the session without hypotension, hemoptysis or fever.
+pulmonary oedema, pulmonary oedema, pulmonary oedema, pulmonary oedema lon
+No skin rash.
+Hemoglobin: 9.6g/dl, leukocytes: 7200.
+Platelets: 44x109/l, lactic dehydrogenase (LDH): 510U/l, cardiac troponin 1 (cTnI): 2.6ng/ml.
+No signs of ischemia or injury on the electrocardiogram.
+The patient remains under observation for 24 hours with clinical normalization (as during the course of the session) and a significant decrease in cTnI to 1.2ng/ml.
+Radiology did not provide relevant data.
+1.
+Polyisolate sterilized with vapor was the filter used.
+Hemodialysis was conventional with volume control.
+He did not receive therapy with renin-angiotensin system blockers, but beta-blockers and calcium antagonists.
+At this time, it was not noticed that on the factory information about the catheter there was sterilization with ethylene oxide and its impregnation with heparin.
+Heparin was suspended when HIT II was suspected, following successive sessions with multiple problems of catheter flow and resistance, in addition to repeated coagulation of the circuit.
+Pending treatment with argatroban, the tunneled jugular catheter is replaced by another catheter of similar characteristics, without improving performance, so a cervical computerized axial tomography is performed, reporting as partial thrombosis.
+Two days later, the patient came asymptomatic to the unit, but 10 minutes after the connection he experienced a new episode of sudden dyspnea with p02 of 78%, which he recovered with usual support measures during hospitalization.
+The platelet count is 101x109/l, lower than the previous days.
+Forty-eight hours later platelets are 162x109/l.
+Finally, argatroban is available, which is administered at the previously described dose of 2590mic/kg bolus at the beginning of the session and in subsequent infusion of 2mic/kg/min, ending 1 hour before the session.
+Controls of : activated partial thromboplastin time (APTT) were maintained at recommended margins of 1.5 to 2.5 above baseline.
+From there, clotting of the circuit disappeared and the performance of the same catheter was excellent.
+While waiting for the start of treatment with the trombin inhibitor as well as after until the patient finally started peritoneal dialysis, clopidogrel treatment was prescribed.
+It is explained by the threat of new punctures of central vessels and two pending surgical interventions: peritoneal catheter and transurethral resection of small bladder tumor, although the latter was already performed peritoneal dialysis.
+At no time before transfer to the referral center for switching to the SUD, argatroban and coumarins were administered concomitantly.
+It should be noted the absence of data on acute venous thrombosis and that heart rate was controlled.
+1.
+Clinical and laboratory data
+HIT II is defined as a 50% drop in platelet counts below 100x109/l occurring within 5 to 15 days of the first exposure.
+In our setting this entity has not gone unnoticed6-8.
+The considerable risk obligates to act quickly.
+The diagnosis is established by functional and antigenic tests.
+The first ones, with higher specificity: STRA (14C serotonin release assay), according to their specificity (heparin induced platelet activation assay) and PAT (platelet aggregation test)9,10, have the main drawback of not being available.
+Antigenic tests by ELISA and the PaGIA test (particle gel immunoassay) do not reach this percentage of specificity11.
+Diagnosis
+The clinical process admits other assumptions: the allergic reaction to ethylene oxide12 usually manifests with skin reaction and does not explain thrombocytopenia or rapid recovery without antihistamines.
+No determination of ethylene oxide antibodies was performed.
+Another entity with similar clinical presentation is the anaphylactic reaction when negative load filters are used in patients treated with blocking of the renin-angiotensin system by activating the recibía βquinina patient13,14, drugs
+Other pollutants or sterilizers in the circuit seem very unlikely in haemodialysis with current control systems.
+The programmed determination of endotoxins in the dialysing fluid was always normal.
+In extracorporeal treatment, it is mandatory to rule out air embolism, hemolysis and acute anemia.
+The visible area of the catheter was intact and no leaks were detected in the circuit.
+There were no hemolysis data, with LDH determination of 501 U/l.
+Situations inherent to the patient's pathology, such as pulmonary edema, acute myocardial infarction, embolism or pericardial tamponade, are discarded in the clinical, biological and radiological context.
+It is true that there was some myocardial suffering due to the increase in cTnI levels, but without electrocardiographic repercussions.
+As for the possibility of septic process, it seems unlikely without fever or leukocytes, so procalcitonin was not determined.
+Thrombocytopenia is not explained by the usual pharmacology of the patient, nor by pulmonary sequestration with biocompatible filters, sepsis, disseminated intravascular coagulation (DIC), which is confirmed by the Hematology service.
+Taking into account the chronopathology of the event and following the parameters of the mentioned test (table 1) with a subjective score of risks 7, we adjusted for a diagnosis of presumption of TIH II, supported later positive ELISA.
+Table 2.
+Diagnostic probability in heparin-induced thrombopenia on haemodialysis (three clinical factors and ELISA)7 ELISA: enzyme-linked immunoassay; SRA: serotonin.
+1.
+Treatment
+Diagnostic confirmation by laboratory tests should not be expected when there is a strong clinical suspicion.
+The first step is to remove heparin.
+The drugs indicated are trombin inhibitors: lepidurine, bivalirudin and argatroban.
+The former has the disadvantage of producing anaphylaxis and its elimination is renal.
+Nowadays it is not available, although it has been used successfully in our environment.
+The use of bivalirudin is widespread in the catheterization laboratory due to its short half-life, but also renal elimination.
+Argatroban has no renal elimination and therefore appears more appropriate in Nephrology; it is acquired as a foreign drug.
+Argatroban16 is a synthetic inhibitor of the thrombin, which binds selectively and reversibly.
+It has a short half-life, so its effect disappears rapidly after suspension.
+It is not immunogenic and does not require dose modification in renal impairment.
+It is able to inhibit both free and clot-bound trombin.
+It is metabolized in the liver and biliary excretion, and finally in faeces.
+Steady-state concentrations are reached within 1-3 hours and the effect disappears within 1-2 hours after cessation of dosing.
+Adverse Reactions
+Studies in haemodialysis 18-20 and hemo21 demonstrated elimination of up to 20%, taking into account the non-existence of medication.
+The often necessary transition from argatroban to coumarins should be careful because of the risk of necrosis, proteins and lower limb amputations caused by the effect of coumarins,23 S.
+Thrombin inhibitors alter international normalized ratio (INR) values due to their high osmolar concentration.
+It is accepted in practice that, once platelet counts are normal, argatroban and acenocoumarol are concomitantly administered for at least 4-5 days until INR>4.
+Argatroban was then suspended and a new INR control was performed at 6 hours.
+It has been shown that during the combined administration of both drugs with INR>4, the relationship between INR and bleeding is altered, with a higher risk of bleeding.
+Even if a patient was on a dicumarinic anticoagulant and adhered to TIH II, vitamin K should be administered to reverse the increased risk in this context.

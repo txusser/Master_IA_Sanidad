@@ -1,0 +1,21 @@
+Female, 21 years old, with no children.
+At 17 years of age, DM was diagnosed due to polydipsia and polyuria, associated with fasting glucose 130 mg/dl, confirmed with postprandial oral glucose tolerance test (OGTT) of 75 g: 234 mg/dl.
+DM1 was ruled out by negative autoantibodies and normal C-peptide, HbA1c 6.8% at admission and urine without glycosuria.
+On physical examination, no signs of IR, height 1.56 m and weight 44.5 kg, BMI 18 kg/m2 were found.
+Non-pharmacological treatment was indicated and metformin 850 mg/2 times a day.
+He remained HbA1c between 6-7% for 4 years without complications.
+In January 2015 metformin was suspended due to gastric intolerance and considering the evolution and family history of DM, it was suggested that MODY could present.
+DM was studied in relatives with PTGO, searching for DM in the father.
+His brother had abnormal blood glucose.
+The mother had no DM.
+* Normal range: 1.1 - 4.4 ng/ml.
+The family history highlights a strong presence of DM along the paternal line, where 8 of 9 siblings of the father of the index case are diagnosed with DM2, in addition to both grandparents.
+Only grandmother and aunt have DM2.
+The application of the University of Exeter5 was used, estimating that the patient has MODY with a probability of 75.5%.
+It was decided to carry out a family genetic study, for which the informed consent of the participants and the approval of the Ethics Committee of Hospital San Juan de Dios were available.
+A genetic-molecular analysis was performed (Labortion of genetics in the Red-Christus Santiago, Chile) of exons 1 to 10 of the GCK gene by direct sequencing of coding regions.
+The patient had a mutation in position 1343 in exon 10 of GCK gene, corresponding to a change of guanine to adenine (1343 G>A); in the other heterozygous allele this mutation was not found (patient).
+The father and brother have the same mutation of the GCK gene heterozygously.
+The mother showed both wild alleles, so it is neither MODY2 nor has DM.
+The variant found is probably pathogenic because it generates a non-synonymous or missense change of the amino acid (aa) glycine by aspartic acid (Gly448Asp)GC in the glycokinase enzyme.
+These results allow to establish the presence of MODY2 in a Chilean family due to a mutation not previously described.

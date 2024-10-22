@@ -1,0 +1,33 @@
+The patient was an 84-year-old man with chronic renal failure stage III and idiopathic cardiomyopathy with functional capacity III, with first-degree atrioventricular block (PR 260-280 ms), and complete bundle branch block 160 msQRS.
+Arrhythmia Holter monitoring was performed in the outpatient clinic, which showed frequent isolated monomorphic ventricular extrasis and sinus node disease.
+A definitive implant with biventricular restoration was recommended prior to the initiation of antiarrhythmic treatment.
+Medtronic® Insy model 8042 bipolar implantable electrodes Medtronic®, model 4076, were implanted without incidents; Medtronic® bipolar leads were implanted in the right atrium and ventricle; and
+The device was programmed with stimulation frequency between 60 and 120 beats per min, with a sensated atrioventricular interval of 130 ms and stimulated of 110 ms, with stimulation output of 4.0 volt and 0.4 ms left ventricular active function.
+The control electrocardiogram, taken 24 h after implantation, showed sinus rhythm with spontaneous atrioventricular conduction, with first-degree atrioventricular block and complete right bundle branch block without spike.
+The chest X-ray showed the electrodes in an adequate position, with no evidence of displacement.
+The interrogation of the device by telemetry showed proper functioning of the electrodes.
+A sensated P wave of 1.0-1.4 mV was measured in the atrium, stimulation threshold <0.5 V to 0.4 ms, stimulation impedance of 34.055 Ohms; pacing threshold of 0.485 m was measured in the left ventricle.
+Histograms showed only 94% biventricular stimulation from implantation.
+During the interrogation, it was observed that episodes of spontaneous atrioventricular conduction always occurred after ventricular extrasystole, which was adequately sensated and followed by atrial post-refractive sinus P-wave.
+In the presence of atrioventricular conduction, the next provoked QRS complex was sensated before the atrial escape interval was completed, and this complete phenomenon was repeated again with the following pacing, biventricular loss.
+PVARP was reprogrammed from its dynamic nominal value to a fixed value of 310 ms, so the phenomenon described was not observed again.
+However, the control ECG of the following day again showed absence of ventricular stimulation.
+The re-interruption of the device showed adequate functioning of the ventricular electrodes, and it was observed that there was intermittent failure of atrial sensing, maintaining a good stimulation threshold.
+Sensed P-wave decreased to 0.5-0.7 mV, with no radiological evidence of displacement.
+The absence of atrial sensing was associated with a spontaneous QRS sensing at a frequency above the minimum frequency programmed, because there was inhibition of the stimulus received by the patient.
+This was corrected by programmed auricular sensitivity to its maximum value of 0.18 mV.
+Clinical follow-up and Holter monitoring of the posterior electrocardiogram showed favorable evolution and 100% effective biventricular stimulation.
+In outpatient follow-up, we decided to deactivate the function of preventing tachycardia mediated by tape measure.
+1.
+Abbreviations.
+PA: Stimulated ear event.
+AR: Sensed atrial event within the atrial refractory period.
+AS: Sensed atrial event outside the refractory period.
+PV: a sensible ventricular event.
+RV: Sensed ventricular event within the ventricular refractory period.
+SV: Sensed ventricular event outside the ventricular refractory period.
+1.
+Abbreviations.
+PA: Stimulated ear event.
+BV: biventricular pacing.
+SV: Sensed ventricular event outside the ventricular refractory period.

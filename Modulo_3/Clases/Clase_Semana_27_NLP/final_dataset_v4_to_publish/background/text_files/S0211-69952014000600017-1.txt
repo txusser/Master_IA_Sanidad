@@ -1,0 +1,21 @@
+Paciente de 48 años remitido al hospital tras detectarse ambulatoriamente una creatinina sérica de 7,56mg/dl.
+En la exploración destacaba: tensión arterial: 163/111mmHg, peso: 105kg, talla: 190cm, índice de masa corporal: 29kg/m2. Leve déficit cognitivo. Fenotipo corporal corpulento. Facies con prognatismo y macroglosia. Labios gruesos, arcos superciliares prominentes, voz grave. Auscultación normal. Fondo de ojo normal. El paciente no refería cambios en su morfología corporal.
+
+La ecografía mostraba riñones de dimensiones en el límite inferior de la normalidad, con espesor del parénquima renal bilateral marcadamente adelgazado, prácticamente inexistente.
+En la analítica al ingreso presentaba parámetros bioquímicos propios de la uremia con serologías víricas negativas y pruebas inmunológicas normales. También se practicaron determinaciones hormonales:
+- Cortisol: 23mcg/dl (6-28), TSH: 1,01mcUI/ml (0,27-4,2).
+- Renina: 29,7microUI/ml (2,8-39,9).
+- Aldosterona: 152,8pg/ml (10-160).
+- FSH: 12,4mUI/ml (1,5-12,4), LH: 8,4mUI/ml (1,7-8,6).
+- Prolactina: 553mUI/l (86-324), testosterona total: 1,99ng/ml (2,5-8,4).
+- GH: 4,24ng/ml (0-1).
+- Somatomedina C (IGF1): 670ng/ml (100-358).
+- IGF1-BP3: 7,59micro/ml (3,3-6,7).
+- ACTH: 39pg/ml (8-46).
+La hipertensión se controló con tratamiento médico. Ante el deterioro de la función renal, cuya etiología no se pudo filiar, se inició tratamiento mediante hemodiálisis crónica.
+Se practicó un primer test de sobrecarga oral a glucosa (TSOG).
+
+Llegados a este punto, los clínicos sospechábamos, en función del fenotipo y del perfil hormonal (aumento de GH, IGF-1 y IGF1-BP3; TSOG sin supresión clara de la GH), una acromegalia. No pudo practicarse una resonancia magnética nuclear (RMN) hipofisaria ante la negativa del paciente y su familia.
+Cuatro meses después se realizó finalmente la RMN sin contraste paramagnético. La hipófisis presentaba un tamaño dentro de los límites de la normalidad, con un tallo hipofisario centrado. Se practicó un nuevo TSOG, mostrando una GH basal normal, con aumento paradójico a los 30 minutos, pero con adecuada supresión a las dos horas.
+En esa fecha los niveles de IGF-1 (340 ng/ml) y de IGF1-BP3 (6,3 µg/ml) se habían normalizado también. La prolactina continuaba elevada y la testosterona era normal. Actualmente el paciente sigue controles periódicos en endocrinología y continúa en hemodiálisis.
+

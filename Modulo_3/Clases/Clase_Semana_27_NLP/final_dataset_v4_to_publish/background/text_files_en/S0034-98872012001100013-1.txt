@@ -1,0 +1,32 @@
+The female index patient (PAF19) consulted at age 41 (2004) for an anemic syndrome.
+As part of the study, an upper endoscopy showed no pathological findings and a complete narrowing was performed which showed the presence of multiple sessile cecum (same of 100) and pediculate anal margins (up to 15), from
+A proliferative lesion of approximately 2.5 cm in diameter larger was observed at cecal level, whose biopsy confirmed a moderately differentiated tubular adenocarcinoma.
+The preliminary diagnosis was a FAP associated with cecal adenocarcinoma.
+The staging study with CT (computed abdominal CT) of the abdomen and pelvis showed no signs of tumor dissemination, performing a total colectomy with ileorectal anastomosis.
+The pathological study of the surgical specimen showed a tumor lesion of 3 cm in diameter with invasion to the subserosa and lymph node involvement.
+The mucosa of the rest of the specimen showed a hundred sessile resected and pedunculated, fixed and smooth piece 0.2 to 2 cm in diameter larger.
+As this was a stage III patient, adjuvant chemotherapy based on 5-fluorouracil and leucovorin was performed.
+To date, the patient has completed 70 months of follow-up without evidence of disease.
+Due to her clinical history (colonic polyposis and CRC at an early age), the patient was referred to the registry of hereditary tumors to define the appropriate genetic study.
+This registry incorporates patients with suspected hereditary diseases (family adenomatous polyposis, Lynch syndrome, Peutz-Jeghers syndrome, among others) with the aim of educating patients and their families about CRC transmission.
+The analysis of the genealogy of the index patient showed consanguinity of the parents, with no history of polyposis or CRC in them.
+It also identified one sister (out of a total of 12 siblings) who had CRC, which we identified as FAP585.
+She presented a right colon cancer with invasion to the subserosa and lymph node involvement at 53 years that was treated with surgery and adjuvant chemotherapy.
+One year later, conservative management showed two new synchronous tumors, one in the sigmoid colon at 35 cm from the anal margin and another in the lower rectum (invasive tubular adenocarcinoma).
+It should be noted that the patient's medical report did not record the presence of colonic adenomatous polyposis.
+The patient died four months after surgery due to secondary sepsis.
+1.
+Regarding the other siblings, five of them died in childhood due to accidents and diseases not related to cancer.
+In the five living siblings, the index patient no longer declares cases of polyposis or CRC, however, we do not know whether they have undergone colonoscopy.
+Genetic study
+Observed genomic DNA from peripheral blood: genomic DNA was isolated from 10 ml of peripheral venous blood, using the protocol described by Lahiri and Nurnberger (1991 )9.
+This DNA was previously studied in the molecular analysis of the APC gene, which was negative8.
+Mutational analysis of the MUTYH gene: The 16 exons of the MUTYH gene were amplified by PCR (polymerase chain reaction) using the primers described by Ki10m et al.
+PCR reactions were performed in a total volume of 50 Ql containing 100 ng of genomic DNA, 25 pmoles of each party, 0.2 mM of each of the dNTPs, and 1.5 mM buffer of the enzyme São Paulo Tavigen).
+The amplification was performed with the following protocol: an initial denaturation of 1 min at 95°C, followed by 30 cycles of 30 seconds at 95°C, 30 seconds at a random sequence of 50 separate DNA polymorphisms.
+Briefly, the PCR products were denatured at 95°C for 5 min, cooled in ice for 5 min, and resolved by electrophoresis in polyacrylamide gels MDE.
+(FMC Bio¥), applying a current of 3 W at 18°C for 12 h.
+After electrophoresis, the gels were stained with nitrate gel electrophoresis to visualize the DNA bands.
+PCR products that presented abnormal migration in relation to control were sequenced.
+Mutations were analyzed and confirmed by two independent PCR reactions and by sequencing of the two DNA strands.
+The mutation was named according to the nomenclature proposed by the Human Variation Society (www. hgvs.org/mutnomen/).

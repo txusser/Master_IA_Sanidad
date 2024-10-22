@@ -1,0 +1,13 @@
+Mujer de 42 años de edad que consultó por historia de cefalea de 10 días de evolución que se acompañaba de inestabilidad a la marcha.
+Antecedentes de migraña, parálisis facial periférica "a frigore" hace 20 años y episodios de depresión.
+La exploración neurológica mostró una dismetría derecha y una maniobra de Romberg positiva y secuelas de su parálisis facial.
+Se practicó tomografía computarizada craneal hallando un proceso expansivo que ocupaba hemifosa posterior dcha. La lesión tenía un componente sólido que se realzaba con el producto de contraste y un componente quístico.
+La resonancia magnética cerebral confirmó los hallazgos de la tomografía computarizada. Se encontró una lesión de unos 4 cm de diámetro con un componente sólido y otro quístico, rodeada de edema, localizada en hemisferio cerebeloso dcho. Esta masa era heterogénea e hipointensa en relación al tejido cerebeloso en T1 e hiperintensa en T2. Se realzaba con el Gadolinio. No se acompañaba de hidrocefalia.
+
+Se intervino practicando una extirpación prácticamente total de la tumoración a través de una craniectomía de hemifosa posterior dcha.
+La evolución postoperatoria fue satisfactoria quedando la paciente totalmente asintomática. Una RM cerebral de control mostró una amplia resección de la tumoración con un mínimo resto en la porción más craneal del hemisferio cerebeloso dcho. junto al tronco del encéfalo.
+El estudio anatomo-patológico diagnosticó un Glioblastoma multiforme (grado IV, clasificación de la OMS) con extensas zonas de necrosis y abscesificación. Las células tumorales presentaron positividad nuclear inmunohistoquímica para p53.
+
+Posteriormente la paciente se trató con Radioterapia focal en fosa posterior 60 Gy, 2 Gy/d ICRU (Internacional Comisión on Radiation Units) concomitante con Temozolomida 75 mg/m2 según esquema de la EORTC 22981 (European Organization for Research and Treatment of Cancer).
+A los 8 meses de la intervención la paciente se mantiene asintomática, aunque en la RM cerebral de control se evidencia el inicio de una recidiva del tumor.
+

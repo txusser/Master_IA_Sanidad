@@ -1,0 +1,106 @@
+Seven months old, male, with no morbid history.
+History of two weeks of coryza, cough and decay.
+She received treatment with nonsteroidal anti-inflammatory drugs and amoxicillin for five days, with no improvement of symptoms.
+Three days before admission, she had exacerbation of respiratory symptoms, greater decline, weak suction and dysphonic crying.
+The patient was hospitalized with the diagnosis of obstructive bronchial syndrome.
+On admission, mild aphthous ulcers, with no need for oxygen, were described. Physical examination revealed weak respiratory distress, ptosis signmaris, decreased strength in four limbs and malaise.
+Initial laboratory tests (haematological profile, PCR, urine sediment, plasma electrolytes, venous gases and indirect immunofluorescence for respiratory viruses) were normal.
+She presented progressive muscular weakness, feeding difficulties and constipation.
+Neurological evaluation revealed weak facial bradykinesia, with difficulty raising the head in the prone position, bilateral ptosis, isochoric pupils with slow photomotor reflex and absence of meningeal signs.
+There was hypotonia of the scapular belt and a sitting position, expiration of gravity with extremities and osteotendinous reflexes without alterations.
+She was admitted to the ICU for respiratory monitoring.
+A history of intake of homemade honey, three days prior to admission, was obtained, aimed at symptom relief.
+The diagnosis of botulism was proposed, sending a stool sample for culture and identification of toxin to the Public Health Institute, which were positive for C. A generalized motor block with compatible evidence type A was carried out.
+The etiology was established without progression of muscle involvement, but it did not require progression of oxygen saturation, but attributed to autonomic dysfunction.
+Treatment with calcium channel blockers was initiated, with adequate response, and blood pressure returned to normal within a few days.
+She was admitted to the ward with progressive recovery of muscle tone and indication for motor and respiratory physiotherapy.
+Resumption of oral feeding 12 days after nasogastric tube feeding.
+She was finally discharged 30 days after admission.
+The outpatient control showed significant regression of symptoms.
+1.
+Review
+Since its recognition as an individual clinical entity, in 1976, infantile botulism is the most frequent clinical presentation of the disease caused by botulinum toxin.
+Sixty percent of reported cases correspond to this form4.
+In Chile, compulsory notification was established in 2000, with four cases reported up to the present year5,6.
+All forms of botulism cause the disease through a common pathway, regardless of the way the toxin is acquired, either from the gastrointestinal tract (via circulation) or from an infected wound where the toxin is released into the muscle (by lymph).
+Childhood botulism results from the ingestion of C. b. spores that germinate, colonize and produce in vivo the toxin in the gastrointestinal tract.
+Botulinum toxin is absorbed into the intestinal lumen and actively transported to the systemic circulation.
+Once in the bloodstream, it is distributed to acetylcholine-mediated neurotransmission sites where it produces its toxic effect.
+They base 0.3 ng of toxin on the neuromuscular junction to cause clinical manifestations.
+By molecular weight (150 kDa) more non-nerve atherogenic fusion sensitive to hemato-encephase block terminates the neuromuscular binding toxin and consequently ends up in the peripheral nervous system, inhibiting the release of
+Recovery of nerve function in muscle fibers requires regeneration of nerve endings and formation of new motor plates.
+1.
+Age is a determining factor in the infants' susceptibility to this disease; it occurs from six days of life to 12 months of age, with most cases occurring between two and eight months.
+The available information suggests that the vulnerability of infants reflects, in part, feeding practices.
+Children exclusively breastfed receive protection from the colostrum and have a sufficiently competitive microbiota to inhibit spore growth and toxin production.
+However, these are susceptible during the transition from breastfeeding to milk formula or solid foods.
+These new foods modify the microbiota and increase the intestinal pH, which temporarily favors the growth of C. albicans.
+The spores of this bacterium are widely distributed in nature (soils and marine sediments) and although classically the disease has been associated with the ingestion of honey, in countries like E.U.A.
+The disease is usually self-limiting, with favorable evolution and no sequelae.
+However, if not treated early, it has a high mortality (20-25%), usually caused by asphyxia due to paralysis of the respiratory muscles.
+Myel and botulism.
+Although in 85% of cases the source of infection is unknown10, with the exception of a milk formula recently associated with botulism 11, honey has been the only food recognized as a significant risk factor for this disease.
+Honey can be contaminated with spores from the environment, probably through pollen and attack deposited by bees, as well as by clothing and instruments used by the bees.
+The death of bees and larvae, along with the maturation process, favors the growth of spores in honey, especially under anaerobic conditions due to the oxidative metabolism of Bacillus vei.
+However, acid pH and honey water activity levels inhibit the growth of C. b.
+The spores, on the other hand, remain viable; unlike the toxin, they are highly resistant to heat, requiring high temperatures (> 100 °C) for its destruction12,13.
+Conventional treatments exceed, for spores, they cannot be used in honey, since they produce changes in the structure of the myelomatous layer, transforming it into hydroxymethylfural (H.M.F), a compound that is habitual
+1.
+The autonomic nervous system is usually affected and its manifestations precede muscle weakness.
+The main symptoms are dry mucous membranes, pupil dilation, intestinal and bladder motility disorders, blood pressure instability and arrhythmias.
+Discharge period is 3 to 30 days.
+The onset of symptoms can be abrupt, in hours, or gradual, over several days, and its clinical severity can range from little prominent symptoms to a fulminant process with fatal outcome (the syndrome below).
+This spectrum of severity is related to the type of toxin (toxin A gives more severe and more severe pictures) and the amount of spores ingested recently, since non-unioned toxins may end up prolonging nerve palsy15.
+The resolution of the disease takes weeks to months and occurs in reverse order to its presentation, the autonomic manifestations being the last to disappear.
+Botulism and sudden death syndrome
+Childhood botulism has been associated with sudden death syndrome in 3 to 20% of cases.
+However, the association between sudden death and botulism is controversial and may vary with the prevalence of infant botulism in a region.
+In a study in Germany, the presence of toxin or microorganism was documented in 15 out of 72 cases of unexpected infant deaths, while in southern Australia, where this clinical entity is rare C. Of 248 deaths among infants C.
+Differential diagnosis.
+Infantile botulism raises diagnostic problems since its presentation is similar to other clinical pictures.
+The most frequent hospitalization diagnoses are those mentioned in Table 214,16,17.
+These can be differentiated by specific clinical findings and laboratory tests.
+1.
+Measurements of electrolytes exclude alterations in potassium or magnesium.
+Performing a brain CT helps rule out tumors or bleeding.
+If a post-infectious or infectious condition is considered, a puncture should be performed, and if proteinorchia is found in the CSF, this is suggestive of Guilla.in lumbar syndrome, among others.
+The Tensilon® test (intravenous administration of edrophonium) helps differentiate botulism from myasthenia gravis, but false positive tests have been reported in approximately 26% of cases2.
+Diagnosis.
+It should be suspected on the basis of clinical findings and confirmed with the identification of the toxin and/or microorganism in stools or the presence of serum toxin, the latter being rarely positive due to the minimal amount of botulinum toxin consumed.
+If C. albicans is identified in stools, the diagnosis is unequivocal since this microorganism is not considered part of the resident intestinal microbiota.
+For epidemiological purposes, it is important to analyze soiled foods and environmental samples.
+Bio-quantification of toxin neutralization in mice is considered the most sensitive technique of choice for diagnosis, but its results may take several days.
+Therefore, the possible administration of the antitoxin should be initiated only on the basis of clinical suspicion.
+To perform an optimal examination, an adequate sample of 25 stools (adequately obtained) may be obtained (10 to 20 g), but if it is difficult to obtain due to constipation, an enema with sterile non-bacteraemic water).
+Recently, the ELISA technique has been developed for rapid detection of toxin A and B; however, its sensitivity is 10 to 100 times lower than the bio-quantification of toxins in mice18.
+The electrophysiological study is useful, fast and supports the diagnosis.
+The characteristic sign is a progressive increase of the potentials provoked by a high frequency nerve stimulation (20 to 50 Hz).
+In addition, a characteristic profile of frankly abundant, low amplitude and brief motor action potentials is observed.
+However, if the initial study is normal, it does not exclude the diagnosis19.
+Routine tests such as blood count, urine sediment, urine culture, cytochemistry and CSF culture, liver and metabolic profile are generally normal.
+Treatment.
+Botulinum antitoxin.
+The specific treatment of botulism is the administration of botulinum antitoxin, with two types: horse serum derivative and human.
+For antitoxin to be eventually beneficial, it should be administered early, while the toxin is in plasma and before internalized to the presynaptic cholinergic terminal20.
+Equine antitoxin has been available since the 40's and is widely used.
+However, its efficacy has only been evaluated in retrospective studies in the classic and wound botulism forms.
+It is not recommended for the treatment of infantile botulism, due to the high rate of hypersensitivity reactions- it has been reported in 9% of patients- and the short half-life (5-8 days) of the antitoxin, which is considered inappropriate absorption syndrome.
+In October 2003, the Food and Drug Administration (FDA) approved the use of human immunoglobulin (BIG-IV), which meant a major advance in the treatment of infantile botulism.
+Its approval was based on studies that statistically demonstrated a significant reduction in length of hospital stay (2.6 versus 5.7 weeks), duration of mechanical ventilation (1.8 versus A.A. weeks), length of stay in the intensive care unit (3.6 versus 10 weeks).
+Non-specific erythematous rash was observed in 14% of infants treated with IVIG and 8% of those treated with placebo.
+BIG is an intravenous solution of purified human immunoglobulin G, with traces of IgA and IgM, obtained from plasma of adult donors previously immunized with pentavalent botulinum toxoid.
+Its distribution and metabolism is unknown, but its half-life has been shown to be approximately 28 days in infants.
+It has a sufficient amount of antibodies to opsonize and neutralize the expected levels of neurotoxins.
+Antibody titers against toxin A are at least 15 IU/ml and against toxin B 4 IU/ml21; peak concentrations are rapidly reached in the circulation.
+Concentration for toxins C, D and E has not been determined.
+The recommended dose is 1 ml/kg body weight (50 mg/kg) and should be administered as soon as known.
+No human botulinum antitoxin is available in our country.
+After recognition of the disease and administration of antitoxin, it is important to prevent complications while waiting for neuromuscular recovery.
+Observation in an intensive care unit with continuous monitoring for at least 48 hours is essential to determine the progression and treatment of complications.
+Nutritional and respiratory support is essential.
+Most infants require nasogastric or nasojejunal feeding tube to ensure adequate caloric intake.
+Respiratory support ranges from proper handling of secretions to mechanical ventilation in the most severe cases.
+The use of antimicrobials is not recommended because they increase the amount of toxin in the intestine available for its absorption, as a result of bacterial lysis, alter the intestinal microbiota and allow overgrowth of C. b absorption.
+Aminoglycidosis, clindamycin and magnesium-containing medicinal products should be avoided especially since they potentiate the blocking effect of toxin22.
+Constipation may be a problem and should be managed only with stool softeners and increased fluid intake, avoiding the use of laxatives.
+These patients excrete spores and toxin along with feces up to four months after symptom onset, so careful handling of excreta is of paramount importance.

@@ -1,0 +1,33 @@
+A previously healthy, non-obese, 37-year-old woman with a history of smoking and depression treated with sertraline was admitted to our hospital with active respiratory distress at 39.5 mm Hg, progressive cough and shock for seven days.
+Laboratory tests showed leukopenia (3,800/mm3), lymphopenia (380/mm3), left shift (12% bacilliform, 77% neutrophils) and thrombocytopenia (100,000/mm3), normal renal function (12% creatinine).
+Chest X-ray showed diffuse interstitial-alveolar infiltrates.
+The initial PaFiO2 was 50, with arterial lactate 50.9 mg/dL (normal 4.5-14.4).
+With the diagnosis of pneumonia treatment with ceftriaxone and oseltamivir was started.
+The etiologic study confirmed influenza A H1N1 pdm09 by polymerase chain reaction (PCR) in a nasopharyngeal sample, being negative for rhinovirus, adenovirus (ADV), respiratory metapneumococci.
+Infection by other agents was ruled out by hemocultive, urocultive, urinary antigens for Streptococcus pneumoniae and Legionella pneumophila serogroup 1, serology for leptospirosis, hantavirus, HIV and Mycoplasma
+MVA associated with acute respiratory failure requiring mechanical ventilation (MV).
+She presented oliguria (0.3 ml/kg/hour) and required vasoactive amines (normal-adrenaline 0.05 ^g/kg/min).
+Renal function deteriorated despite resuscitation and intravascular volume supply, with an increase in creatinine to 5.3 mg/dL and urea nitrogen (NU) values of 60 mg/dL.
+Excretion of sodium (FE) fraction was not determined.
+Urine examination revealed an inflammatory component with proteinuria (100 mg/dL) and microhematuria (erythrocytes 50-100 per field), without leukocytes or cylinders and a proteinuria/creatinine index of 1.104 mg/g.
+Hypocomplementemia was also investigated with C3 values of 42 mg/dL (normal 90-170) and C4 values of 4 mg/dL (normal 16-36).
+Rhabdolysis was ruled out due to normal creatinine-kinase values.
+Immunofluorescence immunoassay (IF) was negative for rheumatoid factor, antineutrophil cytoplasmic antibodies (ANCA-c; ANCA-p), antinuclear antibodies (ANA) and antinuclear antibodies.
+In addition, post-stress pharyngitis glomerulonephritis without cutaneous manifestations of pharyngitis or low levels of anti-streptococcal infection was ruled out.
+Hepatitis B and C markers were negative.
+A transesophageal echocardiogram ruled out bacterial endocarditis.
+Given the patient's condition, an abdominal computed tomography (CT) was prioritized over an ultrasound scan, which prevented information on cortical renal echogenicity.
+However, CT showed normal-sized kidneys, with no evidence of hydronephrosis or lithiasis.
+1.
+In the first days he maintained renal function impairment without volume conflict (non-oliguric ARF) and without dialysis requirement.
+However, on the 8th day he presented an episode of hemoptysis with a hematocrit drop of 7%, which is why a fibrobronchoscopy was performed, which showed a right bronchial hemorrhage with distal points.
+Given the possibility of an autoimmune condition due to the simultaneous presence of hypocomplementemic glomerulonephritis and suspicion of alveolar hemorrhage, an empirical therapy with methylprednisolone boluses for 3 days was decided.
+At the same time, it was decided to start renal support with intermittent hemodialysis (HD) due to persistence of ARF and new critical events in its evolution, which led to the assumption that its recovery would not be rapid.
+The etiologic study was extended with the application of antimyelooxia antibodies (AntiMPO) and anti-myeloperoxidase-3 antibodies (AntiPR3), anti-Anticardiolipin antibodies (AntiPR3), which were negative.
+After six days of support with intermittent HD and after therapy with corticosteroids, an improvement in renal function and normalization of urine output was observed and hypocomplementemia was gradually normalized 974 mg/dL, reaching C3 values of 23 mg/dL.
+However, complete inflammatory urine was maintained with proteinuria of 1,028 mg/24 h and mild hematuria (15-20 per field).
+In addition, the control chest X-ray showed a decrease in interstitial infiltrates with respect to admission and the PaFiO2 increased to 317.
+Bronchoalveolar lavage showed no macrophages loaded with hemosiderin, which together with immunological studies ruled out alveolar hemorrhage.
+In the following weeks, the patient had several complications including diarrhea and enterorrhagia due to ulcerative colitis secondary to adenovirus; tension pneumothorax secondary to bronchopleural fistula and Pseudomonas aeruginosa bacteremia pneumonia.
+These events, in the context of their severity, triggered a exacerbation of renal involvement with a new episode of ARF requiring RRT, and died two months after admission due to a single multiple event.
+The patient had no indication for influenza vaccine and had not received it.

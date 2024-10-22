@@ -1,0 +1,37 @@
+58-year-old man, ambulance driver, with a history of active smoking (5 cigarettes/day) and obesity (BMI 31 kg/m2) and 5 days history of myalgia, cough and rhinorrhea.
+One day before admission dyspnea and quantitative compromise of consciousness were added.
+The patient was admitted to the emergency department with compromised consciousness, poorly perfused, hypotensive (106/46 mmHg), tachycardic (106/min), with the use of accessory musculature in both lung fields oxyhemoglobin 67%.
+Therapy was administered with high-flow mask without response, so the patient was admitted to the ICU.
+Laboratory tests showed impaired renal function with plasma creatinine of 2.45 mg/dL since admission and NU of 47 mg/dL.
+She had high CRP (200 mg/L), with normal leukocytes, erythrocytes and platelet counts.
+In addition, she had elevated plasma LDH (1,500 U/L) and arterial lactate 45 mg/dL (4.5-14.4).
+The chest X-ray confirmed a multilobar pneumonia so empirical treatment with ceftriaxone, moxifloxacin and oseltamivir was initiated.
+1.
+The patient was admitted with shock (with noradrenaline requirements up to 0.15 μg/kg/min) and catastrophic respiratory failure on mechanical ventilation (MV).
+Microbiological study showed no agents by hemocultives, urocultives, culture of endotracheal aspirate or viral panel by immunofluorescence.
+HIV serology was negative and influenza A H1N1 pdm09 was confirmed by PCR.
+The PCR study also revealed the presence of ADV and RSV in the airway.
+Noradrenaline requirements decreased from 48 h after admission (0.03 μg/kg/min), respiratory failure (PaFi > 250), so the patient returned to supine position.
+However, AKI progressed from oliguria to anuria, with increased creatinine to 5.7 mg/dL, NU to 98 mg/dL and severe hyperkalemia.
+Dialysis support was started with daily intermittent HD.
+The evolution of oliguria to anuria did not allow the performance of EF; however, the patient had been resuscitated and stabilized (with minimal hemodynamic-adrenal requirement), which was not a pre-renal component.
+Abdominal images could not be performed to evaluate the renal anatomy since its condition prevented its realization.
+The patient had a new blood gas deterioration with PaFi less than 150, which made it necessary to return to MV in prone position.
+Ventricular failure was ruled out by echocardiography and 62.5 mg methylprednisolone boluses were administered for 5 days in the context of severe ARDS.
+The urine test, when recovering from diuresis, showed an inflammatory profile with proteinuria of 300 mg/dL, hematuria with irregular erythrocytes and proteinuria/creatinine index of 7.384 mg/g.
+CK, C3 and C4 values were normal and the autoimmune study with ANCA-c, ANCA-p and ANA was negative.
+The study of viral markers of hepatitis B and C was negative.
+The patient progressively improved his respiratory condition and stopped at 21 days.
+In total, 15 HD sessions were completed recovering renal function, with improvement of inflammatory urinary sediment (proteinuria 30 mg/dL and erythrocytes 2-4 per field) and normalization of diuresis.
+She was discharged after one and a half month of hospitalization.
+The patient had an indication of influenza vaccine due to obesity and being a health care professional, but had not received it.
+A follow-up one year later showed normal renal function and normal urine sediment.
+Molecular studies
+In the Instituto de Salud Pública de la República of Nucleic Acids in Bogotá, Colombia, respiratory samples were extracted from the EASYMAG kit for total viral diseases in Chile.
+RT-RPC was performed using the CDC standard protocol for respiratory detection and subtyping of influenza viruses (CDC real time RT-PCR protocol for detection and characterization of influenza knowledge, 2012) and for other respiratory viruses (Recltime RT-PCR).
+A panel of respiratory viruses was amplified, including influenza, respiratory viruses described previously without metapneumovirus, definite origin 1, 2 and 3, adenovirus and rhinovirus, which allowed the detection of coinfection.
+In addition, in order to explore the existence of mutations that could be potentially associated with greater clinical severity, we performed a sequencing study of the HA1 segment of viral haemagglutinin, by means of the Aped Biosystem sequencing.
+Both samples were compared with a group of 76 samples from different regions of the country, both outpatients and inpatients, including 11 samples of deceased patients.
+The analysis of the sequencing of the HA1 segment of influenza H1N1pdm09 virus, compared with the standard strain A/California/07/2009, showed that both cases presented the same eight mutations analyzed 2015).
+However, the sample of case 1 showed in a single form the D222N mutation that was not detected in any of the other samples analyzed.
+In the two samples analyzed and in the rest of the samples of this season, no other mutations previously reported as A90S or K180Q were detected.
