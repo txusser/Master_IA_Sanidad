@@ -1,0 +1,113 @@
+Archivo,Categoría,Código CIE-10,Descripción, Código CIE-10, Descripción
+S0004-06142008000100008-1.txt,Diagnóstico,,, D41.4, Neoplasia de comportamiento incierto o desconocido de la vejiga
+S0004-06142008000100008-1.txt,Diagnóstico,,, Z72.0, Uso de tabaco
+S0004-06142008000100008-1.txt,Procedimiento,,, 0TBB8ZX, Resección transuretral de lesión vesical
+S0004-06142008000100008-1.txt,Procedimiento,,, 0TJB8ZZ, Cistoscopia
+S0004-06142008000100008-1.txt,Tratamiento,,, Z51.12, Hospitalización para administración de quimioterapia
+S0004-06142008000100008-1.txt,Dosis,,, Z72.0, Consumo de 20 cigarrillos/día
+S1139-76322016000300016-2.txt,Diagnóstico,T65.891A,"Efectos tóxicos de otras sustancias especificadas, accidental, inicial",,
+S1139-76322016000300016-2.txt,Diagnóstico,R09.02,Acidosis respiratoria,,
+S1139-76322016000300016-2.txt,Procedimiento,Z03.74,Observación por sospecha de envenenamiento,,
+S1139-76322016000300016-2.txt,Tratamiento,Z51.89,Otro cuidado médico especificado,,
+S1139-76322016000300016-2.txt,Dosis,T50.901A,"Intoxicación por sustancia no especificada, accidental, inicial",,
+S0004-06142006000900008-1.txt,Diagnóstico,,, N30.1, Cistitis intersticial (crónica)
+S0004-06142006000900008-1.txt,Diagnóstico,,, N39.0," Infección del tracto urinario, sitio no especificado"
+S0004-06142006000900008-1.txt,Diagnóstico,,, E03.9," Hipotiroidismo, no especificado"
+S0004-06142006000900008-1.txt,Diagnóstico,,, I10, Hipertensión esencial (primaria)
+S0004-06142006000900008-1.txt,Diagnóstico,,, F17.210," Dependencia de nicotina, cigarrillos"
+S0004-06142006000900008-1.txt,Diagnóstico,,, D36.7, Neoplasia benigna de otros sitios especificados
+S0004-06142006000900008-1.txt,Diagnóstico,,, Q85.0," Neurofibromatosis, tipo 1 (enfermedad de von Recklinghausen)"
+S0004-06142006000900008-1.txt,Procedimiento,,, 0TBB8ZZ, Resección transuretral de lesión en la vejiga
+S0004-06142006000900008-1.txt,Procedimiento,,, 0TJB8ZX," Biopsia de vejiga, endoscópica"
+S0004-06142006000900008-1.txt,Procedimiento,,, B20.2, Ecografía del sistema genitourinario
+S0004-06142006000900008-1.txt,Procedimiento,,, 0TJB8ZZ, Cistoscopia diagnóstica
+S0004-06142006000900008-1.txt,Tratamiento,,, Z79.899, Uso a largo plazo de otros medicamentos
+S0004-06142006000900008-1.txt,Tratamiento,,, Z95.1, Presencia de injerto y transplante de riñón
+S0004-06142006000900008-1.txt,Dosis,,, Z72.0, Consumo de tabaco
+S0004-06142009000400011-1.txt,Diagnóstico,,, C34.90," Neoplasia maligna de bronquios o pulmón no especificado, parte no especificada"
+S0004-06142009000400011-1.txt,Diagnóstico,,, C67.9," Neoplasia maligna de la vejiga, no especificada"
+S0004-06142009000400011-1.txt,Diagnóstico,,, D48.1, Neoplasia de comportamiento incierto o desconocido de los tejidos mesoteliales
+S0004-06142009000400011-1.txt,Diagnóstico,,, D21.9, Tumor benigno de tejido blando no especificado
+S0004-06142009000400011-1.txt,Diagnóstico,,, C49.9," Neoplasia maligna del tejido conjuntivo y de otros tejidos blandos, parte no especificada"
+S0004-06142009000400011-1.txt,Procedimiento,,, 0TJB0ZZ, Resección transuretral de la vejiga
+S0004-06142009000400011-1.txt,Procedimiento,,, 0TBB0ZX, Cistectomía parcial
+S0004-06142009000400011-1.txt,Procedimiento,,, 0TJB0ZZ, Diverticulectomía de la vejiga
+S0004-06142009000400011-1.txt,Procedimiento,,, BH31ZZZ, Gammagrafía ósea
+S0004-06142009000400011-1.txt,Procedimiento,,, 0WJG3ZZ, Resonancia magnética nuclear (RMN) de pelvis
+S0004-06142009000400011-1.txt,Tratamiento,,, Z51.0, Radioterapia locorregional
+S0004-06142009000400011-1.txt,Tratamiento,,, Z51.11, Quimioterapia complementaria
+S0004-06142009000400011-1.txt,Tratamiento,,, Z51.12, Administración de quimioterapia
+S0004-06142009000400011-1.txt,Dosis,,, Y84.2, Radioterapia locorregional a dosis de 57 Gy
+S0004-06142009000400011-1.txt,Dosis,,, Y84.2," Quimioterapia con ifosfamida-adriamicina, dosis habituales"
+S1579-699X2004000400002-1.txt,Diagnóstico,,, F13.1," Trastornos mentales y del comportamiento debidos al uso de sedantes o hipnóticos, consumo perjudicial"
+S1579-699X2004000400002-1.txt,Diagnóstico,,, F41.0, Trastorno de ansiedad generalizada
+S1579-699X2004000400002-1.txt,Diagnóstico,,, F40.00, Agorafobia sin antecedentes de trastorno de pánico
+S1579-699X2004000400002-1.txt,Diagnóstico,,, F32.0, Episodio depresivo leve
+S1579-699X2004000400002-1.txt,Diagnóstico,,, K26.9," Úlcera duodenal, sin especificar como aguda o crónica, sin hemorragia ni perforación"
+S1579-699X2004000400002-1.txt,Diagnóstico,,, T52.1, Efectos tóxicos del estireno
+S1579-699X2004000400002-1.txt,Diagnóstico,,, Z56.3, Problemas relacionados con condiciones de trabajo difíciles
+S1579-699X2004000400002-1.txt,Procedimiento,,, Z13.9, Examen de salud de tipo no especificado
+S1579-699X2004000400002-1.txt,Tratamiento,,, N06AA21, Maprotilina
+S1579-699X2004000400002-1.txt,Tratamiento,,, N06AB05, Paroxetina
+S1579-699X2004000400002-1.txt,Tratamiento,,, N05BA12, Alprazolam
+S1130-01082008000900014-1.txt,Diagnósticos,,, C16.0, Adenocarcinoma del cardias
+S1130-01082008000900014-1.txt,Diagnósticos,,, K22.7, Esófago de Barrett
+S1130-01082008000900014-1.txt,Diagnósticos,,, K21.0, Enfermedad por reflujo gastroesofágico con esofagitis
+S1130-01082008000900014-1.txt,Diagnósticos,,, K31.1, Estenosis pilórica
+S1130-01082008000900014-1.txt,Procedimientos,,, 0DT90ZZ, Esofaguectomía total transhiatal
+S1130-01082008000900014-1.txt,Procedimientos,,, 0DBN0ZZ, Anastomosis esofágica cervical
+S1130-01082008000900014-1.txt,Procedimientos,,, 0DV80ZZ, Creación de conducto gástrico tubulizado
+S1130-01082008000900014-1.txt,Procedimientos,,, 0D830ZZ, Vagotomía
+S1130-01082008000900014-1.txt,Procedimientos,,, 0D787ZZ, Dilatación pilórica con balón
+S1130-01082008000900014-1.txt,Tratamientos,,, Z51.5, Tratamiento paliativo
+S1130-01082008000900014-1.txt,Tratamientos,,, Z79.899, Uso de metoclopramida
+S1130-01082008000900014-1.txt,Tratamientos,,, Z79.899, Uso de eritromicina
+S1130-01082008000900014-1.txt,Dosis,,, Z92.23, Administración de eritromicina i.v.
+S1130-01082008000900014-1.txt,Dosis,,, Z92.23, Administración de metoclopramida i.v.
+S0376-78922011000200004-1.txt,Diagnóstico,,, N18.9, Insuficiencia renal crónica
+S0376-78922011000200004-1.txt,Diagnóstico,,, T81.4, Infección postoperatoria
+S0376-78922011000200004-1.txt,Diagnóstico,,, M72.6, Fascitis necrosante
+S0376-78922011000200004-1.txt,Procedimiento,,, Z94.0, Trasplante renal
+S0376-78922011000200004-1.txt,Procedimiento,,, 0HBV0ZZ, Desbridamiento quirúrgico
+S0376-78922011000200004-1.txt,Procedimiento,,, 0HRZX73, Terapia de presión negativa
+S0376-78922011000200004-1.txt,Procedimiento,,, 0HR5X73, Injerto autólogo de piel
+S0376-78922011000200004-1.txt,Tratamiento,,, Z79.899, Uso de medicamentos inmunosupresores
+S0376-78922011000200004-1.txt,Tratamiento,,, J01.6, Terapia antibiótica intravenosa
+S0376-78922011000200004-1.txt,Dosis,,, J01MA02, Ciprofloxacino (400 mg/12 horas)
+S0376-78922011000200004-1.txt,Dosis,,, J01XA02, Teicoplanina (400 mg/12 horas)
+S0376-78922011000200004-1.txt,Dosis,,, J01FF01, Clindamicina (600 mg/6 horas)
+S0376-78922011000200004-1.txt,Dosis,,, J01GB01, Tobramicina (50 mg/12 horas)
+S0210-48062007001000004-4.txt,Diagnóstico,,, C62.9," Tumor maligno del testículo, no especificado"
+S0210-48062007001000004-4.txt,Diagnóstico,,, C62.0, Tumor maligno del testículo no descendido
+S0210-48062007001000004-4.txt,Diagnóstico,,, D07.6, Neoplasia intraepitelial del testículo
+S0210-48062007001000004-4.txt,Diagnóstico,,, Z86.19, Antecedentes personales de otras enfermedades del sistema nervioso central
+S0210-48062007001000004-4.txt,Diagnóstico,,, Z90.79, Pérdida adquirida de órgano genital
+S0210-48062007001000004-4.txt,Diagnóstico,,, Z90.49, Pérdida adquirida de parte del sistema digestivo
+S0210-48062007001000004-4.txt,Diagnóstico,,, Z87.39, Antecedentes personales de otras enfermedades del sistema músculo-esquelético
+S0210-48062007001000004-4.txt,Diagnóstico,,, I88.9," Adenopatía, no especificada"
+S0210-48062007001000004-4.txt,Diagnóstico,,, R97.2, Marcadores tumorales elevados
+S0210-48062007001000004-4.txt,Procedimiento,,, 0VB00ZZ," Resección del testículo, vía abierta"
+S0210-48062007001000004-4.txt,Procedimiento,,, B21BZZZ, Tomografía computarizada de abdomen y pelvis
+S0210-48062007001000004-4.txt,Procedimiento,,, 4A1H8ZZ, Ultrasonido de los testículos
+S0210-48062007001000004-4.txt,Procedimiento,,, 3E0Q3GC, Administración de agente antineoplásico por infusión intravenosa
+S0210-48062007001000004-4.txt,Tratamiento,,, Z51.11, Quimioterapia para tratamiento del tumor
+S0210-48062007001000004-4.txt,Tratamiento,,, Z79.890, Uso a largo plazo de terapia hormonal
+S0210-48062007001000004-4.txt,Tratamiento,,, Z51.12, Tratamiento con radioterapia
+S0210-48062007001000004-4.txt,Dosis,,, Z92.21, Historia personal de quimioterapia para neoplasia
+S1130-05582017000200099-1.txt,Diagnósticos,M72.3,Fascitis nodular,,
+S1130-05582017000200099-1.txt,Procedimientos,0HBC0ZX,Biopsia escisional de lesión en encía bajo anestesia local,,
+S1130-05582017000200099-1.txt,Tratamientos,,No aplica (seguimiento sin intervención),,
+S1130-05582017000200099-1.txt,Dosis,,No aplica (sin medicación mencionada),,
+S1699-695X2016000200013-1.txt,Diagnóstico,,, C62.1," Tumor maligno del testículo, no especificado"
+S1699-695X2016000200013-1.txt,Diagnóstico,,, D07.6, Carcinoma in situ del testículo
+S1699-695X2016000200013-1.txt,Diagnóstico,,, N45.1, Orquitis
+S1699-695X2016000200013-1.txt,Diagnóstico,,, C62.0, Seminoma del testículo
+S1699-695X2016000200013-1.txt,Diagnóstico,,, K65.4, Paniculitis mesentérica
+S1699-695X2016000200013-1.txt,Procedimiento,,, 0VB00ZZ," Resección del testículo derecho, abordaje abierto"
+S1699-695X2016000200013-1.txt,Procedimiento,,, BW24ZZZ, Tomografía computarizada (TC) del abdomen y pelvis
+S1699-695X2016000200013-1.txt,Procedimiento,,, B24Z0ZZ, Ecografía del testículo
+S1699-695X2016000200013-1.txt,Tratamiento,,, Z51.11, Admisión para quimioterapia
+S1699-695X2016000200013-1.txt,Tratamiento,,, Z51.0, Admisión para radioterapia
+S1699-695X2016000200013-1.txt,Tratamiento,,, Z08, Seguimiento de neoplasia maligna
+S1699-695X2016000200013-1.txt,Tratamiento,,, Z85.47, Historia personal de neoplasia maligna del testículo
+S1699-695X2016000200013-1.txt,Dosis,,, J90, Uso de cisplatino en quimioterapia
